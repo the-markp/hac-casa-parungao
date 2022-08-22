@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "key": "esphome.7ceabed9c24ac600c892b9fc2eb2b55a",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "dfplayer_0",
+            "mac_address": "FC:F5:C4:AB:86:E9",
+            "compilation_time": "Dec  9 2020, 23:50:48",
+            "model": "PLATFORMIO_ESP12E",
+            "has_deep_sleep": false,
+            "esphome_version": "1.15.3"
+        },
+        "services": []
+    }
+}

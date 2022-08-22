@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "key": "esphome.7afb8c81a0d545b895397de64ce893a1",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "son_basic_0",
+            "mac_address": "24:62:AB:58:F7:85",
+            "compilation_time": "Nov 19 2020, 10:42:42",
+            "model": "PLATFORMIO_ESP01_1M",
+            "has_deep_sleep": false,
+            "esphome_version": "1.15.3"
+        },
+        "services": [],
+        "binary_sensor": [
+            {
+                "object_id": "son_basic_0_button",
+                "key": 3216182896,
+                "name": "son_basic_0 button",
+                "unique_id": "son_basic_0binary_sensorson_basic_0_button",
+                "device_class": "",
+                "is_status_binary_sensor": false
+            }
+        ],
+        "switch": [
+            {
+                "object_id": "son_basic_0_relay",
+                "key": 2375703255,
+                "name": "son_basic_0 relay",
+                "unique_id": "son_basic_0switchson_basic_0_relay",
+                "icon": "",
+                "assumed_state": false
+            }
+        ]
+    }
+}

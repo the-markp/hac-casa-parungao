@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "key": "core.area_registry",
+    "data": {
+        "areas": [
+            {
+                "name": "Living Room",
+                "id": "21cad7b1ae02405a8c6bc687fa13ce64"
+            },
+            {
+                "name": "Kitchen",
+                "id": "708f95912b434967bb9cdbcb6cde104b"
+            },
+            {
+                "name": "Bedroom",
+                "id": "be73a6cbdc254a2eb5231f3921ffe0c3"
+            },
+            {
+                "name": "Outside",
+                "id": "04056ac7c9ac4b3b83d4216776072db8"
+            },
+            {
+                "name": "Utility",
+                "id": "54a6ca07583cf724fcd209da2c0ddd14"
+            },
+            {
+                "name": "Family Hall",
+                "id": "3a2733879b0a38a855f4db148e12e7cf"
+            }
+        ]
+    }
+}

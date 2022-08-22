@@ -1,0 +1,1156 @@
+{
+    "version": 1,
+    "key": "mobile_app",
+    "data": {
+        "binary_sensor": {
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_is_charging": {
+                "unique_id": "is_charging",
+                "state": false,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug-off",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e_is_charging": {
+                "unique_id": "is_charging",
+                "state": false,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug-off",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+                "added": true
+            },
+            "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e_is_charging": {
+                "unique_id": "is_charging",
+                "state": false,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug-off",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+                "added": true
+            },
+            "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080_is_charging": {
+                "unique_id": "is_charging",
+                "state": false,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug-off",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+                "added": true
+            },
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12_is_charging": {
+                "unique_id": "is_charging",
+                "state": false,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug-off",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "added": true
+            },
+            "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d_is_charging": {
+                "unique_id": "is_charging",
+                "state": false,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug-off",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+                "added": true
+            },
+            "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f_is_charging": {
+                "unique_id": "is_charging",
+                "state": true,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+                "added": true
+            },
+            "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797_is_charging": {
+                "unique_id": "is_charging",
+                "state": true,
+                "type": "binary_sensor",
+                "icon": "mdi:power-plug",
+                "attributes": {},
+                "name": "Is Charging",
+                "device_class": "plug",
+                "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+                "added": true
+            }
+        },
+        "deleted_ids": [],
+        "sensor": {
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_activity": {
+                "added": true,
+                "attributes": {
+                    "Confidence": "High",
+                    "Types": [
+                        "Unknown"
+                    ]
+                },
+                "icon": "mdi:help-circle",
+                "name": "Activity",
+                "state": "Unknown",
+                "type": "sensor",
+                "unique_id": "activity",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_battery_level": {
+                "added": true,
+                "attributes": {
+                    "Battery State": "Not Charging"
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-10",
+                "name": "Battery Level",
+                "state": 14,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_battery_state": {
+                "added": true,
+                "attributes": {
+                    "Battery Level": 14
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-10",
+                "name": "Battery State",
+                "state": "Not Charging",
+                "type": "sensor",
+                "unique_id": "battery_state",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_connectivity_bssid": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi-star",
+                "name": "BSSID",
+                "state": "bc:c0:f:80:98:0",
+                "type": "sensor",
+                "unique_id": "connectivity_bssid",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_connectivity_connection_type": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi",
+                "name": "Connection Type",
+                "state": "Wi-Fi",
+                "type": "sensor",
+                "unique_id": "connectivity_connection_type",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_connectivity_sim_1": {
+                "added": true,
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000001",
+                    "Carrier Name": "SMART",
+                    "Current Radio Technology": "Long-Term Evolution (LTE)",
+                    "ISO Country Code": "ph",
+                    "Mobile Country Code": "515",
+                    "Mobile Network Code": "03"
+                },
+                "icon": "mdi:sim",
+                "name": "SIM 1",
+                "state": "SMART",
+                "type": "sensor",
+                "unique_id": "connectivity_sim_1",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_connectivity_ssid": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi",
+                "name": "SSID",
+                "state": "Fox River State Penitentiary",
+                "type": "sensor",
+                "unique_id": "connectivity_ssid",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_geocoded_location": {
+                "added": true,
+                "attributes": {
+                    "Administrative Area": "Pampanga",
+                    "Areas Of Interest": [
+                        "Luzon Island"
+                    ],
+                    "Country": "Philippines",
+                    "ISO Country Code": "PH",
+                    "Inland Water": "N/A",
+                    "Locality": "Mexico",
+                    "Location": [
+                        15.060897827148438,
+                        120.73036194332698
+                    ],
+                    "Name": "2021",
+                    "Ocean": "N/A",
+                    "Postal Code": "2021",
+                    "Sub Administrative Area": "N/A",
+                    "Sub Locality": "San Jose Matulid",
+                    "Sub Thoroughfare": "N/A",
+                    "Thoroughfare": "N/A",
+                    "Time Zone": "Asia/Manila"
+                },
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "Pampanga\n2021 Mexico\nPhilippines",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_last_update_trigger": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:cellphone-wireless",
+                "name": "Last Update Trigger",
+                "state": "Initial",
+                "type": "sensor",
+                "unique_id": "last_update_trigger",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_pedometer_avg_active_pace": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:speedometer",
+                "name": "Average Active Pace",
+                "state": 7,
+                "type": "sensor",
+                "unique_id": "pedometer_avg_active_pace",
+                "unit_of_measurement": "m/s",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_pedometer_distance": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:hiking",
+                "name": "Distance",
+                "state": 3,
+                "type": "sensor",
+                "unique_id": "pedometer_distance",
+                "unit_of_measurement": "m",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_pedometer_floors_ascended": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:slope-uphill",
+                "name": "Floors Ascended",
+                "state": 0,
+                "type": "sensor",
+                "unique_id": "pedometer_floors_ascended",
+                "unit_of_measurement": "floors",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_pedometer_floors_descended": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:slope-downhill",
+                "name": "Floors Descended",
+                "state": 0,
+                "type": "sensor",
+                "unique_id": "pedometer_floors_descended",
+                "unit_of_measurement": "floors",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300_pedometer_steps": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:walk",
+                "name": "Steps",
+                "state": 6,
+                "type": "sensor",
+                "unique_id": "pedometer_steps",
+                "unit_of_measurement": "steps",
+                "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+            },
+            "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558_battery_level": {
+                "added": true,
+                "attributes": {
+                    "charger_type": "N/A",
+                    "is_charging": false
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-50",
+                "name": "Battery Level",
+                "state": 54,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558"
+            },
+            "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558_geocoded_location": {
+                "added": true,
+                "attributes": {
+                    "Administrative Area": "Central Luzon",
+                    "Country": "Philippines",
+                    "ISO Country Code": "PH",
+                    "Locality": "Mexico",
+                    "Location": [
+                        15.060794599999998,
+                        120.73052009999999
+                    ],
+                    "Postal Code": null,
+                    "Sub Administrative Area": "Pampanga",
+                    "Sub Locality": null,
+                    "Sub Thoroughfare": "405",
+                    "Thoroughfare": "Boulevard Street"
+                },
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "405 Boulevard St, Mexico, Pampanga, Philippines",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558"
+            },
+            "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558_wifi_connection": {
+                "added": true,
+                "attributes": {
+                    "bssid": "bc:c0:0f:80:98:00",
+                    "frequency": 2442,
+                    "ip_address": "192.168.1.252",
+                    "is_hidden": false,
+                    "link_speed": 144,
+                    "signal_level": -58
+                },
+                "icon": "mdi:wifi-strength-2",
+                "name": "Wifi Connection",
+                "state": "Fox River State Penitentiary",
+                "type": "sensor",
+                "unique_id": "wifi_connection",
+                "webhook_id": "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558"
+            },
+            "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7_battery_level": {
+                "added": true,
+                "attributes": {
+                    "charger_type": "N/A",
+                    "is_charging": false
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-10",
+                "name": "Battery Level",
+                "state": 18,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7"
+            },
+            "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7_geocoded_location": {
+                "added": true,
+                "attributes": {
+                    "Administrative Area": "Central Luzon",
+                    "Country": "Philippines",
+                    "ISO Country Code": "PH",
+                    "Locality": "Mexico",
+                    "Location": [
+                        15.060794599999998,
+                        120.73052009999999
+                    ],
+                    "Postal Code": null,
+                    "Sub Administrative Area": "Pampanga",
+                    "Sub Locality": null,
+                    "Sub Thoroughfare": "405",
+                    "Thoroughfare": "Boulevard Street"
+                },
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "405 Boulevard St, Mexico, Pampanga, Philippines",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7"
+            },
+            "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7_wifi_connection": {
+                "added": true,
+                "attributes": {
+                    "bssid": "02:00:00:00:00:00",
+                    "frequency": 2442,
+                    "ip_address": "192.168.1.4",
+                    "is_hidden": true,
+                    "link_speed": 240,
+                    "signal_level": -1
+                },
+                "icon": "mdi:wifi-strength-off",
+                "name": "Wifi Connection",
+                "state": "<not connected>",
+                "type": "sensor",
+                "unique_id": "wifi_connection",
+                "webhook_id": "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_battery_level": {
+                "added": true,
+                "attributes": {
+                    "Battery State": "Not Charging"
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-50",
+                "name": "Battery Level",
+                "state": 50,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_battery_state": {
+                "added": true,
+                "attributes": {
+                    "Battery Level": 50
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-50",
+                "name": "Battery State",
+                "state": "Not Charging",
+                "type": "sensor",
+                "unique_id": "battery_state",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_connectivity_bssid": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi-star",
+                "name": "BSSID",
+                "state": "bc:c0:f:80:98:0",
+                "type": "sensor",
+                "unique_id": "connectivity_bssid",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_connectivity_cellular_provider": {
+                "added": true,
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "N/A",
+                    "Carrier Name": "Globe",
+                    "Current Radio Technology": "Long-Term Evolution (LTE)",
+                    "ISO Country Code": "ph",
+                    "Mobile Country Code": "515",
+                    "Mobile Network Code": "02"
+                },
+                "icon": "mdi:sim",
+                "name": "Cellular Provider",
+                "state": "Globe",
+                "type": "sensor",
+                "unique_id": "connectivity_cellular_provider",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_connectivity_connection_type": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi",
+                "name": "Connection Type",
+                "state": "Wi-Fi",
+                "type": "sensor",
+                "unique_id": "connectivity_connection_type",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_connectivity_ssid": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi",
+                "name": "SSID",
+                "state": "Fox River State Penitentiary",
+                "type": "sensor",
+                "unique_id": "connectivity_ssid",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_geocoded_location": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "Unknown",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060_last_update_trigger": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:cellphone-wireless",
+                "name": "Last Update Trigger",
+                "state": "Initial",
+                "type": "sensor",
+                "unique_id": "last_update_trigger",
+                "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_battery_level": {
+                "unique_id": "battery_level",
+                "state": 35,
+                "type": "sensor",
+                "icon": "mdi:battery-30",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_battery_state": {
+                "unique_id": "battery_state",
+                "state": "discharging",
+                "type": "sensor",
+                "icon": "mdi:battery-minus",
+                "attributes": {},
+                "name": "Battery State",
+                "device_class": "battery",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_charger_type": {
+                "unique_id": "charger_type",
+                "state": "none",
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_last_reboot": {
+                "unique_id": "last_reboot",
+                "state": "2022-07-21T06:13:38Z",
+                "type": "sensor",
+                "icon": "mdi:restart",
+                "attributes": {
+                    "Local Time": "Thu Jul 21 14:13:38 GMT+08:00 2022",
+                    "Time in Milliseconds": 1658384018524
+                },
+                "name": "Last Reboot",
+                "device_class": "timestamp",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_light_sensor": {
+                "unique_id": "light_sensor",
+                "state": "7",
+                "type": "sensor",
+                "icon": "mdi:brightness-5",
+                "attributes": {},
+                "name": "Light Sensor",
+                "device_class": "illuminance",
+                "unit_of_measurement": "lx",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_next_alarm": {
+                "unique_id": "next_alarm",
+                "state": "unavailable",
+                "type": "sensor",
+                "icon": "mdi:alarm",
+                "attributes": {
+                    "Local Time": "",
+                    "Package": "",
+                    "Time in Milliseconds": 0
+                },
+                "name": "Next Alarm",
+                "device_class": "timestamp",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_proximity_sensor": {
+                "unique_id": "proximity_sensor",
+                "state": "far",
+                "type": "sensor",
+                "icon": "mdi:leak",
+                "attributes": {},
+                "name": "Proximity Sensor",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_storage_sensor": {
+                "unique_id": "storage_sensor",
+                "state": 56,
+                "type": "sensor",
+                "icon": "mdi:harddisk",
+                "attributes": {
+                    "Free internal storage": "59GB",
+                    "Total internal storage": "105GB"
+                },
+                "name": "Internal Storage",
+                "unit_of_measurement": "%",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_audio_sensor": {
+                "unique_id": "audio_sensor",
+                "state": "normal",
+                "type": "sensor",
+                "icon": "mdi:volume-high",
+                "attributes": {},
+                "name": "Ringer Mode",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_bluetooth_connection": {
+                "unique_id": "bluetooth_connection",
+                "state": 0,
+                "type": "sensor",
+                "icon": "mdi:bluetooth",
+                "attributes": {
+                    "connected_not_paired_devices": [],
+                    "connected_paired_devices": [],
+                    "paired_devices": [
+                        "03:41:6E:43:84:B3",
+                        "EA:1B:BE:2F:30:2E",
+                        "41:42:7A:16:E8:33",
+                        "00:02:5B:38:5C:9C",
+                        "32:78:12:52:99:DF"
+                    ]
+                },
+                "name": "Bluetooth Connection",
+                "unit_of_measurement": "connection(s)",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e_battery_level": {
+                "unique_id": "battery_level",
+                "state": 46,
+                "type": "sensor",
+                "icon": "mdi:battery-40",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+                "added": true
+            },
+            "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e_battery_state": {
+                "unique_id": "battery_state",
+                "state": "discharging",
+                "type": "sensor",
+                "icon": "mdi:battery-minus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+                "added": true
+            },
+            "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e_charger_type": {
+                "unique_id": "charger_type",
+                "state": "none",
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+                "added": true
+            },
+            "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_dnd_sensor": {
+                "unique_id": "dnd_sensor",
+                "state": "off",
+                "type": "sensor",
+                "icon": "mdi:minus-circle",
+                "attributes": {},
+                "name": "Do Not Disturb Sensor",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e_battery_level": {
+                "unique_id": "battery_level",
+                "state": 69,
+                "type": "sensor",
+                "icon": "mdi:battery-60",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+                "added": true
+            },
+            "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e_battery_state": {
+                "unique_id": "battery_state",
+                "state": "discharging",
+                "type": "sensor",
+                "icon": "mdi:battery-minus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+                "added": true
+            },
+            "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e_charger_type": {
+                "unique_id": "charger_type",
+                "state": "none",
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+                "added": true
+            },
+            "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+                "added": true
+            },
+            "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 29.0,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+                "added": true
+            },
+            "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 30.0,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+                "added": true
+            },
+            "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 32.0,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+                "added": true
+            },
+            "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080_battery_level": {
+                "unique_id": "battery_level",
+                "state": 32,
+                "type": "sensor",
+                "icon": "mdi:battery-30",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+                "added": true
+            },
+            "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080_battery_state": {
+                "unique_id": "battery_state",
+                "state": "discharging",
+                "type": "sensor",
+                "icon": "mdi:battery-minus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+                "added": true
+            },
+            "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080_charger_type": {
+                "unique_id": "charger_type",
+                "state": "none",
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+                "added": true
+            },
+            "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+                "added": true
+            },
+            "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 37.0,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+                "added": true
+            },
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12_battery_level": {
+                "unique_id": "battery_level",
+                "state": 61,
+                "type": "sensor",
+                "icon": "mdi:battery-60",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "added": true
+            },
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12_battery_state": {
+                "unique_id": "battery_state",
+                "state": "discharging",
+                "type": "sensor",
+                "icon": "mdi:battery-minus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "added": true
+            },
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12_charger_type": {
+                "unique_id": "charger_type",
+                "state": "none",
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "added": true
+            },
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "added": true
+            },
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 24.0,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_battery_level": {
+                "attributes": {},
+                "device_class": "battery",
+                "icon": "mdi:battery-70",
+                "name": "Battery Level",
+                "state": 70,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_battery_state": {
+                "attributes": {
+                    "Low Power Mode": false
+                },
+                "icon": "mdi:battery-70",
+                "name": "Battery State",
+                "state": "Not Charging",
+                "type": "sensor",
+                "unique_id": "battery_state",
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_storage": {
+                "attributes": {
+                    "Available": "10.59 GB",
+                    "Available (Important)": "22.34 GB",
+                    "Available (Opportunistic)": "28.32 GB",
+                    "Total": "63.87 GB"
+                },
+                "icon": "mdi:database",
+                "name": "Storage",
+                "state": "44.35",
+                "type": "sensor",
+                "unique_id": "storage",
+                "unit_of_measurement": "% available",
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_connectivity_ssid": {
+                "icon": "mdi:wifi-off",
+                "name": "SSID",
+                "state": "Not Connected",
+                "type": "sensor",
+                "unique_id": "connectivity_ssid",
+                "attributes": {},
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_connectivity_bssid": {
+                "icon": "mdi:wifi-off",
+                "name": "BSSID",
+                "state": "Not Connected",
+                "type": "sensor",
+                "unique_id": "connectivity_bssid",
+                "attributes": {},
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_connectivity_sim_2": {
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000002",
+                    "Carrier Name": "N/A",
+                    "ISO Country Code": "N/A",
+                    "Mobile Country Code": "N/A",
+                    "Mobile Network Code": "N/A"
+                },
+                "icon": "mdi:sim",
+                "name": "SIM 2",
+                "state": "N/A",
+                "type": "sensor",
+                "unique_id": "connectivity_sim_2",
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_connectivity_sim_1": {
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000001",
+                    "Carrier Name": "SMART",
+                    "Current Radio Technology": "Long-Term Evolution (LTE)",
+                    "ISO Country Code": "ph",
+                    "Mobile Country Code": "515",
+                    "Mobile Network Code": "03"
+                },
+                "icon": "mdi:sim",
+                "name": "SIM 1",
+                "state": "SMART",
+                "type": "sensor",
+                "unique_id": "connectivity_sim_1",
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_geocoded_location": {
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "Unknown",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "attributes": {},
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_connectivity_connection_type": {
+                "attributes": {},
+                "icon": "mdi:wifi",
+                "name": "Connection Type",
+                "state": "Wi-Fi",
+                "type": "sensor",
+                "unique_id": "connectivity_connection_type",
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273_last_update_trigger": {
+                "icon": "mdi:cellphone-wireless",
+                "name": "Last Update Trigger",
+                "state": "Launch",
+                "type": "sensor",
+                "unique_id": "last_update_trigger",
+                "attributes": {},
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "added": true
+            },
+            "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d_battery_level": {
+                "unique_id": "battery_level",
+                "state": 80,
+                "type": "sensor",
+                "icon": "mdi:battery-80",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+                "added": true
+            },
+            "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d_battery_state": {
+                "unique_id": "battery_state",
+                "state": "discharging",
+                "type": "sensor",
+                "icon": "mdi:battery-minus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+                "added": true
+            },
+            "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d_charger_type": {
+                "unique_id": "charger_type",
+                "state": "none",
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+                "added": true
+            },
+            "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+                "added": true
+            },
+            "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 34.0,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+                "added": true
+            },
+            "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f_battery_level": {
+                "unique_id": "battery_level",
+                "state": 79,
+                "type": "sensor",
+                "icon": "mdi:battery-70",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+                "added": true
+            },
+            "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f_battery_state": {
+                "unique_id": "battery_state",
+                "state": "charging",
+                "type": "sensor",
+                "icon": "mdi:battery-plus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+                "added": true
+            },
+            "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f_charger_type": {
+                "unique_id": "charger_type",
+                "state": "ac",
+                "type": "sensor",
+                "icon": "mdi:power-plug",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+                "added": true
+            },
+            "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+                "added": true
+            },
+            "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 39.4,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+                "added": true
+            },
+            "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797_battery_level": {
+                "unique_id": "battery_level",
+                "state": 100,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Level",
+                "device_class": "battery",
+                "unit_of_measurement": "%",
+                "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+                "added": true
+            },
+            "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797_battery_state": {
+                "unique_id": "battery_state",
+                "state": "charging",
+                "type": "sensor",
+                "icon": "mdi:battery-plus",
+                "attributes": {},
+                "name": "Battery State",
+                "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+                "added": true
+            },
+            "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797_charger_type": {
+                "unique_id": "charger_type",
+                "state": "ac",
+                "type": "sensor",
+                "icon": "mdi:power-plug",
+                "attributes": {},
+                "name": "Charger Type",
+                "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+                "added": true
+            },
+            "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797_battery_health": {
+                "unique_id": "battery_health",
+                "state": "good",
+                "type": "sensor",
+                "icon": "mdi:battery-heart-variant",
+                "attributes": {},
+                "name": "Battery Health",
+                "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+                "added": true
+            },
+            "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797_battery_temperature": {
+                "unique_id": "battery_temperature",
+                "state": 42.4,
+                "type": "sensor",
+                "icon": "mdi:battery",
+                "attributes": {},
+                "name": "Battery Temperature",
+                "device_class": "temperature",
+                "unit_of_measurement": "\u00b0C",
+                "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+                "added": true
+            }
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.be0f46659d6733662411051886bc7118",
+  "data": {
+    "device_info": {
+      "uses_password": true,
+      "name": "fy_b10_0",
+      "mac_address": "EC:FA:BC:5F:89:5B",
+      "compilation_time": "Mar 22 2022, 21:28:54",
+      "model": "esp12e",
+      "has_deep_sleep": false,
+      "esphome_version": "2021.11.4",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 6
+    },
+    "sensor": [
+      {
+        "object_id": "water_consumption",
+        "key": 4226869642,
+        "name": "water consumption",
+        "unique_id": "fy_b10_0sensorwater_consumption",
+        "disabled_by_default": false,
+        "icon": "mdi:pulse",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "L",
+        "accuracy_decimals": 4,
+        "force_update": false,
+        "state_class": 0,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "main_water_line",
+        "key": 2128990487,
+        "name": "Main water line",
+        "unique_id": "fy_b10_0sensormain_water_line",
+        "disabled_by_default": false,
+        "icon": "mdi:pulse",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "L/min",
+        "accuracy_decimals": 2,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      }
+    ],
+    "text_sensor": [],
+    "switch": [
+      {
+        "object_id": "fy_b10_0_restart",
+        "key": 1871227443,
+        "name": "fy_b10_0 restart",
+        "unique_id": "fy_b10_0switchfy_b10_0_restart",
+        "disabled_by_default": false,
+        "icon": "mdi:restart",
+        "entity_category": 1,
+        "assumed_state": false,
+        "device_class": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.f128ec6fb5f42f59ab3cb3ef7a692400",
+  "data": {
+    "device_info": {
+      "uses_password": true,
+      "name": "ds18b20_0",
+      "mac_address": "84:CC:A8:A2:16:D8",
+      "compilation_time": "Aug 22 2022, 11:28:30",
+      "model": "esp12e",
+      "has_deep_sleep": false,
+      "esphome_version": "2022.2.6",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 6
+    },
+    "sensor": [
+      {
+        "object_id": "ds18b20_temp_sensor_0",
+        "key": 3826377752,
+        "name": "DS18B20 Temp sensor 0",
+        "unique_id": "dallas-360114533ec5aa28",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "temperature",
+        "unit_of_measurement": "°C",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      }
+    ],
+    "text_sensor": []
+  }
+}

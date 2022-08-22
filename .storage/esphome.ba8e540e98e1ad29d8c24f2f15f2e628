@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "key": "esphome.ba8e540e98e1ad29d8c24f2f15f2e628",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "pilot",
+            "mac_address": "24:62:AB:58:F7:85",
+            "compilation_time": "Dec  3 2021, 01:21:42",
+            "model": "esp01_1m",
+            "has_deep_sleep": false,
+            "esphome_version": "2021.11.4"
+        },
+        "services": [],
+        "binary_sensor": [],
+        "switch": [],
+        "light": [
+            {
+                "object_id": "pilot",
+                "key": 1842327993,
+                "name": "pilot",
+                "unique_id": "pilotlightpilot",
+                "supports_brightness": true,
+                "supports_rgb": true,
+                "supports_white_value": true,
+                "supports_color_temperature": true,
+                "min_mireds": 153.84616088867188,
+                "max_mireds": 357.1428527832031,
+                "effects": []
+            }
+        ]
+    }
+}

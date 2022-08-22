@@ -1,0 +1,11 @@
+camera.bran: {}
+person.yan:
+  entity_picture: /local/profile_pic/Yan.jpg
+person.mark_parungao:
+  entity_picture: /local/profile_pic/Mark.jpg
+person.max:
+  entity_picture: /local/profile_pic/Max.jpg
+person.rap:
+  entity_picture: /local/profile_pic/Rap.jpg
+person.joel_jr:
+  entity_picture: /local/profile_pic/Joeldp.jpg

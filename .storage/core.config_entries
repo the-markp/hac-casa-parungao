@@ -1,0 +1,621 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "4b55379d3dee499a866547764e1ae13f",
+        "version": 1,
+        "domain": "met",
+        "title": "Home",
+        "data": {
+          "track_home": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "fb87c7560251487489e51532f828cbd7",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "MI 8",
+        "data": {
+          "app_data": {
+            "push_token": "efNoy750EJY:APA91bErTzCAInbOmovyDuGC5v4p3Yfasts_87g8rG0pZboDlLMIlEt2sTUH62G_z_1sqyI4W0rgFjG_c9Pu59zsF02g0R3X0mJP5bbq-g1IqPaUIHTBUyHT86CvCaBGV2WZCFh8UZlx",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1"
+          },
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "1.8.0-144 (144)",
+          "device_id": "84406345f5ea58c1",
+          "device_name": "MI 8",
+          "manufacturer": "Xiaomi",
+          "model": "MI 8",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0",
+          "webhook_id": "72bd1a8e47268d218f2feb63eb1bc57316fadce9b9cf3eef76d043ca84ed8558"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-84406345f5ea58c1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f057dd7bbbcf4cacac56ceccd3a44238",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Alyanna Alexandria’s iPhone",
+        "data": {
+          "app_data": {
+            "push_token": "fSdR1GTiXGk:APA91bF4TuGoqlk5NgL6sEcLM90Imv-qCxXesEJrR4TZDOIRyX2bUMm0985O-7_LX4Ys5HWuQfsmSCu9oa10b4ogatx2OhPvlVUidFCrV2-1-XVlR-7Ez2RtUzb2zaUHw4sFyFMRVinb",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "app_id": "io.robbie.HomeAssistant",
+          "app_name": "Home Assistant",
+          "app_version": "2.0.0 (69)",
+          "device_id": "0af2b45cee244f379147c21b27bd2f8e",
+          "device_name": "Alyanna Alexandria’s iPhone",
+          "manufacturer": "Apple",
+          "model": "iPhone 7",
+          "os_name": "iOS",
+          "os_version": "13.3.1",
+          "secret": "59ec9511480c63d5dabab3274bf7d09f0ab377810a3392fafc0398cb4bfbe623",
+          "supports_encryption": true,
+          "user_id": "12c1addf612541018926e0f9fd9bc107",
+          "webhook_id": "535c2a2edb25db543d1eed6a936d26e9565a46f3d8105ab7e478b65eef77e300"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "bee8818c82f843a3b91258c5a99018b2",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Ralph Laurence's iPhone",
+        "data": {
+          "app_data": {
+            "push_token": "c3HZO_6fY6M:APA91bF3pYvGsg9RftkCcisUbR0-CeMnzaaAROpw-Nrh1GuKvDDAYBWVs2x5TWSSamBL4fBeFXYJUsFF556gRiY4BOYjpuz-3nzcJUhgaQrlm4d9eIpCap3EXIdNpeS9RAGre5LAaeXD",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "app_id": "io.robbie.HomeAssistant",
+          "app_name": "Home Assistant",
+          "app_version": "2.0.0 (69)",
+          "device_id": "3f57026bac224d0ea21bec6760bd7f54",
+          "device_name": "Ralph Laurence's iPhone",
+          "manufacturer": "Apple",
+          "model": "iPhone SE",
+          "os_name": "iOS",
+          "os_version": "11.4.1",
+          "secret": "cb651c946e4aada3a467685c9022f11caa020d8a5bf1db2b8fa16230da0a3dad",
+          "supports_encryption": true,
+          "user_id": "e7650d48c83643e1be102b1734963308",
+          "webhook_id": "c046a51dc247bb6040a8ae8f2a10ae3432dc960e81d44e4bbb593706af2ed060"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "534b2dc4e9584ce2a1c287a630eaec5e",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "YAL-L21",
+        "data": {
+          "app_data": {
+            "push_token": "cM0M1aV28Qc:APA91bGJtvgrvt8JHCKoiqEgdyfj3YfDd5GH5az2yEvg2y4Xq_9s2I_BxUnciKc0TPbBwu6oSfAxJTbTTjBI9KOHgaePeA9Q3x9WpXb4MKp3kCi5uzcmq-3--EN2dKtGpOVOJb5j93FG",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1"
+          },
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "1.8.0-144 (144)",
+          "device_id": "532f551d008259e7",
+          "device_name": "YAL-L21",
+          "manufacturer": "HUAWEI",
+          "model": "YAL-L21",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "user_id": "31af04e25b984a83b641119940d693d9",
+          "webhook_id": "92dd86fdbe2c5085c6451870cd56bdcf571cca9c62a59cffbf19c25c64ec00f7"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-532f551d008259e7",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1b904e533f6c2a0e3da3b20e62ca90df",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Nokia 8.1",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.3.0-full (2164)",
+          "device_name": "Nokia 8.1",
+          "manufacturer": "HMD Global",
+          "model": "Nokia 8.1",
+          "os_name": "Android",
+          "os_version": "30",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "fE0VubBamDw:APA91bG5TLcgLnzlRUh-HuSXUF50WCXMF-UJn609l3ZxHqIYdM2FWMNeOB7RMoZCoNOjiB5kdEgA8qmQPVotWPL2GNaajSCrfaQYl45d3MenlVRyY1txLm10ZSvgke_kxlIP1JKy-pNd"
+          },
+          "device_id": "e3cfeff3f4d98639",
+          "webhook_id": "bb94a7802cce4fab868fb46ce127397c2be07873ab12913a0425a8fb1aa4b8a0",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-e3cfeff3f4d98639",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "27d7638d108298d046f0c0b9aeae8eff",
+        "version": 1,
+        "domain": "cast",
+        "title": "Google Cast",
+        "data": {
+          "user_id": "dc7052630b91469da61f8eb28a472560"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "cast",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "9ab58a6cd46596f2b553dc95ef85d882",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Yan's phone",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2021.9.0-full (723)",
+          "device_name": "Yan's phone",
+          "manufacturer": "Xiaomi",
+          "model": "MI 8",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "cgvfnQ5CThS5J8FiWEYeIG:APA91bEcOqERxnmlWVG-c135_RhsOTXwpU0h014T0uhXmAhZbhc4OgG2IW8PCyiie4apQqz2pBG-o50dIfgkSs75bV20GeUNPC3AsFl6peZ_uIy25U1fRSpPymPZT45XH-9n9u95KLqB"
+          },
+          "device_id": "35a56f62e453e3af",
+          "webhook_id": "4a68d78bf791dbac90eeef4481fbba4418fe0864c60da3225eba1d6a5b1a6f6e",
+          "user_id": "12c1addf612541018926e0f9fd9bc107"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-35a56f62e453e3af",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "532b3cc5f3c3252de147db704f00bfb3",
+        "version": 1,
+        "domain": "esphome",
+        "title": "Ignored",
+        "data": {
+          "host": "192.168.1.224"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "ds18b20_0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "78292cd6bb1777d2e43df5e3f65ae5c4",
+        "version": 1,
+        "domain": "shopping_list",
+        "title": "Household backlog",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": "shopping_list",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d2fb304dc8269cd43cbd7e9bbde25859",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Ivan's phone",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.6.0-full (2398)",
+          "device_name": "Ivan's phone",
+          "manufacturer": "Xiaomi",
+          "model": "2201123G",
+          "os_name": "Android",
+          "os_version": "31",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "czxHQwy_SPKqITA5YCeUg9:APA91bHn6S8koqlwzXYWq7QrkVfFTC_UmthZ-memSUBdPg_AmycM_1erE9RfIKwc9w1eu5u5Nz0Hla6IalyVGBGQ3mLDR6R2gSAmZeIHpI-4ZZDrMAQqvnSJFetT9OdRLYp7VfO9oDez"
+          },
+          "device_id": "e2e64e712884c0f8",
+          "webhook_id": "7ecb35045a34237600333367b8eab6a4c60e3c586e51d1dc0f0167304ad3b99e",
+          "user_id": "32f5425d950445c18583374dbc50c05d"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-e2e64e712884c0f8",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b046cc7e9f694ead7690e3de82b82935",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "MI 8",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.2.1-full (2058)",
+          "device_name": "MI 8",
+          "manufacturer": "Xiaomi",
+          "model": "MI 8",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "eToO0fyjTkOzrz5rgnXqfQ:APA91bHRnPE4A5QMzUe4oYR7GajGct_XHoaF9k_-9k2_B8_B9KJvajr9begOxdWMqPKs3aMa2V5Cv3KNgZxP9dGNmfmFDi-H3-axsv1Lht_3Po1qA9ZUPFs_BhaLNrxJXYu2WE5Wazaj"
+          },
+          "device_id": "61767be785d8df7a",
+          "webhook_id": "340a6511855973adfba89d51f033503231f64fbce2cbf675ead05a95f94b3080",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-61767be785d8df7a",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f128ec6fb5f42f59ab3cb3ef7a692400",
+        "version": 1,
+        "domain": "esphome",
+        "title": "ds18b20_0",
+        "data": {
+          "host": "192.168.1.224",
+          "port": 6053,
+          "password": "0918"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "dd0aade9f240bb29b1008998f321c3a4",
+        "version": 1,
+        "domain": "esphome",
+        "title": "son_basic_0",
+        "data": {
+          "host": "192.168.1.33",
+          "port": 6053,
+          "password": "0918"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "son_basic_0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "62dab0c516a14a6ece33d7a9afa7a927",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "M2007J3SG",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.2.1-full (2058)",
+          "device_name": "M2007J3SG",
+          "manufacturer": "Xiaomi",
+          "model": "M2007J3SG",
+          "os_name": "Android",
+          "os_version": "30",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "f3RYjOYPS3q2dzjxuGcEpq:APA91bE1KdW70YC7OScmig7TUTRNYTOyTZfPmkafHYJc0OmWgTCZtmdKuCTV5K2ya5MPz9lrNjTEeTaQTrBStOYBF_yVUwV863kA2F-LGA8PCLvL4s1m_SzwnJgkjQ3U78Ff_WCW4Qml"
+          },
+          "device_id": "86721bdb9c6c34b5",
+          "cloudhook_url": "https://hooks.nabu.casa/gAAAAABiEPbV5KMpJJjN0GKJNqHHc_L99A3iuSBeqHWXZ5y20ZYCLTjBa53q5qlEc5U0ghZb1Xml3je1n8LPhem4c0TkyeVmuyK3ytf8D7vpCemLIdtrbeaWQrlsNtNZ9qqlGSRzmCo8_-mdQjRJ52ma7TWPBO6zM9GKefm6VN2JSBuATnp96vU=",
+          "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-86721bdb9c6c34b5",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "acf4830669343e58d3da6feb87606f35",
+        "version": 1,
+        "domain": "esphome",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "dfplayer_0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "97e841f5cfcc0bf5ac340d0f0882b42d",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Alyanna",
+        "data": {
+          "os_version": "15.4",
+          "model": "iPhone13,2",
+          "manufacturer": "Apple",
+          "app_data": {
+            "push_token": "eOORCgfkbEPsgVtTOEWiJh:APA91bHRFjElzdNINU2VCeER2xherBslL4cvlcOd2Wqz2XKKUD95owH_dK5Ce0U0hviiyYubumreN7I_UBfYXWfKTOBC57vyB2DXT2zF20M4KM_l0pSOb5FIn1460rnD6MVp1M7-Mmu-",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "device_name": "Alyanna",
+          "supports_encryption": true,
+          "device_id": "6201EF49-0024-44EE-858E-47B97CE78FF4",
+          "app_name": "Home Assistant",
+          "app_id": "io.robbie.HomeAssistant",
+          "app_version": "2022.3 (2022.358)",
+          "os_name": "iOS",
+          "cloudhook_url": "https://hooks.nabu.casa/gAAAAABiKJMGKlAdPoGB6V_dSdu_FPrgyNcBrANg1YC2p07l2uQAszXIdOz9p8fA7NxdPtuLBWid5GihzreNdR6OG1JwzVx_ibnxOw0yow8P7gm7SdBMz55mepGKcyHr8owGURWAD4UinHDarUvOp3gopEx-d6GbyIHwsgHdYE1N15oCuLTMWGg=",
+          "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+          "secret": "b2e50fd6bf857c6b445d1ac62194a37670c0c1a86f061b25cf7702443f41ce6d",
+          "user_id": "12c1addf612541018926e0f9fd9bc107"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-6201EF49-0024-44EE-858E-47B97CE78FF4",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "117e247a6db98239bf0fe4166136c887",
+        "version": 1,
+        "domain": "esphome",
+        "title": "kit_gar",
+        "data": {
+          "host": "192.168.1.27",
+          "port": 6053,
+          "password": "0918"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "kit_gar",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d64cdffde11bf8eaa50961823fddf81c",
+        "version": 1,
+        "domain": "esphome",
+        "title": "bme680_0",
+        "data": {
+          "host": "192.168.1.2",
+          "port": 6053,
+          "password": "0918"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "bme680_0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "fbd2dbe9bf0724a3a26034c1445a45cd",
+        "version": 1,
+        "domain": "esphome",
+        "title": "pzem_em_1",
+        "data": {
+          "host": "192.168.1.3",
+          "port": 6053,
+          "password": "0918"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "pzem_em_1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "be0f46659d6733662411051886bc7118",
+        "version": 1,
+        "domain": "esphome",
+        "title": "fy_b10_0",
+        "data": {
+          "host": "192.168.1.221",
+          "port": 6053,
+          "password": "0918"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "fy_b10_0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "9fbe69dd4c2c63a68b88a8ab49adeb5d",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "SM-G998B",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.6.0-full (2398)",
+          "device_name": "SM-G998B",
+          "manufacturer": "samsung",
+          "model": "SM-G998B",
+          "os_name": "Android",
+          "os_version": "31",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "fbIxyHkBQE-KT9RBJNdEja:APA91bF5hmEu-20yikrs-LZi-syv03AX19Cu_vDFkan7Ky8IKkTbJFOePlniETsJpAVSA7hVOq2uuKA2i5dBACiJ98qwY-Yq-m6K_LANyu8Rctr2x0z4DzGAc_2FsBTL4H9CmbVx4cVo"
+          },
+          "device_id": "cd6259c986ea3a14",
+          "webhook_id": "205ed902a83788a3999e6638d49c4718c7396255aa4f2fc767eab96e8390e44d",
+          "user_id": "e21a158e5f434d6fa29af1d75cefd28f"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-cd6259c986ea3a14",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "47bfc14949728c06ddfe61e6d396354c",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "S10E",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.3.0-full (2164)",
+          "device_name": "S10E",
+          "manufacturer": "samsung",
+          "model": "SM-G970U1",
+          "os_name": "Android",
+          "os_version": "31",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "fh7NJRTPRzS9IO9ifc6fn3:APA91bFIsJrI9JzLp1BiSn8C4Wxy6PDE5VXknYy310cJjxPboSlXEeZw6GDNwWmsVKPIEgxV8_kZRf8l5R2WiewLq_g4pPBmMFcNXcR7WMvOXKTuokVfCqmv6JUtm7PvwhW-6UPKqqmM"
+          },
+          "device_id": "a231b6e0ecfcc9db",
+          "webhook_id": "88605afcb6e6a408f1b406d5a9192c9fe6500f38e695fe8bf1aba4aa1e78636f",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-a231b6e0ecfcc9db",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4f5d05b3238587e023711893c150d47e",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "K21",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.6.0-full (2398)",
+          "device_name": "K21",
+          "manufacturer": "rockchip",
+          "model": "K21",
+          "os_name": "Android",
+          "os_version": "25",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "fyACAtf3SC2WY1TWlSycll:APA91bGzTJ4RgPpmgI_TzO85kTUKp5wsIRKN73_dKqtfde-ShmjVc29Vf3UkN19Xtd-sEs934dW-bJM_r4ZGkME2C5IkylTHmXM_71jzARX9hKxqyYN7w-7bYQryFHvgnAUVzCea1T2o"
+          },
+          "device_id": "23f6942c560921b0",
+          "webhook_id": "564d6557fa69c8d8ee8c5fbdcc050513b4f2951b0f0c09556bbd1878615b2797",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-23f6942c560921b0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7ec4d21b369e9b72b21d23a83a6a26e0",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7a900c41fc2e59a0cb9412890f43168d",
+        "version": 1,
+        "domain": "generic",
+        "title": "Outdoor Dine",
+        "data": {},
+        "options": {
+          "name": "Outdoor Dine",
+          "still_image_url": "http://127.0.0.1:8123/local/floorplan/camera2.jpg",
+          "stream_source": "rtsp://admin:WWW.orchestra2020@192.168.1.234/live/ch00_1",
+          "authentication": "basic",
+          "username": null,
+          "password": null,
+          "limit_refetch_to_url_change": false,
+          "content_type": "image/jpeg",
+          "framerate": 2,
+          "verify_ssl": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      }
+    ]
+  }
+}

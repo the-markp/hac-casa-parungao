@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "trace.saved_traces",
+  "data": {
+    "automation.1648562164603": [
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "23c0c5c157f729d271615dcbbc2de4af",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T01:39:37.302679+00:00",
+            "finish": "2022-08-21T01:39:37.395136+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562164603",
+          "trigger": "Home Assistant starting",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T01:39:37.302869+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.daytime_restart",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-06T07:29:12.725117+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1648562164603",
+                      "friendly_name": "Daytime restart"
+                    },
+                    "last_changed": "2022-08-21T01:39:32.068537+00:00",
+                    "last_updated": "2022-08-21T01:39:32.068537+00:00",
+                    "context": {
+                      "id": "01GAZ0W734GQ6KP96PX8SV8KAY",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "homeassistant",
+                    "event": "start",
+                    "description": "Home Assistant starting"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2022-08-21T01:39:37.303031+00:00",
+                "result": {
+                  "wanted_time_before": "2022-08-21T10:16:46.405460+00:00",
+                  "wanted_time_after": "2022-08-20T21:43:40.114050+00:00",
+                  "result": true
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T01:39:37.311175+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GAZ0WC6PG4QSJH5MF2RJ7HHD",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.daytime_restart"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1648562164603",
+            "alias": "Daytime restart",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "homeassistant",
+                "event": "start"
+              }
+            ],
+            "condition": [
+              {
+                "condition": "sun",
+                "before": "sunset",
+                "after": "sunrise"
+              }
+            ],
+            "action": [
+              {
+                "scene": "scene.daytime_restart"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZ0WC6PG4QSJH5MF2RJ7HHD",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "23c0c5c157f729d271615dcbbc2de4af",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T01:39:37.302679+00:00",
+            "finish": "2022-08-21T01:39:37.395136+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562164603",
+          "trigger": "Home Assistant starting"
+        }
+      }
+    ],
+    "automation.1648562271213": [
+      {
+        "extended_dict": {
+          "last_step": "condition/0",
+          "run_id": "0ee081676b1f43e1e6099725617ef60a",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-21T01:39:37.305241+00:00",
+            "finish": "2022-08-21T01:39:37.306571+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562271213",
+          "trigger": "Home Assistant starting",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T01:39:37.305380+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.night_time_restart",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": null,
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1648562271213",
+                      "friendly_name": "Night time restart"
+                    },
+                    "last_changed": "2022-08-21T01:39:32.069567+00:00",
+                    "last_updated": "2022-08-21T01:39:32.069567+00:00",
+                    "context": {
+                      "id": "01GAZ0W735H5MCA3NCD8Y49GWQ",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "homeassistant",
+                    "event": "start",
+                    "description": "Home Assistant starting"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2022-08-21T01:39:37.305507+00:00",
+                "result": {
+                  "wanted_time_before": "2022-08-20T21:43:40.114050+00:00",
+                  "result": false
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1648562271213",
+            "alias": "Night time restart",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "homeassistant",
+                "event": "start"
+              }
+            ],
+            "condition": [
+              {
+                "condition": "sun",
+                "before": "sunrise",
+                "after": "sunset"
+              }
+            ],
+            "action": [
+              {
+                "scene": "scene.night_time_restart"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZ0WC6SDM12FS0XXA0X4R69",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "condition/0",
+          "run_id": "0ee081676b1f43e1e6099725617ef60a",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-21T01:39:37.305241+00:00",
+            "finish": "2022-08-21T01:39:37.306571+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562271213",
+          "trigger": "Home Assistant starting"
+        }
+      }
+    ]
+  }
+}

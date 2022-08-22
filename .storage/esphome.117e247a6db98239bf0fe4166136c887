@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.117e247a6db98239bf0fe4166136c887",
+  "data": {
+    "device_info": {
+      "uses_password": true,
+      "name": "kit_gar",
+      "mac_address": "84:0D:8E:67:BC:2B",
+      "compilation_time": "Mar 13 2022, 21:55:55",
+      "model": "esp01_1m",
+      "has_deep_sleep": false,
+      "esphome_version": "2021.11.4",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 6
+    },
+    "binary_sensor": [
+      {
+        "object_id": "kitchen_pad",
+        "key": 3710967473,
+        "name": "Kitchen PAD",
+        "unique_id": "kit_garbinary_sensorkitchen_pad",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "",
+        "is_status_binary_sensor": false
+      },
+      {
+        "object_id": "garage_pad",
+        "key": 932966432,
+        "name": "Garage PAD",
+        "unique_id": "kit_garbinary_sensorgarage_pad",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "",
+        "is_status_binary_sensor": false
+      },
+      {
+        "object_id": "kit-gar_switch",
+        "key": 3049114721,
+        "name": "Kit-Gar switch",
+        "unique_id": "kit_garbinary_sensorkit-gar_switch",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 2,
+        "device_class": "connectivity",
+        "is_status_binary_sensor": true
+      }
+    ],
+    "switch": [
+      {
+        "object_id": "kitchen_light",
+        "key": 2325788610,
+        "name": "Kitchen LIGHT",
+        "unique_id": "kit_garswitchkitchen_light",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "assumed_state": false,
+        "device_class": ""
+      },
+      {
+        "object_id": "garage_light",
+        "key": 113374867,
+        "name": "Garage LIGHT",
+        "unique_id": "kit_garswitchgarage_light",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "assumed_state": false,
+        "device_class": ""
+      }
+    ]
+  }
+}

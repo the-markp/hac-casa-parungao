@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "key": "esphome.2504076688104845ae9f302405ad280e",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "beacon1",
+            "mac_address": "FC:F5:C4:AB:86:E9",
+            "compilation_time": "Nov 15 2020, 17:31:48",
+            "model": "PLATFORMIO_ESP01_1M",
+            "has_deep_sleep": false,
+            "esphome_version": "1.15.3"
+        },
+        "services": []
+    }
+}

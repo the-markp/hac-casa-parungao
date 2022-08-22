@@ -1,0 +1,42 @@
+[
+    {
+        "name": "staircase clean-up",
+        "id": "518bfd76d7f141c586a42e753dcbb049",
+        "complete": true
+    },
+    {
+        "name": "garden soil overlay",
+        "id": "c2b98b94884343e799d02d8dda410a6a",
+        "complete": true
+    },
+    {
+        "name": "garden paver",
+        "id": "ce642a162966462cb7523ed6810b6bb7",
+        "complete": false
+    },
+    {
+        "name": "storage tank gutter",
+        "id": "d2497f9b7bf24d8e8919579277112685",
+        "complete": true
+    },
+    {
+        "name": "[equipment] Max power window",
+        "id": "12e37e2fe2c94f2ea326e6ea53b1fceb",
+        "complete": false
+    },
+    {
+        "name": "kitchen cabinets clean-up",
+        "id": "55331a59e5f54327b315eb368be3a513",
+        "complete": false
+    },
+    {
+        "name": "dirty kitchen paint job",
+        "id": "523b562ea07140619c73c7f1a3cfb36d",
+        "complete": false
+    },
+    {
+        "name": "storage tank clean-up + filter installation",
+        "id": "f3cd8db8470641519e1cda58948650d1",
+        "complete": true
+    }
+]

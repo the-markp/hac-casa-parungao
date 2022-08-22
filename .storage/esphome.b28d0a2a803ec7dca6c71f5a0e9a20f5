@@ -1,0 +1,49 @@
+{
+    "version": 1,
+    "key": "esphome.b28d0a2a803ec7dca6c71f5a0e9a20f5",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "fy_b10_0",
+            "mac_address": "EC:FA:BC:5F:89:5B",
+            "compilation_time": "Dec 29 2020, 12:33:14",
+            "model": "PLATFORMIO_ESP12E",
+            "has_deep_sleep": false,
+            "esphome_version": "1.15.3"
+        },
+        "services": [],
+        "sensor": [
+            {
+                "object_id": "water_consumption",
+                "key": 4226869642,
+                "name": "water consumption",
+                "unique_id": "fy_b10_0sensorwater_consumption",
+                "icon": "mdi:pulse",
+                "unit_of_measurement": "L",
+                "accuracy_decimals": 4,
+                "force_update": false
+            },
+            {
+                "object_id": "main_water_line",
+                "key": 2128990487,
+                "name": "Main water line",
+                "unique_id": "fy_b10_0sensormain_water_line",
+                "icon": "mdi:pulse",
+                "unit_of_measurement": "L/min",
+                "accuracy_decimals": 2,
+                "force_update": false
+            }
+        ],
+        "text_sensor": [],
+        "switch": [
+            {
+                "object_id": "fy_b10_0_restart",
+                "key": 1871227443,
+                "name": "fy_b10_0 restart",
+                "unique_id": "fy_b10_0switchfy_b10_0_restart",
+                "icon": "mdi:restart",
+                "assumed_state": false
+            }
+        ]
+    }
+}

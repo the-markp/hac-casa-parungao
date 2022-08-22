@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "key": "esphome.01888c0e32644563a1229e3dd2c76d79",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "pilot",
+            "mac_address": "84:0D:8E:47:C8:E0",
+            "compilation_time": "Mar 14 2020, 00:41:31",
+            "model": "PLATFORMIO_ESP01_1M",
+            "has_deep_sleep": false,
+            "esphome_version": "1.14.3"
+        },
+        "services": [],
+        "light": [
+            {
+                "object_id": "pilot",
+                "key": 1842327993,
+                "name": "pilot",
+                "unique_id": "pilotlightpilot",
+                "supports_brightness": true,
+                "supports_rgb": true,
+                "supports_white_value": true,
+                "supports_color_temperature": true,
+                "min_mireds": 153.84616088867188,
+                "max_mireds": 357.1428527832031,
+                "effects": []
+            }
+        ]
+    }
+}

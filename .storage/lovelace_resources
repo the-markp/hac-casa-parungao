@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "key": "lovelace_resources",
+    "data": {
+        "items": [
+            {
+                "type": "module",
+                "url": "/local/mini-graph-card-bundle.js?v=0.9.3",
+                "id": "536939d9f6f64d0b90ede97aeb732d5c"
+            }
+        ]
+    }
+}

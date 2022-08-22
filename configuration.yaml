@@ -1,0 +1,74 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+homeassistant:
+  customize: !include customize.yaml
+
+#==========
+#activate media source
+media_source:
+
+#==========
+#camera
+camera:
+  - platform: generic
+    name: Outdoor Dine
+    still_image_url: http://127.0.0.1:8123/local/floorplan/camera2.jpg
+    stream_source: rtsp://admin:WWW.orchestra2020@192.168.1.234/live/ch00_1
+    
+stream:
+
+#==========
+#device trackers
+#device_tracker:
+#  - platform: ping
+#    interval_seconds: 60
+#    consider_home: 180
+#    hosts:
+#      max: 192.168.1.225
+#      mark: 192.168.1.252
+#      rap: 192.168.1.17
+#      joeldp: 192.168.1.9
+ 
+#energy monitor
+sensor:                         #use sensor.integration to get kWH from power sensor
+  - platform: integration
+    source: sensor.rt_power
+    name: rt_energy
+    unit_prefix: k
+    round: 2
+
+utility_meter:                  #use utility meter integration to generate daily and monthly energy counters
+  daily_energy:
+    source: sensor.rt_energy
+    cycle: daily
+  monthly_energy:
+    source: sensor.rt_energy
+    cycle: monthly
+  daily_water:
+    source: sensor.main_water_line
+    cycle: daily
+
+# List
+shopping_list:
+
+#Sonoff
+sonoff:
+   username: mdparungao@gmail.com
+   password: !secret sonoff_key
+   mode: local
+   reload: always

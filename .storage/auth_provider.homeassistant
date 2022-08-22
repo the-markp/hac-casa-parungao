@@ -1,0 +1,60 @@
+{
+    "version": 1,
+    "key": "auth_provider.homeassistant",
+    "data": {
+        "users": [
+            {
+                "password": "JDJiJDEyJFJ3RHNrVUw4b0hETm9KQ2Q0Umxhbk9ZVnV5aEMuN3BaNjlZQ3ZENDliMWhHU3FtanVhZnVl",
+                "username": "markp"
+            },
+            {
+                "password": "JDJiJDEyJGpYS05KQUlUZUY2UW9CbldJUUlsTy5EeUxrRVU4T2F2Y3E4SHVrUXFYaXFnRldVdkhtMEZl",
+                "username": "yanp"
+            },
+            {
+                "password": "JDJiJDEyJDRuNVhjYURxY2pjU2JFWGNJRzlHNXVTL0lFNkppMnlZL1BuM05TaFgvRHVuUFhhWjUyWVd5",
+                "username": "charlottep"
+            },
+            {
+                "password": "JDJiJDEyJC5TN2YvaXhEclZtb21CVGNkQzhWaHVpczVWMDc2ZW5VZWE0N3Y4a2FHRGx1T0VJSjBwL0dX",
+                "username": "rapp"
+            },
+            {
+                "password": "JDJiJDEyJFFQeVJGQVN2WXdKVjNiRFpqcldiUWU2VnVJYmNuWlp6OC9ubzhhcHRkaDhBeDRGTTBwNERh",
+                "username": "joeldp"
+            },
+            {
+                "password": "JDJiJDEyJGQybm1adW9VZzUuc3RtMjlTSVVkVnVBVWYuanp1LkRzTTFNMEVIbklOMzcyakJQMjNUT2Rh",
+                "username": "joelyp"
+            },
+            {
+                "password": "JDJiJDEyJDlQa1IuYXdGSjdvZVJhZ01ZU1ZaaU9WTlZJS1VOTE1SNVlDR3VibXFyZXM0QWVIWjhGNFdT",
+                "username": "ivanp"
+            },
+            {
+                "password": "JDJiJDEyJC83TTlTNEt5YVJWcFRUcDYwdVZvNE9SWUNGbERyRUxHdVRVMGlpMzlCbFNjUFBYdFJZRFR1",
+                "username": "kevinp"
+            },
+            {
+                "password": "JDJiJDEyJEgyS1dWQ2ZtMi9tQ1VEdUJaYVpEME9qVUN4RnFPVlVoYVBuUVlMV3JYSE9LaXd5WkVoU291",
+                "username": "mamap"
+            },
+            {
+                "username": "char",
+                "password": "JDJiJDEyJHdlWERBWGNKQjJpaUx1UTZkbmJ6Yk96NE0xVlMxMmVHcFJDM0U5Rnc0b3FVcHdlQ0xZNnlP"
+            },
+            {
+                "username": "ivan",
+                "password": "JDJiJDEyJGU0eUNDNFdvMFQ0ZW1PMmpzQ1g2Y09MVGFRT0g5c2JFcC8xT1IzamxuV2x4VVlPYWhGY05t"
+            },
+            {
+                "username": "kevin",
+                "password": "JDJiJDEyJGJpWGhsQ0JWeEY5RGx3OUp1T0kyQ2VtdnduN21QdHJVWkNJUXpDcy5MSDZoOGUydkdJWnoy"
+            },
+            {
+                "username": "joel",
+                "password": "JDJiJDEyJG5IQW84Vm1jVVpFeUR2UlozVTU5SXVJbm4xYmVuZC45RjguUVY3dzE0QnMuUEFWVkhzSzJh"
+            }
+        ]
+    }
+}

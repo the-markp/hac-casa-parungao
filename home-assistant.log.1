@@ -1,0 +1,85 @@
+2022-08-21 09:39:18.049 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration sonoff which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2022-08-21 09:39:22.990 WARNING (Recorder) [homeassistant.components.recorder.util] The system could not validate that the sqlite3 database at //config/home-assistant_v2.db was shutdown cleanly
+2022-08-21 09:39:25.738 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 192.168.1.253 (192.168.1.253). Requested URL: '/api/websocket'. (Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54)
+2022-08-21 09:39:32.080 WARNING (MainThread) [homeassistant.components.generic.camera] Loading generic IP camera via configuration.yaml is deprecated, it will be automatically imported.  Once you have confirmed correct operation, please remove 'generic' (IP camera) section(s) from configuration.yaml
+2022-08-21 09:39:32.798 ERROR (MainThread) [homeassistant.components.spotify] The 'spotify' option near /config/configuration.yaml:2 has been removed, please remove it from your configuration
+2022-08-21 09:39:35.475 ERROR (MainThread) [custom_components.sonoff.sonoff_cloud] Login error: {'error': 403, 'msg': 'Sign:oauthClient enable invalid'}
+2022-08-21 09:39:35.481 WARNING (MainThread) [custom_components.sonoff] Can't connect to eWeLink Cloud
+2022-08-21 09:39:35.588 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for son_basic_0 @ 192.168.1.20: Error connecting to ('192.168.1.20', 6053): [Errno 111] Connect call failed ('192.168.1.20', 6053)
+2022-08-21 09:39:35.834 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorrt_voltage already exists - ignoring sensor.rt_voltage
+2022-08-21 09:39:35.847 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorrt_current already exists - ignoring sensor.rt_current
+2022-08-21 09:39:35.851 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorrt_power already exists - ignoring sensor.rt_power
+2022-08-21 09:39:35.855 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorfrequency already exists - ignoring sensor.frequency
+2022-08-21 09:39:35.860 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorpower_factor already exists - ignoring sensor.power_factor
+2022-08-21 09:39:36.289 ERROR (MainThread) [homeassistant.config_entries] Error setting up entry Mark for spotify
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/config_entries.py", line 357, in async_setup
+    result = await component.async_setup_entry(hass, self)
+  File "/usr/src/homeassistant/homeassistant/components/spotify/__init__.py", line 78, in async_setup_entry
+    await session.async_ensure_token_valid()
+  File "/usr/src/homeassistant/homeassistant/helpers/config_entry_oauth2_flow.py", line 475, in async_ensure_token_valid
+    new_token = await self.implementation.async_refresh_token(self.token)
+  File "/usr/src/homeassistant/homeassistant/helpers/config_entry_oauth2_flow.py", line 89, in async_refresh_token
+    new_token = await self._async_refresh_token(token)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/account_link.py", line 130, in _async_refresh_token
+    self.hass.data[DOMAIN], self.service, token["refresh_token"]
+KeyError: 'refresh_token'
+2022-08-21 09:39:37.289 WARNING (Recorder) [homeassistant.components.recorder.migration] Database is about to upgrade. Schema version: 9
+2022-08-21 09:39:37.338 WARNING (Recorder) [homeassistant.components.recorder.migration] Adding index `ix_states_old_state_id` to database. Note: this can take several minutes on large databases and slow computers. Please be patient!
+2022-08-21 09:39:37.350 WARNING (MainThread) [homeassistant.helpers.service] Unable to find referenced entities switch.sonoff_1001411df4 or it is/they are currently not available
+2022-08-21 09:39:37.977 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for ds18b20_0 @ 192.168.1.224: Error connecting to ('192.168.1.224', 6053): [Errno 113] Connect call failed ('192.168.1.224', 6053)
+2022-08-21 09:39:38.146 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for pzem_em_1 @ 192.168.1.7: Error connecting to ('192.168.1.7', 6053): [Errno 113] Connect call failed ('192.168.1.7', 6053)
+2022-08-21 09:39:39.344 ERROR (Recorder) [homeassistant.components.recorder.util] Error executing query: (sqlite3.DatabaseError) database disk image is malformed
+[SQL: CREATE INDEX ix_states_old_state_id ON states (old_state_id)]
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2022-08-21 09:39:39.399 ERROR (Recorder) [homeassistant.components.recorder.core] Unrecoverable sqlite3 database corruption detected: (sqlite3.DatabaseError) database disk image is malformed
+[SQL: CREATE INDEX ix_states_old_state_id ON states (old_state_id)]
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.DatabaseError: database disk image is malformed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 696, in _migrate_schema_and_setup_run
+    migration.migrate_schema(
+  File "/usr/src/homeassistant/homeassistant/components/recorder/migration.py", line 105, in migrate_schema
+    _apply_update(hass, engine, session_maker, new_version, current_version)
+  File "/usr/src/homeassistant/homeassistant/components/recorder/migration.py", line 505, in _apply_update
+    _create_index(session_maker, "states", "ix_states_old_state_id")
+  File "/usr/src/homeassistant/homeassistant/components/recorder/migration.py", line 138, in _create_index
+    index.create(connection)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/sql/schema.py", line 4339, in create
+    bind._run_ddl_visitor(ddl.SchemaGenerator, self, checkfirst=checkfirst)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2130, in _run_ddl_visitor
+    visitorcallable(self.dialect, self, **kwargs).traverse_single(element)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/sql/visitors.py", line 524, in traverse_single
+    return meth(obj, **kw)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/sql/ddl.py", line 938, in visit_index
+    self.connection.execute(CreateIndex(index))
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/future/engine.py", line 280, in execute
+    return self._execute_20(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/sql/ddl.py", line 80, in _execute_on_connection
+    return connection._execute_ddl(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1398, in _execute_ddl
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (sqlite3.DatabaseError) database disk image is malformed
+[SQL: CREATE INDEX ix_states_old_state_id ON states (old_state_id)]
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2022-08-21 09:39:39.629 ERROR (Recorder) [homeassistant.components.recorder.util] The system will rename the corrupt database file //config/home-assistant_v2.db to //config/home-assistant_v2.db.corrupt.2022-08-21T01:39:39.629622+00:00 in order to allow startup to proceed

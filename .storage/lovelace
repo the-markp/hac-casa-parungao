@@ -1,0 +1,833 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace",
+  "data": {
+    "config": {
+      "resources": [
+        {
+          "type": "module",
+          "url": "/local/mini-graph-card-bundle.js?v=0.9.3"
+        }
+      ],
+      "title": "Casa Parungao",
+      "views": [
+        {
+          "path": "default_view",
+          "title": "Home",
+          "badges": [],
+          "cards": [
+            {
+              "type": "horizontal-stack",
+              "cards": [
+                {
+                  "type": "gauge",
+                  "entity": "sensor.bme680_iaq",
+                  "min": 0,
+                  "max": 500,
+                  "severity": {
+                    "green": 0,
+                    "yellow": 100,
+                    "red": 300
+                  },
+                  "name": "Air Quality"
+                },
+                {
+                  "type": "gauge",
+                  "entity": "sensor.bme680_breath_voc_equivalent",
+                  "min": 0,
+                  "max": 100,
+                  "name": "TVOC",
+                  "severity": {
+                    "green": 0,
+                    "yellow": 20,
+                    "red": 50
+                  }
+                },
+                {
+                  "type": "gauge",
+                  "entity": "sensor.bme680_co2_equivalent",
+                  "min": 0,
+                  "max": 5000,
+                  "severity": {
+                    "green": 0,
+                    "yellow": 2000,
+                    "red": 3000
+                  },
+                  "name": "CO2 Level"
+                }
+              ]
+            },
+            {
+              "elements": [
+                {
+                  "entity": "sensor.rt_power",
+                  "prefix": "Now using ",
+                  "style": {
+                    "font-size": "14px",
+                    "left": "25%",
+                    "top": "4%"
+                  },
+                  "suffix": " from the grid",
+                  "type": "state-label"
+                },
+                {
+                  "entity": "switch.son_basic_0_relay",
+                  "icon": "mdi:ceiling-light",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "66%",
+                    "top": "20%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "outdoor dine",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_porch_light",
+                  "icon": "mdi:wall-sconce-flat",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "38%",
+                    "top": "67%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "outdoor dine",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_terrace_lights",
+                  "icon": "mdi:ceiling-light",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "19.5%",
+                    "top": "79.5%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "terrace lights",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.gazebo_pendant",
+                  "icon": "mdi:ceiling-light",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "95%",
+                    "top": "71%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "gazebo pendant",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001407104",
+                  "icon": "mdi:tree",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "95%",
+                    "top": "80%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "tree lights",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_10015215e9",
+                  "icon": "mdi:coach-lamp",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "85%",
+                    "top": "95%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "north fences",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_10015215e9",
+                  "icon": "mdi:coach-lamp",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "97%",
+                    "top": "95%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "north fences",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_100152e4bb",
+                  "icon": "mdi:coach-lamp",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "8%",
+                    "top": "95%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "south fences",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_100152e4bb",
+                  "icon": "mdi:coach-lamp",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "32%",
+                    "top": "95%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "south fences",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_100151e359",
+                  "icon": "mdi:timer-sand-full",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "70.5%",
+                    "top": "96%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "garage posts",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_100151e359",
+                  "icon": "mdi:timer-sand-full",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "51%",
+                    "top": "96%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "garage posts",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "camera.outdoor_dine",
+                  "hold_action": {
+                    "action": "more-info"
+                  },
+                  "icon": "mdi:cctv",
+                  "style": {
+                    "--iron-icon-height": "20px",
+                    "--iron-icon-width": "20px",
+                    "left": "41%",
+                    "top": "61%",
+                    "transform": "rotatey(180deg)"
+                  },
+                  "tap_action": {
+                    "action": "more-info"
+                  },
+                  "title": "Porch camera",
+                  "type": "state-icon"
+                },
+                {
+                  "conditions": [
+                    {
+                      "entity": "device_tracker.max",
+                      "state": "home"
+                    }
+                  ],
+                  "elements": [
+                    {
+                      "entity": "device_tracker.max",
+                      "image": "/local/floorplan/max_top.jpg",
+                      "style": {
+                        "height": 16,
+                        "left": "62%",
+                        "top": "81%",
+                        "width": "11%"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "conditional"
+                },
+                {
+                  "entity": "sensor.bme680_temperature",
+                  "style": {
+                    "font-size": "12px",
+                    "left": "24%",
+                    "top": "45%"
+                  },
+                  "type": "state-label"
+                },
+                {
+                  "entity": "sensor.bme680_iaq",
+                  "style": {
+                    "font-size": "9px",
+                    "left": "38%",
+                    "top": "35%"
+                  },
+                  "type": "state-badge"
+                }
+              ],
+              "image": "/local/floorplan/first_floor.jpg",
+              "stylesheet": "/local/floorplan/examples/simple/simple.css?v=1.1.14",
+              "title": "Ground Floor",
+              "type": "picture-elements"
+            },
+            {
+              "type": "horizontal-stack",
+              "cards": [
+                {
+                  "type": "gauge",
+                  "entity": "sensor.bme680_temperature",
+                  "min": 0,
+                  "max": 45,
+                  "name": "Indoor Temp",
+                  "severity": {
+                    "green": 0,
+                    "yellow": 33,
+                    "red": 36
+                  }
+                },
+                {
+                  "type": "gauge",
+                  "entity": "sensor.bme680_humidity",
+                  "min": 0,
+                  "max": 100,
+                  "name": "Indoor Humidity"
+                },
+                {
+                  "type": "gauge",
+                  "entity": "sensor.bme680_pressure",
+                  "min": 1008.25,
+                  "max": 1018.25,
+                  "name": "ATM Pressure",
+                  "severity": {
+                    "green": 1013.5,
+                    "yellow": 1012,
+                    "red": 1011
+                  }
+                }
+              ]
+            },
+            {
+              "type": "picture-elements",
+              "elements": [
+                {
+                  "entity": "sensor.ds18b20_temp_sensor_0",
+                  "style": {
+                    "font-size": "12px",
+                    "left": "72%",
+                    "top": "50%"
+                  },
+                  "type": "state-label"
+                },
+                {
+                  "entity": "switch.balcony_lights",
+                  "icon": "mdi:wall-sconce-flat",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "70%",
+                    "top": "72%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "front canopy",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.family_hall_lamp",
+                  "icon": "mdi:ceiling-light",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "63%",
+                    "top": "38%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "2f north hallway",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_100151816b",
+                  "icon": "mdi:wall-sconce-flat",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "7%",
+                    "top": "19%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "south balcony",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001526d76",
+                  "icon": "mdi:wall-sconce-flat",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "87%",
+                    "top": "19%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "north balcony",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001411df4",
+                  "icon": "mdi:fuse",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "9%",
+                    "top": "39%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "wall lamp",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001411df4",
+                  "icon": "mdi:fuse",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "9%",
+                    "top": "79%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "wall lamp",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001411df4",
+                  "icon": "mdi:fuse",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "9%",
+                    "top": "65%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "wall lamp",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001411df4",
+                  "icon": "mdi:fuse",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "86%",
+                    "top": "63%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "wall lamp",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001411df4",
+                  "icon": "mdi:fuse",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "86%",
+                    "top": "50%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "wall lamp",
+                  "type": "state-icon"
+                },
+                {
+                  "entity": "switch.sonoff_1001411df4",
+                  "icon": "mdi:fuse",
+                  "style": {
+                    "--iron-icon-height": "32px",
+                    "--iron-icon-width": "32px",
+                    "left": "86%",
+                    "top": "39%"
+                  },
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "title": "wall lamp",
+                  "type": "state-icon"
+                }
+              ],
+              "image": "/local/floorplan/second_floor.jpg",
+              "title": "Second Floor"
+            },
+            {
+              "type": "picture",
+              "image": "/local/temp/energy_consumption_banner.jpg",
+              "tap_action": {
+                "action": "none"
+              },
+              "hold_action": {
+                "action": "none"
+              }
+            },
+            {
+              "entity": "sensor.monthly_energy",
+              "max": 500,
+              "min": 0,
+              "name": "This Month so far",
+              "theme": "default",
+              "type": "gauge",
+              "unit": "kWH"
+            },
+            {
+              "aggregate_func": "max",
+              "entities": [
+                {
+                  "entity": "sensor.daily_energy"
+                }
+              ],
+              "group_by": "date",
+              "hours_to_show": 168,
+              "name": "Daily consumption (7-day cycle)",
+              "show": {
+                "graph": "bar"
+              },
+              "type": "custom:mini-graph-card"
+            },
+            {
+              "entities": [
+                {
+                  "entity": "sensor.daily_energy"
+                }
+              ],
+              "hours_to_show": 24,
+              "refresh_interval": 60,
+              "title": "24H Energy Curve",
+              "type": "history-graph"
+            },
+            {
+              "entities": [
+                {
+                  "entity": "sensor.rt_power"
+                }
+              ],
+              "hours_to_show": 24,
+              "refresh_interval": 60,
+              "title": "24H Power usage",
+              "type": "history-graph"
+            },
+            {
+              "type": "picture",
+              "image": "/local/temp/room_sensors_banner.jpg",
+              "tap_action": {
+                "action": "none"
+              },
+              "hold_action": {
+                "action": "none"
+              }
+            },
+            {
+              "type": "history-graph",
+              "entities": [
+                {
+                  "entity": "sensor.ds18b20_temp_sensor_0"
+                }
+              ],
+              "hours_to_show": 24,
+              "refresh_interval": 0,
+              "title": "Living room Temperature"
+            }
+          ]
+        },
+        {
+          "badges": [],
+          "cards": [
+            {
+              "aspect_ratio": "0%",
+              "camera_image": "camera.outdoor_dine",
+              "camera_view": "live",
+              "entities": [],
+              "image": "rtsp://admin:WWW.orchestra2020@192.168.1.234/live/ch00_1",
+              "type": "picture-glance",
+              "title": "Garage"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "switch.event1"
+                },
+                {
+                  "entity": "switch.event2"
+                },
+                {
+                  "entity": "switch.event3"
+                },
+                {
+                  "entity": "switch.event6"
+                }
+              ],
+              "title": "Alarm Panel"
+            },
+            {
+              "entities": [
+                {
+                  "entity": "sensor.rt_voltage"
+                },
+                {
+                  "entity": "sensor.frequency"
+                },
+                {
+                  "entity": "sensor.power_factor"
+                },
+                {
+                  "entity": "sensor.rt_current"
+                },
+                {
+                  "entity": "sensor.rt_power"
+                },
+                {
+                  "entity": "sensor.rt_energy"
+                }
+              ],
+              "show_header_toggle": false,
+              "title": "Grid Power Dashboard",
+              "type": "entities"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.bme680_temperature"
+                },
+                {
+                  "entity": "sensor.bme680_pressure"
+                },
+                {
+                  "entity": "sensor.bme680_humidity"
+                },
+                {
+                  "entity": "sensor.bme680_iaq"
+                },
+                {
+                  "entity": "sensor.bme680_breath_voc_equivalent"
+                },
+                {
+                  "entity": "sensor.bme680_co2_equivalent"
+                },
+                {
+                  "entity": "sensor.bme680_gas_resistance"
+                },
+                {
+                  "entity": "sensor.bme680_iaq_accuracy"
+                }
+              ],
+              "title": "Environment Monitor"
+            }
+          ],
+          "path": "security",
+          "title": "Security"
+        },
+        {
+          "badges": [],
+          "cards": [
+            {
+              "type": "shopping-list",
+              "title": "Household backlog"
+            },
+            {
+              "type": "horizontal-stack",
+              "cards": [
+                {
+                  "type": "gauge",
+                  "entity": "sensor.main_water_line",
+                  "min": 0,
+                  "max": 30
+                },
+                {
+                  "type": "gauge",
+                  "entity": "sensor.water_consumption",
+                  "min": 0,
+                  "max": 100
+                }
+              ]
+            },
+            {
+              "type": "history-graph",
+              "entities": [
+                {
+                  "entity": "sensor.water_consumption"
+                }
+              ],
+              "hours_to_show": 24,
+              "refresh_interval": 0
+            },
+            {
+              "type": "media-control",
+              "entity": "media_player.living_room_tv"
+            }
+          ],
+          "path": "resources",
+          "title": "Resources"
+        },
+        {
+          "title": "MAIN CONTROL",
+          "path": "main-control",
+          "panel": false,
+          "theme": "",
+          "badges": [],
+          "cards": [
+            {
+              "type": "horizontal-stack",
+              "cards": [
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.sonoff_1001407104",
+                  "show_state": true,
+                  "show_icon": true,
+                  "name": "tree lanterns",
+                  "icon": "hass:lightbulb"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.gazebo_pendant",
+                  "show_state": true,
+                  "name": "gazebo",
+                  "icon": "hass:lightbulb"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.sonoff_10015215e9",
+                  "show_state": true,
+                  "name": "north fence",
+                  "icon": "hass:lightbulb"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.sonoff_100151e359",
+                  "show_state": true,
+                  "name": "garage posts",
+                  "icon": "hass:lightbulb"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.sonoff_100152e4bb",
+                  "name": "south fence",
+                  "show_state": true,
+                  "icon": "hass:lightbulb"
+                }
+              ]
+            },
+            {
+              "type": "horizontal-stack",
+              "cards": [
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.sonoff_100151816b",
+                  "show_state": true,
+                  "show_icon": true,
+                  "icon": "hass:lightbulb",
+                  "name": "south balcony"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.sonoff_1001411df4",
+                  "show_state": true,
+                  "show_icon": true,
+                  "icon": "hass:lightbulb",
+                  "name": "wall lamps"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.garage_light",
+                  "show_state": true,
+                  "show_icon": true,
+                  "icon": "hass:lightbulb",
+                  "name": "FH balcony"
+                },
+                {
+                  "type": "button",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.son_basic_0_relay",
+                  "name": "north balcony",
+                  "show_state": true,
+                  "show_icon": true,
+                  "icon": "hass:lightbulb"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

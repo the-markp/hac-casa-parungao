@@ -1,0 +1,69 @@
+{
+    "version": 1,
+    "key": "esphome.59c459800ac370c5a8616d39c7e7319a",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "pzem_em_1",
+            "mac_address": "5C:CF:7F:17:C0:3B",
+            "compilation_time": "Mar 17 2020, 07:36:25",
+            "model": "PLATFORMIO_ESP12E",
+            "has_deep_sleep": false,
+            "esphome_version": "1.14.3"
+        },
+        "services": [],
+        "sensor": [
+            {
+                "object_id": "rt_voltage",
+                "key": 3358696288,
+                "name": "RT Voltage",
+                "unique_id": "pzem_em_1sensorrt_voltage",
+                "icon": "mdi:flash",
+                "unit_of_measurement": "V",
+                "accuracy_decimals": 1,
+                "force_update": false
+            },
+            {
+                "object_id": "rt_current",
+                "key": 3306492257,
+                "name": "RT Current",
+                "unique_id": "pzem_em_1sensorrt_current",
+                "icon": "mdi:current-ac",
+                "unit_of_measurement": "A",
+                "accuracy_decimals": 3,
+                "force_update": false
+            },
+            {
+                "object_id": "rt_power",
+                "key": 3080247057,
+                "name": "RT Power",
+                "unique_id": "pzem_em_1sensorrt_power",
+                "icon": "mdi:power",
+                "unit_of_measurement": "W",
+                "accuracy_decimals": 1,
+                "force_update": false
+            },
+            {
+                "object_id": "frequency",
+                "key": 858531997,
+                "name": "Frequency",
+                "unique_id": "pzem_em_1sensorfrequency",
+                "icon": "mdi:current-ac",
+                "unit_of_measurement": "hz",
+                "accuracy_decimals": 1,
+                "force_update": false
+            },
+            {
+                "object_id": "power_factor",
+                "key": 1214527994,
+                "name": "Power Factor",
+                "unique_id": "pzem_em_1sensorpower_factor",
+                "icon": "mdi:flash",
+                "unit_of_measurement": "",
+                "accuracy_decimals": 2,
+                "force_update": false
+            }
+        ],
+        "text_sensor": []
+    }
+}

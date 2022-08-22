@@ -1,0 +1,63 @@
+2022-08-21 09:44:31.209 WARNING (SyncWorker_1) [homeassistant.loader] We found a custom integration sonoff which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2022-08-21 09:45:01.004 WARNING (MainThread) [homeassistant.setup] Setup of sonoff is taking over 10 seconds.
+2022-08-21 09:45:01.048 WARNING (MainThread) [homeassistant.components.sensor] Setup of sensor platform utility_meter is taking over 10 seconds.
+2022-08-21 09:45:01.052 WARNING (MainThread) [homeassistant.setup] Setup of automation is taking over 10 seconds.
+2022-08-21 09:45:01.376 WARNING (MainThread) [homeassistant.components.generic.camera] Loading generic IP camera via configuration.yaml is deprecated, it will be automatically imported.  Once you have confirmed correct operation, please remove 'generic' (IP camera) section(s) from configuration.yaml
+2022-08-21 09:45:05.298 ERROR (MainThread) [custom_components.sonoff.sonoff_cloud] Login error: {'error': 403, 'msg': 'Sign:oauthClient enable invalid'}
+2022-08-21 09:45:05.313 WARNING (MainThread) [custom_components.sonoff] Can't connect to eWeLink Cloud
+2022-08-21 09:45:05.793 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorrt_voltage already exists - ignoring sensor.rt_voltage
+2022-08-21 09:45:05.806 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorrt_current already exists - ignoring sensor.rt_current
+2022-08-21 09:45:05.810 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorrt_power already exists - ignoring sensor.rt_power
+2022-08-21 09:45:05.815 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorfrequency already exists - ignoring sensor.frequency
+2022-08-21 09:45:05.821 ERROR (MainThread) [homeassistant.components.sensor] Platform esphome does not generate unique IDs. ID pzem_em_1sensorpower_factor already exists - ignoring sensor.power_factor
+2022-08-21 09:45:07.147 ERROR (MainThread) [homeassistant.config_entries] Error setting up entry Mark for spotify
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/config_entries.py", line 357, in async_setup
+    result = await component.async_setup_entry(hass, self)
+  File "/usr/src/homeassistant/homeassistant/components/spotify/__init__.py", line 78, in async_setup_entry
+    await session.async_ensure_token_valid()
+  File "/usr/src/homeassistant/homeassistant/helpers/config_entry_oauth2_flow.py", line 475, in async_ensure_token_valid
+    new_token = await self.implementation.async_refresh_token(self.token)
+  File "/usr/src/homeassistant/homeassistant/helpers/config_entry_oauth2_flow.py", line 89, in async_refresh_token
+    new_token = await self._async_refresh_token(token)
+  File "/usr/src/homeassistant/homeassistant/components/cloud/account_link.py", line 130, in _async_refresh_token
+    self.hass.data[DOMAIN], self.service, token["refresh_token"]
+KeyError: 'refresh_token'
+2022-08-21 09:45:07.177 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for son_basic_0 @ 192.168.1.20: Error connecting to ('192.168.1.20', 6053): [Errno 111] Connect call failed ('192.168.1.20', 6053)
+2022-08-21 09:45:08.746 WARNING (MainThread) [homeassistant.helpers.service] Unable to find referenced entities switch.sonoff_1001411df4 or it is/they are currently not available
+2022-08-21 09:45:08.960 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for ds18b20_0 @ 192.168.1.224: Error connecting to ('192.168.1.224', 6053): [Errno 113] Connect call failed ('192.168.1.224', 6053)
+2022-08-21 09:45:09.989 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for pzem_em_1 @ 192.168.1.7: Error connecting to ('192.168.1.7', 6053): [Errno 113] Connect call failed ('192.168.1.7', 6053)
+2022-08-21 09:45:14.586 WARNING (Recorder) [homeassistant.components.sensor.recorder] sensor.rt_energy has unit None which is unsupported for device_class energy
+2022-08-21 09:50:10.086 WARNING (Recorder) [homeassistant.components.sensor.recorder] The unit of sensor.rt_energy (kWh) does not match the unit of already compiled statistics (None). Generation of long term statistics will be suppressed unless the unit changes back to None. Go to https://my.home-assistant.io/redirect/developer_statistics to fix this
+2022-08-21 13:44:24.243 WARNING (MainThread) [homeassistant.components.light.reproduce_state] Unable to find entity light.pilot
+2022-08-21 16:11:30.889 WARNING (MainThread) [homeassistant.components.light.reproduce_state] Unable to find entity light.pilot
+2022-08-21 17:29:58.929 WARNING (Thread-5) [pychromecast.socket_client] [IVAN KELLY TV(192.168.1.52):8009] Heartbeat timeout, resetting connection
+2022-08-21 17:30:17.824 ERROR (Thread-5) [pychromecast.socket_client] [IVAN KELLY TV(192.168.1.52):8009] Failed to connect to service ServiceInfo(type='host', data=('192.168.1.52', 8009)), retrying in 5.0s
+2022-08-21 18:16:46.438 WARNING (MainThread) [homeassistant.components.light.reproduce_state] Unable to find entity light.pilot
+2022-08-21 18:16:46.450 WARNING (MainThread) [homeassistant.components.switch.reproduce_state] Unable to find entity switch.garage_light
+2022-08-21 22:54:44.135 WARNING (Thread-6) [pychromecast.socket_client] [2F North Bedroom(192.168.1.44):8009] Heartbeat timeout, resetting connection
+2022-08-21 22:55:14.164 ERROR (Thread-6) [pychromecast.socket_client] [2F North Bedroom(192.168.1.44):8009] Failed to connect to service ServiceInfo(type='host', data=('192.168.1.44', 8009)), retrying in 5.0s
+2022-08-22 00:56:02.580 WARNING (Thread-5) [pychromecast.socket_client] [IVAN KELLY TV(192.168.1.52):8009] Heartbeat timeout, resetting connection
+2022-08-22 00:56:32.634 ERROR (Thread-5) [pychromecast.socket_client] [IVAN KELLY TV(192.168.1.52):8009] Failed to connect to service ServiceInfo(type='host', data=('192.168.1.52', 8009)), retrying in 5.0s
+2022-08-22 03:45:17.150 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error demuxing stream: [Errno 110] Operation timed out: 'rtsp://admin:WWW.orchestra2020@192.168.1.234/live/ch00_1'
+2022-08-22 03:45:32.218 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2022-08-22 03:45:48.332 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for son_basic_0 @ 192.168.1.33: Timeout while connecting to ('192.168.1.33', 6053)
+2022-08-22 03:45:50.573 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for kit_gar @ 192.168.1.27: Timeout while connecting to ('192.168.1.27', 6053)
+2022-08-22 03:45:52.611 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for bme680_0 @ 192.168.1.2: Timeout while connecting to ('192.168.1.2', 6053)
+2022-08-22 03:45:53.510 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.234/live/ch00_1
+2022-08-22 03:45:59.062 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for pzem_em_1 @ 192.168.1.3: Timeout while connecting to ('192.168.1.3', 6053)
+2022-08-22 03:45:59.308 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for fy_b10_0 @ 192.168.1.221: Timeout while connecting to ('192.168.1.221', 6053)
+2022-08-22 03:46:15.746 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for kit_gar @ 192.168.1.108: Error connecting to ('192.168.1.108', 6053): [Errno 113] Connect call failed ('192.168.1.108', 6053)
+2022-08-22 03:46:33.980 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error demuxing stream while finding first packet: [Errno 110] Operation timed out: 'rtsp://admin:WWW.orchestra2020@192.168.1.234/live/ch00_1'
+2022-08-22 03:47:10.944 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for kit_gar @ 192.168.1.108: Timeout while connecting to ('192.168.1.108', 6053)
+2022-08-22 05:00:00.007 WARNING (MainThread) [homeassistant.components.switch.reproduce_state] Unable to find entity switch.kitchen_light
+2022-08-22 05:00:00.021 WARNING (MainThread) [homeassistant.components.switch.reproduce_state] Unable to find entity switch.garage_light
+2022-08-22 05:43:48.131 WARNING (MainThread) [homeassistant.components.switch.reproduce_state] Unable to find entity switch.kitchen_light
+2022-08-22 05:43:48.143 WARNING (MainThread) [homeassistant.components.switch.reproduce_state] Unable to find entity switch.garage_light
+2022-08-22 11:10:58.546 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for ds18b20_0 @ 192.168.1.224: Error connecting to ('192.168.1.224', 6053): [Errno 113] Connect call failed ('192.168.1.224', 6053)
+2022-08-22 11:29:39.491 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for ds18b20_0 @ 192.168.1.224: Timeout while connecting to ('192.168.1.224', 6053)
+2022-08-22 14:57:40.315 WARNING (Thread-7) [pychromecast.socket_client] [1F Bedroom TV(192.168.1.47):8009] Heartbeat timeout, resetting connection
+2022-08-22 14:58:10.366 ERROR (Thread-7) [pychromecast.socket_client] [1F Bedroom TV(192.168.1.47):8009] Failed to connect to service ServiceInfo(type='mdns', data='MiTV-AESP0-8df265addcf1156dd97130e650cd1311._googlecast._tcp.local.'), retrying in 5.0s
+2022-08-22 15:46:23.249 WARNING (MainThread) [aioesphomeapi.reconnect_logic] Can't connect to ESPHome API for fy_b10_0 @ 192.168.1.221: Timeout waiting for response for <class 'api_pb2.ConnectRequest'>
+2022-08-22 18:16:08.490 WARNING (MainThread) [homeassistant.components.light.reproduce_state] Unable to find entity light.pilot
+2022-08-22 18:16:08.518 WARNING (MainThread) [homeassistant.components.switch.reproduce_state] Unable to find entity switch.garage_light

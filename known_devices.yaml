@@ -1,0 +1,32 @@
+
+max:
+  hide_if_away: false
+  icon:
+  mac:
+  name: max
+  picture:
+  track: true
+
+mark:
+  hide_if_away: false
+  icon:
+  mac:
+  name: mark
+  picture:
+  track: true
+  
+rap:
+  hide_if_away: false
+  icon:
+  mac:
+  name: rap
+  picture:
+  track: true
+
+joeldp:
+  hide_if_away: false
+  icon:
+  mac:
+  name: joeldp
+  picture:
+  track: true

@@ -1,0 +1,695 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {
+        "config_entries": [
+          "fb87c7560251487489e51532f828cbd7"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "84406345f5ea58c1"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "MI 8",
+        "name": "MI 8",
+        "sw_version": "29",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "8680b6336d024809aa5f65d1690479f9",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "f057dd7bbbcf4cacac56ceccd3a44238"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "0af2b45cee244f379147c21b27bd2f8e"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone 7",
+        "name": "Alyanna Alexandria’s iPhone",
+        "sw_version": "13.3.1",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "4c27187604ab4533a7c105490a06881f",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "bee8818c82f843a3b91258c5a99018b2"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "3f57026bac224d0ea21bec6760bd7f54"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone SE",
+        "name": "Ralph Laurence's iPhone",
+        "sw_version": "11.4.1",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "235d813f588249f39802c0c7d8e7ccc3",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "534b2dc4e9584ce2a1c287a630eaec5e"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "532f551d008259e7"
+          ]
+        ],
+        "manufacturer": "HUAWEI",
+        "model": "YAL-L21",
+        "name": "YAL-L21",
+        "sw_version": "29",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "5cd8658fd2f74bc588c5c63ca426696f",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "4b55379d3dee499a866547764e1ae13f"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "met"
+          ]
+        ],
+        "manufacturer": "Met.no",
+        "model": "Forecast",
+        "name": "Forecast",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "8730f512a4186cc5d11987813f492d57",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "https://www.met.no/en"
+      },
+      {
+        "config_entries": [
+          "1b904e533f6c2a0e3da3b20e62ca90df"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "e3cfeff3f4d98639"
+          ]
+        ],
+        "manufacturer": "HMD Global",
+        "model": "Nokia 8.1",
+        "name": "Nokia 8.1",
+        "sw_version": "30",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "7f6ff4b4a412b8b1e8f1d84c0f35772f",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "b33e3dd2e8303650e651861d8c73e553"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "MiTV-AESP0",
+        "name": "1F Bedroom TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "973a7a86c70c6c27def252cc6cd4aaa8",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "f016b5686e62759497b3515dbfad47cd"
+          ]
+        ],
+        "manufacturer": "TCL",
+        "model": "BeyondTV",
+        "name": "2F North Bedroom",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "d34d47643054a326f16ad9adc11db909",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "9ab58a6cd46596f2b553dc95ef85d882"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "35a56f62e453e3af"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "MI 8",
+        "name": "Yan's phone",
+        "sw_version": "29",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "63c9c94b8cd45a708842ae4d62c79950",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "f128ec6fb5f42f59ab3cb3ef7a692400"
+        ],
+        "connections": [
+          [
+            "mac",
+            "84:cc:a8:a2:16:d8"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp12e",
+        "name": "ds18b20_0",
+        "sw_version": "2022.2.6 (Aug 22 2022, 11:28:30)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "1c45efa1922cd065efe8d4b5d110c4d4",
+        "via_device_id": null,
+        "area_id": "04056ac7c9ac4b3b83d4216776072db8",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "d2fb304dc8269cd43cbd7e9bbde25859"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "e2e64e712884c0f8"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "2201123G",
+        "name": "Ivan's phone",
+        "sw_version": "31",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "e549d8de6fa4982b92338330a7b53c58",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "6cf9cc0e05736265c96d1325921803c3"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "MiTV-AESP0",
+        "name": "1F Bedroom TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "587706bebb2a9f4ee523e220c59ae254",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "8df265addcf1156dd97130e650cd1311"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "MiTV-AESP0",
+        "name": "1F Bedroom TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "8bc8a69da7881e3e29ce30b50355a694",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "b046cc7e9f694ead7690e3de82b82935"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "61767be785d8df7a"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "MI 8",
+        "name": "MI 8",
+        "sw_version": "29",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "e760e24a36e02d74fc8e96e2d4f1549f",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "dd0aade9f240bb29b1008998f321c3a4"
+        ],
+        "connections": [
+          [
+            "mac",
+            "24:62:ab:58:f7:85"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp01_1m",
+        "name": "son_basic_0",
+        "sw_version": "2021.11.4 (Dec 16 2021, 21:42:37)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "3f795ca604862f6a718578395ac03f49",
+        "via_device_id": null,
+        "area_id": "04056ac7c9ac4b3b83d4216776072db8",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "d64cdffde11bf8eaa50961823fddf81c",
+          "fbd2dbe9bf0724a3a26034c1445a45cd"
+        ],
+        "connections": [
+          [
+            "mac",
+            "5c:cf:7f:17:c0:3b"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp12e",
+        "name": "pzem_em_1",
+        "sw_version": "2021.11.4 (Mar 13 2022, 23:14:19)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "bb59483d7c225a2ae58e331c27a272c5",
+        "via_device_id": null,
+        "area_id": "54a6ca07583cf724fcd209da2c0ddd14",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "62dab0c516a14a6ece33d7a9afa7a927"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "86721bdb9c6c34b5"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "M2007J3SG",
+        "name": "M2007J3SG",
+        "sw_version": "30",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "7a4b508a878d40da9fff641f8946ee6c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "97e841f5cfcc0bf5ac340d0f0882b42d"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "6201EF49-0024-44EE-858E-47B97CE78FF4"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone13,2",
+        "name": "Alyanna",
+        "sw_version": "15.4",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "f268a10a34f003c447bbdfda212642c7",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "117e247a6db98239bf0fe4166136c887"
+        ],
+        "connections": [
+          [
+            "mac",
+            "84:0d:8e:67:bc:2b"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp01_1m",
+        "name": "kit_gar",
+        "sw_version": "2021.11.4 (Mar 13 2022, 21:55:55)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "ab3fc08a9cce098f74e9bcd90855bbbf",
+        "via_device_id": null,
+        "area_id": "3a2733879b0a38a855f4db148e12e7cf",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "d64cdffde11bf8eaa50961823fddf81c"
+        ],
+        "connections": [
+          [
+            "mac",
+            "84:cc:a8:a3:67:51"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp12e",
+        "name": "bme680_0",
+        "sw_version": "2021.11.4 (Mar 13 2022, 22:08:21)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "9327cde05f3347b3854a3b181ed3bcfc",
+        "via_device_id": null,
+        "area_id": "21cad7b1ae02405a8c6bc687fa13ce64",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "be0f46659d6733662411051886bc7118"
+        ],
+        "connections": [
+          [
+            "mac",
+            "ec:fa:bc:5f:89:5b"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp12e",
+        "name": "fy_b10_0",
+        "sw_version": "2021.11.4 (Mar 22 2022, 21:28:54)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "a4a64bc9d471cc51c302715664de69a9",
+        "via_device_id": null,
+        "area_id": "04056ac7c9ac4b3b83d4216776072db8",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "9fbe69dd4c2c63a68b88a8ab49adeb5d"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "cd6259c986ea3a14"
+          ]
+        ],
+        "manufacturer": "samsung",
+        "model": "SM-G998B",
+        "name": "SM-G998B",
+        "sw_version": "31",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "25909780e96a5cda1360bf19c68e07b0",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "252e24ba15253b94c166875734a4c4f8"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "MiTV-MOSR0",
+        "name": "TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "c0d46053de23d54de9fa270cb2c06e4a",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "e1c993ac0de79eaa5af3c40f33097d36"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "MiTV-MOSR0",
+        "name": "TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "fc07b537d14fa15a3bc0685d7044acd2",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "47bfc14949728c06ddfe61e6d396354c"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "a231b6e0ecfcc9db"
+          ]
+        ],
+        "manufacturer": "samsung",
+        "model": "SM-G970U1",
+        "name": "S10E",
+        "sw_version": "31",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "31ab836d18ebe98ee89e15be02f5be9c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "e131f72beab4ba6ff64e88dca0b1ade4"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "MiTV-MOSR0",
+        "name": "IVAN KELLY TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "310ae19672917292363d4769269fd708",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "4f5d05b3238587e023711893c150d47e"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "23f6942c560921b0"
+          ]
+        ],
+        "manufacturer": "rockchip",
+        "model": "K21",
+        "name": "K21",
+        "sw_version": "25",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "3219eee6ab39c4128fc0bc0842394d76",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "be0f46659d6733662411051886bc7118"
+        ],
+        "connections": [
+          [
+            "mac",
+            "ec:00:00:00:00:5b"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp12e",
+        "name": "fy_b10_0",
+        "sw_version": "2021.11.4 (Mar 22 2022, 21:28:54)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "763fb3b59830eb417306851c2715c6ff",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      }
+    ],
+    "deleted_devices": [
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "spotify",
+            "j0wa5h5go6hhv1vxlvpfxllxz"
+          ]
+        ],
+        "id": "d32ee2f67e0416c1131238ec35498094",
+        "orphaned_timestamp": 1661046360.9833412
+      }
+    ]
+  }
+}

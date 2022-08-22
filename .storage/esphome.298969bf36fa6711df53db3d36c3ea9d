@@ -1,0 +1,60 @@
+{
+    "version": 1,
+    "key": "esphome.298969bf36fa6711df53db3d36c3ea9d",
+    "data": {
+        "device_info": {
+            "uses_password": true,
+            "name": "kit_gar",
+            "mac_address": "84:0D:8E:67:BC:2B",
+            "compilation_time": "Mar 14 2020, 00:37:47",
+            "model": "PLATFORMIO_ESP01_1M",
+            "has_deep_sleep": false,
+            "esphome_version": "1.14.3"
+        },
+        "services": [],
+        "switch": [
+            {
+                "object_id": "kitchen_light",
+                "key": 2325788610,
+                "name": "Kitchen LIGHT",
+                "unique_id": "kit_garswitchkitchen_light",
+                "icon": "",
+                "assumed_state": false
+            },
+            {
+                "object_id": "garage_light",
+                "key": 113374867,
+                "name": "Garage LIGHT",
+                "unique_id": "kit_garswitchgarage_light",
+                "icon": "",
+                "assumed_state": false
+            }
+        ],
+        "binary_sensor": [
+            {
+                "object_id": "kitchen_pad",
+                "key": 3710967473,
+                "name": "Kitchen PAD",
+                "unique_id": "kit_garbinary_sensorkitchen_pad",
+                "device_class": "",
+                "is_status_binary_sensor": false
+            },
+            {
+                "object_id": "garage_pad",
+                "key": 932966432,
+                "name": "Garage PAD",
+                "unique_id": "kit_garbinary_sensorgarage_pad",
+                "device_class": "",
+                "is_status_binary_sensor": false
+            },
+            {
+                "object_id": "kit-gar_switch",
+                "key": 3049114721,
+                "name": "Kit-Gar switch",
+                "unique_id": "kit_garbinary_sensorkit-gar_switch",
+                "device_class": "connectivity",
+                "is_status_binary_sensor": true
+            }
+        ]
+    }
+}

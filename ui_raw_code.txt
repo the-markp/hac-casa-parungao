@@ -1,0 +1,208 @@
+resources:
+  - type: module
+    url: /local/mini-graph-card-bundle.js?v=0.9.3
+title: Casa Parungao
+views:
+  - badges:
+      - entity: person.mark_parungao
+      - entity: person.yan
+      - entity: person.rap
+      - entity: person.joel_jr
+      - entity: person.max
+      - entity: sun.sun
+      - entity: binary_sensor.updater
+      - entity: camera.outdoor_dine
+    cards:
+      - entity: weather.casa_parungao
+        type: weather-forecast
+        secondary_info_attribute: wind_speed
+        name: Weather
+      - elements:
+          - entity: sensor.1f_room_temperature
+            style:
+              font-size: 12px
+              left: 9%
+              top: 27%
+            type: state-label
+          - entity: sensor.rt_power
+            prefix: 'Now using '
+            style:
+              font-size: 14px
+              left: 25%
+              top: 4%
+            suffix: ' from the grid'
+            type: state-label
+          - entity: sensor.1f_room_humidity
+            style:
+              font-size: 12px
+              left: 8%
+              top: 30%
+            type: state-label
+          - entity: sensor.outside_temp
+            style:
+              font-size: 10px
+              left: 85%
+              top: 24%
+            type: state-badge
+          - entity: switch.garage_light
+            icon: 'mdi:ceiling-light'
+            style:
+              '--iron-icon-height': 32px
+              '--iron-icon-width': 32px
+              left: 54%
+              top: 76%
+            tap_action:
+              action: toggle
+            title: garage light
+            type: state-icon
+          - entity: switch.kitchen_light
+            icon: 'mdi:ceiling-light'
+            style:
+              '--iron-icon-height': 32px
+              '--iron-icon-width': 32px
+              left: 54%
+              top: 53%
+            tap_action:
+              action: toggle
+            title: kitchen light
+            type: state-icon
+          - entity: light.pilot
+            hold_action:
+              action: more-info
+            style:
+              '--iron-icon-height': 25px
+              '--iron-icon-width': 25px
+              left: 11%
+              top: 38%
+            tap_action:
+              action: toggle
+            title: pilot
+            type: state-icon
+          - entity: camera.outdoor_dine
+            hold_action:
+              action: more-info
+            icon: 'mdi:cctv'
+            style:
+              '--iron-icon-height': 20px
+              '--iron-icon-width': 20px
+              left: 42%
+              top: 61%
+              transform: rotatey(180deg)
+            tap_action:
+              action: more-info
+            title: Outdoor dine cam
+            type: state-icon
+          - conditions:
+              - entity: device_tracker.max
+                state: home
+            elements:
+              - entity: device_tracker.max
+                image: /local/floorplan/max_top.jpg
+                style:
+                  height: 16
+                  left: 62%
+                  top: 81%
+                  width: 11%
+                type: image
+            type: conditional
+        image: /local/floorplan/temp/first_floor.jpg
+        stylesheet: /local/floorplan/examples/simple/simple.css?v=1.1.14
+        title: Ground Floor
+        type: picture-elements
+      - entity: sensor.monthly_energy
+        max: 500
+        min: 0
+        name: This Month so far
+        theme: default
+        type: gauge
+        unit: kWH
+      - aggregate_func: max
+        entities:
+          - entity: sensor.daily_energy
+        group_by: date
+        hours_to_show: 168
+        name: Daily consumption (7-day cycle)
+        show:
+          graph: bar
+        type: 'custom:mini-graph-card'
+      - entities:
+          - entity: sensor.daily_energy
+        hours_to_show: 24
+        refresh_interval: 60
+        title: 24H Energy Curve
+        type: history-graph
+      - entities:
+          - entity: sensor.rt_power
+        hours_to_show: 24
+        refresh_interval: 60
+        title: 24H Power usage
+        type: history-graph
+      - entity: sensor.outside_temp
+        max: 50
+        min: 0
+        severity:
+          green: 0
+          red: 40
+          yellow: 30
+        theme: default
+        type: gauge
+      - cards:
+          - entity: sensor.1f_room_temperature
+            max: 50
+            min: 0
+            severity:
+              green: 0
+              red: 40
+              yellow: 30
+            type: gauge
+          - entity: sensor.1f_room_humidity
+            max: 100
+            min: 0
+            type: gauge
+        type: horizontal-stack
+    path: default_view
+    title: Home
+  - badges: []
+    cards:
+      - aspect_ratio: 0%
+        camera_image: camera.outdoor_dine
+        camera_view: live
+        entities: []
+        image: 'rtsp://admin:WWW.orchestra2020@192.168.1.234/live/ch00_1'
+        type: picture-glance
+        title: Garage
+      - entities:
+          - entity: sensor.rt_voltage
+          - entity: sensor.frequency
+          - entity: sensor.power_factor
+          - entity: sensor.rt_current
+          - entity: sensor.rt_power
+          - entity: sensor.rt_energy
+        show_header_toggle: false
+        title: Main Panel
+        type: entities
+      - entities:
+          - entity: switch.garage_light
+          - entity: switch.kitchen_light
+        show_header_toggle: false
+        title: Kitchen and Garage
+        type: entities
+      - hold_action:
+          action: more-info
+        name: IFTT Webhook
+        show_icon: true
+        show_name: true
+        state_color: true
+        tap_action:
+          action: toggle
+        type: button
+    path: security
+    title: Security
+  - badges: []
+    cards:
+      - title: Shopping List
+        type: shopping-list
+      - type: media-control
+        entity: media_player.1f_bedroom_tv
+    path: resources
+    title: Resources

@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "key": "cloud",
+    "data": {
+        "alexa_default_expose": [
+            "climate",
+            "cover",
+            "fan",
+            "humidifier",
+            "light",
+            "lock",
+            "scene",
+            "script",
+            "sensor",
+            "switch",
+            "vacuum",
+            "water_heater"
+        ],
+        "alexa_entity_configs": {},
+        "cloud_user": null,
+        "cloudhooks": {
+            "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12": {
+                "webhook_id": "5a56338a451109220ed393f005e71b34c824b338d9406e63242ce2df6fcbdc12",
+                "cloudhook_id": "0e00013aea384d22ac72f0b49f1e5fda",
+                "cloudhook_url": "https://hooks.nabu.casa/gAAAAABiEPbV5KMpJJjN0GKJNqHHc_L99A3iuSBeqHWXZ5y20ZYCLTjBa53q5qlEc5U0ghZb1Xml3je1n8LPhem4c0TkyeVmuyK3ytf8D7vpCemLIdtrbeaWQrlsNtNZ9qqlGSRzmCo8_-mdQjRJ52ma7TWPBO6zM9GKefm6VN2JSBuATnp96vU=",
+                "managed": true
+            },
+            "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273": {
+                "webhook_id": "642b5cb01d91a087223cbb9c890999f46e8f04bd1a0bc2e554e14f377ccd8273",
+                "cloudhook_id": "3f0a647229004a248359920c4f835d70",
+                "cloudhook_url": "https://hooks.nabu.casa/gAAAAABiKJMGKlAdPoGB6V_dSdu_FPrgyNcBrANg1YC2p07l2uQAszXIdOz9p8fA7NxdPtuLBWid5GihzreNdR6OG1JwzVx_ibnxOw0yow8P7gm7SdBMz55mepGKcyHr8owGURWAD4UinHDarUvOp3gopEx-d6GbyIHwsgHdYE1N15oCuLTMWGg=",
+                "managed": true
+            }
+        },
+        "alexa_enabled": true,
+        "google_enabled": true,
+        "remote_enabled": false,
+        "google_default_expose": [
+            "climate",
+            "cover",
+            "fan",
+            "humidifier",
+            "light",
+            "lock",
+            "scene",
+            "script",
+            "sensor",
+            "switch",
+            "vacuum",
+            "water_heater"
+        ],
+        "google_entity_configs": {},
+        "google_local_webhook_id": "1aad884ed8f34c911b9892f26d73aa639c1ab89e22d122053f60223da6d3c503",
+        "google_secure_devices_pin": null,
+        "username": "a4f6e62a-dced-43af-9c85-b8f32157ece9"
+    }
+}

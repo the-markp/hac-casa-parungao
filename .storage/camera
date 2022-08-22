@@ -1,0 +1,12 @@
+{
+    "data": {
+        "camera.bran": {
+            "preload_stream": true
+        },
+        "camera.outdoor_dine": {
+            "preload_stream": true
+        }
+    },
+    "key": "camera",
+    "version": 1
+}

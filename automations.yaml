@@ -1,0 +1,67 @@
+- id: '1582720363030'
+  alias: Lights out
+  description: Turns all the outdoor lights off
+  trigger:
+  - platform: time
+    at: '5:00'
+  condition: []
+  action:
+  - scene: scene.sunrise
+  mode: single
+- id: '1582973455501'
+  alias: sunset
+  description: ''
+  trigger:
+  - event: sunset
+    platform: sun
+  condition: []
+  action:
+  - scene: scene.sunset
+- id: '1582973560707'
+  alias: sunrise
+  description: ''
+  trigger:
+  - event: sunrise
+    platform: sun
+  condition: []
+  action:
+  - scene: scene.sunrise
+  mode: single
+- id: '1609373041840'
+  alias: open faucet warning
+  description: ''
+  trigger:
+  - platform: numeric_state
+    entity_id: sensor.main_water_line
+    above: '0.1'
+    for: 0:25:00
+  condition: []
+  action:
+  - scene: scene.blue_warning
+  mode: single
+- id: '1648562164603'
+  alias: Daytime restart
+  description: ''
+  trigger:
+  - platform: homeassistant
+    event: start
+  condition:
+  - condition: sun
+    before: sunset
+    after: sunrise
+  action:
+  - scene: scene.daytime_restart
+  mode: single
+- id: '1648562271213'
+  alias: Night time restart
+  description: ''
+  trigger:
+  - platform: homeassistant
+    event: start
+  condition:
+  - condition: sun
+    before: sunrise
+    after: sunset
+  action:
+  - scene: scene.night_time_restart
+  mode: single

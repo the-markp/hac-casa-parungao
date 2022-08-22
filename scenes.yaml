@@ -1,0 +1,200 @@
+- id: '1582973281415'
+  name: sunset
+  entities:
+    light.pilot:
+      min_mireds: 153.84616088867188
+      max_mireds: 357.1428527832031
+      brightness: 255
+      color_temp: 194
+      hs_color:
+      - 0
+      - 0
+      rgb_color:
+      - 255
+      - 255
+      - 255
+      xy_color:
+      - 0.323
+      - 0.329
+      white_value: 255
+      friendly_name: pilot
+      supported_features: 187
+      state: 'on'
+    switch.garage_light:
+      friendly_name: Garage LIGHT
+      icon: ''
+      state: 'on'
+    switch.son_basic_0_relay:
+      friendly_name: son_basic_0 relay
+      icon: ''
+      state: 'on'
+- id: '1582973512149'
+  name: sunrise
+  entities:
+    switch.kitchen_light:
+      friendly_name: Kitchen LIGHT
+      icon: ''
+      state: 'off'
+    switch.garage_light:
+      friendly_name: Garage LIGHT
+      icon: ''
+      state: 'off'
+    switch.son_basic_0_relay:
+      friendly_name: son_basic_0 relay
+      icon: ''
+      state: 'off'
+    switch.gazebo_pendant:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -52
+      friendly_name: Gazebo pendant
+      state: 'off'
+    switch.sonoff_1001407104:
+      manufacturer: SONOFF
+      model: MINI
+      sw_version: PSF-BD1-GL v3.6.0
+      local: online
+      rssi: -67
+      friendly_name: Tree lights
+      state: 'off'
+    switch.sonoff_1001411df4:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -52
+      friendly_name: Wall lamps
+      state: 'off'
+    switch.sonoff_100151816b:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -75
+      friendly_name: South Balcony
+      state: 'off'
+    switch.sonoff_100151e359:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -41
+      friendly_name: Garage Fence Lights
+      state: 'off'
+    switch.sonoff_10015215e9:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -57
+      friendly_name: North Perimeter Lights
+      state: 'off'
+    switch.sonoff_1001526d76:
+      manufacturer: SONOFF
+      model: MINI
+      sw_version: PSF-BD1-GL v3.6.0
+      local: online
+      rssi: -71
+      friendly_name: 'North Balcony '
+      state: 'off'
+    switch.sonoff_100152e4bb:
+      manufacturer: SONOFF
+      model: MINI
+      sw_version: PSF-BD1-GL v3.6.0
+      local: online
+      rssi: -79
+      friendly_name: South Perimeter Lights
+      state: 'off'
+- id: '1609372859671'
+  name: blue warning
+  entities:
+    light.pilot:
+      min_mireds: 153.84616088867188
+      max_mireds: 357.1428527832031
+      brightness: 255
+      color_temp: 356
+      hs_color:
+      - 240
+      - 100
+      rgb_color:
+      - 0
+      - 0
+      - 255
+      xy_color:
+      - 0.136
+      - 0.04
+      white_value: 0
+      friendly_name: pilot
+      supported_features: 187
+      state: 'on'
+- id: '1647785398782'
+  name: party
+  entities:
+    switch.sonoff_10015215e9:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -57
+      friendly_name: North Perimeter Lights
+      state: 'on'
+- id: '1648561853355'
+  name: Daytime restart
+  entities:
+    switch.sonoff_1001411df4:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -51
+      friendly_name: Wall lamps
+      state: 'off'
+- id: '1648561935660'
+  name: Night time restart
+  entities:
+    switch.sonoff_100151816b:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -71
+      friendly_name: South Balcony
+      state: 'on'
+    switch.sonoff_1001526d76:
+      manufacturer: SONOFF
+      model: MINI
+      sw_version: PSF-BD1-GL v3.6.0
+      local: online
+      rssi: -71
+      friendly_name: 'North Balcony '
+      state: 'on'
+    switch.garage_light:
+      friendly_name: Garage LIGHT
+      icon: ''
+      state: 'on'
+    switch.gazebo_pendant:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -50
+      friendly_name: Gazebo pendant
+      state: 'on'
+    switch.sonoff_10015215e9:
+      manufacturer: SONOFF
+      model: BASIC
+      sw_version: PSF-B01-GL v3.5.1
+      local: online
+      rssi: -58
+      friendly_name: North Perimeter Lights
+      state: 'on'
+    switch.sonoff_100152e4bb:
+      manufacturer: SONOFF
+      model: MINI
+      sw_version: PSF-BD1-GL v3.6.0
+      local: online
+      rssi: -73
+      friendly_name: South Perimeter Lights
+      state: 'on'

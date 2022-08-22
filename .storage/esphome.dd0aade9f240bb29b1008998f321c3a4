@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.dd0aade9f240bb29b1008998f321c3a4",
+  "data": {
+    "device_info": {
+      "uses_password": true,
+      "name": "son_basic_0",
+      "mac_address": "24:62:AB:58:F7:85",
+      "compilation_time": "Dec 16 2021, 21:42:37",
+      "model": "esp01_1m",
+      "has_deep_sleep": false,
+      "esphome_version": "2021.11.4",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 6
+    },
+    "binary_sensor": [
+      {
+        "object_id": "son_basic_0_button",
+        "key": 3216182896,
+        "name": "son_basic_0 button",
+        "unique_id": "son_basic_0binary_sensorson_basic_0_button",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "",
+        "is_status_binary_sensor": false
+      }
+    ],
+    "switch": [
+      {
+        "object_id": "son_basic_0_relay",
+        "key": 2375703255,
+        "name": "son_basic_0 relay",
+        "unique_id": "son_basic_0switchson_basic_0_relay",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "assumed_state": false,
+        "device_class": ""
+      }
+    ]
+  }
+}

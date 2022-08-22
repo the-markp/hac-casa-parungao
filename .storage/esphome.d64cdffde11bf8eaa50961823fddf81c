@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.d64cdffde11bf8eaa50961823fddf81c",
+  "data": {
+    "device_info": {
+      "uses_password": true,
+      "name": "bme680_0",
+      "mac_address": "84:CC:A8:A3:67:51",
+      "compilation_time": "Mar 13 2022, 22:08:21",
+      "model": "esp12e",
+      "has_deep_sleep": false,
+      "esphome_version": "2021.11.4",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 6
+    },
+    "sensor": [
+      {
+        "object_id": "bme680_temperature",
+        "key": 3640870636,
+        "name": "BME680 Temperature",
+        "unique_id": "bme680_0sensorbme680_temperature",
+        "disabled_by_default": false,
+        "icon": "mdi:thermometer",
+        "entity_category": 0,
+        "device_class": "temperature",
+        "unit_of_measurement": "°C",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "bme680_pressure",
+        "key": 1365279611,
+        "name": "BME680 Pressure",
+        "unique_id": "bme680_0sensorbme680_pressure",
+        "disabled_by_default": false,
+        "icon": "mdi:gauge",
+        "entity_category": 0,
+        "device_class": "pressure",
+        "unit_of_measurement": "hPa",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "bme680_humidity",
+        "key": 1277562889,
+        "name": "BME680 Humidity",
+        "unique_id": "bme680_0sensorbme680_humidity",
+        "disabled_by_default": false,
+        "icon": "mdi:water-percent",
+        "entity_category": 0,
+        "device_class": "humidity",
+        "unit_of_measurement": "%",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "bme680_gas_resistance",
+        "key": 426116527,
+        "name": "BME680 Gas Resistance",
+        "unique_id": "bme680_0sensorbme680_gas_resistance",
+        "disabled_by_default": false,
+        "icon": "mdi:gas-cylinder",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "Ω",
+        "accuracy_decimals": 0,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "bme680_iaq",
+        "key": 2104753181,
+        "name": "BME680 IAQ",
+        "unique_id": "bme680_0sensorbme680_iaq",
+        "disabled_by_default": false,
+        "icon": "mdi:gauge",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "IAQ",
+        "accuracy_decimals": 0,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "bme680_co2_equivalent",
+        "key": 1883882361,
+        "name": "BME680 CO2 Equivalent",
+        "unique_id": "bme680_0sensorbme680_co2_equivalent",
+        "disabled_by_default": false,
+        "icon": "mdi:test-tube",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "ppm",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "bme680_breath_voc_equivalent",
+        "key": 3764174908,
+        "name": "BME680 Breath VOC Equivalent",
+        "unique_id": "bme680_0sensorbme680_breath_voc_equivalent",
+        "disabled_by_default": false,
+        "icon": "mdi:test-tube",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "ppm",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      }
+    ],
+    "text_sensor": [
+      {
+        "object_id": "bme680_iaq_accuracy",
+        "key": 1338075055,
+        "name": "BME680 IAQ Accuracy",
+        "unique_id": "bme680_0text_sensorbme680_iaq_accuracy",
+        "disabled_by_default": false,
+        "icon": "mdi:checkbox-marked-circle-outline",
+        "entity_category": 0
+      }
+    ]
+  }
+}
