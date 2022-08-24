@@ -18,16 +18,16 @@
           "friendly_name": "Mark Parungao",
           "entity_picture": "/local/profile_pic/Mark.jpg"
         },
-        "last_changed": "2022-08-21T01:44:36.822697+00:00",
-        "last_updated": "2022-08-21T01:45:07.363628+00:00",
+        "last_changed": "2022-08-24T02:32:39.644632+00:00",
+        "last_updated": "2022-08-24T02:32:54.188940+00:00",
         "context": {
-          "id": "01GAZ16EH395SK5B8ME75EYEDP",
+          "id": "01GB6V435CFZJW8QMN0QTS5HC9",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -44,16 +44,16 @@
           "friendly_name": "Yan",
           "entity_picture": "/local/profile_pic/Yan.jpg"
         },
-        "last_changed": "2022-08-21T01:44:36.823693+00:00",
-        "last_updated": "2022-08-21T01:45:07.364698+00:00",
+        "last_changed": "2022-08-24T02:32:39.645358+00:00",
+        "last_updated": "2022-08-24T02:32:54.189710+00:00",
         "context": {
-          "id": "01GAZ16EH4QG5SZGGMXFZQPERK",
+          "id": "01GB6V435D8P64GAQF4EPDX0R8",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -67,16 +67,16 @@
           "friendly_name": "Rap",
           "entity_picture": "/local/profile_pic/Rap.jpg"
         },
-        "last_changed": "2022-08-21T01:44:36.824516+00:00",
-        "last_updated": "2022-08-21T01:45:07.367146+00:00",
+        "last_changed": "2022-08-24T02:32:39.645941+00:00",
+        "last_updated": "2022-08-24T02:32:54.190296+00:00",
         "context": {
-          "id": "01GAZ16EH7HE9YA0KYTHBDW7PF",
+          "id": "01GB6V435EJD0SH19PHVDHHZK3",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -90,16 +90,16 @@
           "friendly_name": "Joel Jr.",
           "entity_picture": "/local/profile_pic/Joeldp.jpg"
         },
-        "last_changed": "2022-08-21T01:44:36.825305+00:00",
-        "last_updated": "2022-08-21T01:45:07.369604+00:00",
+        "last_changed": "2022-08-24T02:32:39.646487+00:00",
+        "last_updated": "2022-08-24T02:32:54.190812+00:00",
         "context": {
-          "id": "01GAZ16EH99Q3X64KPTFCYTQ8T",
+          "id": "01GB6V435ESCKQPQ98DMWKKTFW",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -111,16 +111,16 @@
           "user_id": "9037ef08b8bc45e4a1456c6c0034b502",
           "friendly_name": "Char"
         },
-        "last_changed": "2022-08-21T01:44:36.825997+00:00",
-        "last_updated": "2022-08-21T01:45:07.370695+00:00",
+        "last_changed": "2022-08-24T02:32:39.647146+00:00",
+        "last_updated": "2022-08-24T02:32:54.191221+00:00",
         "context": {
-          "id": "01GAZ16EHA7R0WYN7NV5PX11EB",
+          "id": "01GB6V435FB679TKR7ENBSFD28",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -132,16 +132,16 @@
           "user_id": "c8eee6b8a5884e57992ac516c3741875",
           "friendly_name": "Ivan"
         },
-        "last_changed": "2022-08-21T01:44:36.826693+00:00",
-        "last_updated": "2022-08-21T01:45:07.371313+00:00",
+        "last_changed": "2022-08-24T02:32:39.648424+00:00",
+        "last_updated": "2022-08-24T02:32:54.191627+00:00",
         "context": {
-          "id": "01GAZ16EHBW4SYZ5HT717DGVQH",
+          "id": "01GB6V435FH61A83A77N332FR1",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -153,16 +153,16 @@
           "user_id": "e21a158e5f434d6fa29af1d75cefd28f",
           "friendly_name": "Kevin"
         },
-        "last_changed": "2022-08-21T01:44:36.827363+00:00",
-        "last_updated": "2022-08-21T01:45:07.372095+00:00",
+        "last_changed": "2022-08-24T02:32:39.649450+00:00",
+        "last_updated": "2022-08-24T02:32:54.192091+00:00",
         "context": {
-          "id": "01GAZ16EHC2KD8DS9YH8NKKM23",
+          "id": "01GB6V435GD3D71PNBBRP1HZWH",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -174,21 +174,21 @@
           "user_id": "e41f5914765a45f186ad3493cd404909",
           "friendly_name": "Joel"
         },
-        "last_changed": "2022-08-21T01:44:36.828120+00:00",
-        "last_updated": "2022-08-21T01:45:07.372593+00:00",
+        "last_changed": "2022-08-24T02:32:39.650447+00:00",
+        "last_updated": "2022-08-24T02:32:54.192444+00:00",
         "context": {
-          "id": "01GAZ16EHCJ0V5CY350F20EN51",
+          "id": "01GB6V435GF2D5WDEJ1PVCZN47",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "scene.sunset",
-        "state": "2022-08-22T10:16:08.489305+00:00",
+        "state": "2022-08-23T10:15:29.966531+00:00",
         "attributes": {
           "entity_id": [
             "light.pilot",
@@ -198,21 +198,21 @@
           "id": "1582973281415",
           "friendly_name": "sunset"
         },
-        "last_changed": "2022-08-22T10:16:08.489577+00:00",
-        "last_updated": "2022-08-22T10:16:08.489577+00:00",
+        "last_changed": "2022-08-24T02:32:48.566191+00:00",
+        "last_updated": "2022-08-24T02:32:48.566191+00:00",
         "context": {
-          "id": "01GB2GTW15J06Z36CXC82S9839",
+          "id": "01GB6V3XNP536AMSJPX9XADV7T",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "scene.sunrise",
-        "state": "2022-08-21T21:43:48.129454+00:00",
+        "state": "2022-08-23T21:44:03.233601+00:00",
         "attributes": {
           "entity_id": [
             "switch.kitchen_light",
@@ -230,16 +230,16 @@
           "id": "1582973512149",
           "friendly_name": "sunrise"
         },
-        "last_changed": "2022-08-21T21:43:48.129750+00:00",
-        "last_updated": "2022-08-21T21:43:48.129750+00:00",
+        "last_changed": "2022-08-24T02:32:48.566852+00:00",
+        "last_updated": "2022-08-24T02:32:48.566852+00:00",
         "context": {
-          "id": "01GB15S9MVH5NA9HR72HAXA1CA",
+          "id": "01GB6V3XNPMNN4DGJVD3ANKNA4",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -252,16 +252,16 @@
           "id": "1609372859671",
           "friendly_name": "blue warning"
         },
-        "last_changed": "2022-08-21T08:11:30.888659+00:00",
-        "last_updated": "2022-08-21T08:11:30.888659+00:00",
+        "last_changed": "2022-08-24T02:32:48.568091+00:00",
+        "last_updated": "2022-08-24T02:32:48.568091+00:00",
         "context": {
-          "id": "01GAZQ9YP4NKRRXK7NK7FD23EJ",
-          "parent_id": "01GAZNW5V1MSMC1N64G5R6Q4ZG",
+          "id": "01GB6V3XNR7V49TX1X1FEJ1Q55",
+          "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -274,16 +274,16 @@
           "id": "1647785398782",
           "friendly_name": "party"
         },
-        "last_changed": "2022-08-21T01:44:46.631266+00:00",
-        "last_updated": "2022-08-21T01:44:46.631266+00:00",
+        "last_changed": "2022-08-24T02:32:48.568578+00:00",
+        "last_updated": "2022-08-24T02:32:48.568578+00:00",
         "context": {
-          "id": "01GAZ15T97BYQFBWV9YVPXHH4J",
+          "id": "01GB6V3XNRXK6DX42SF4HM8YPM",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -296,16 +296,16 @@
           "id": "1648561853355",
           "friendly_name": "Daytime restart"
         },
-        "last_changed": "2022-08-21T01:45:08.681303+00:00",
-        "last_updated": "2022-08-21T01:45:08.681303+00:00",
+        "last_changed": "2022-08-24T02:32:48.568959+00:00",
+        "last_updated": "2022-08-24T02:32:48.568959+00:00",
         "context": {
-          "id": "01GAZ16FQXDMMR496JV38PYD25",
+          "id": "01GB6V3XNRMAAGD3ZSCBP6YVKH",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -323,60 +323,193 @@
           "id": "1648561935660",
           "friendly_name": "Night time restart"
         },
-        "last_changed": "2022-08-21T01:44:46.632651+00:00",
-        "last_updated": "2022-08-21T01:44:46.632651+00:00",
+        "last_changed": "2022-08-24T02:32:48.569350+00:00",
+        "last_updated": "2022-08-24T02:32:48.569350+00:00",
         "context": {
-          "id": "01GAZ15T98W5MQ2RS6MR0KKC5T",
+          "id": "01GB6V3XNSKHV6J6NZ6PP84XRH",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rt_energy",
-        "state": "8595.61",
+        "state": "8622.09",
         "attributes": {
           "state_class": "total",
           "source": "sensor.rt_power",
           "unit_of_measurement": "kWh",
           "device_class": "energy",
+          "icon": "mdi:chart-histogram",
           "friendly_name": "rt_energy"
         },
-        "last_changed": "2022-08-22T10:58:10.602112+00:00",
-        "last_updated": "2022-08-22T10:58:10.602112+00:00",
+        "last_changed": "2022-08-24T02:32:49.525184+00:00",
+        "last_updated": "2022-08-24T02:32:49.525184+00:00",
         "context": {
-          "id": "01GB2K7V1ANY3EB10PPP24C2K6",
+          "id": "01GB6V3YKND45NXAPGNSFAHHHY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.midnight",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-08-23T21:00:00.003849+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1582720363030",
+          "friendly_name": "Lights out"
+        },
+        "last_changed": "2022-08-24T02:32:50.229236+00:00",
+        "last_updated": "2022-08-24T02:32:50.229236+00:00",
+        "context": {
+          "id": "01GB6V3Z9NX2KSR4RYM5ATZW9C",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.sunset",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-08-23T10:15:29.964288+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1582973455501",
+          "friendly_name": "sunset"
+        },
+        "last_changed": "2022-08-24T02:32:50.230581+00:00",
+        "last_updated": "2022-08-24T02:32:50.230581+00:00",
+        "context": {
+          "id": "01GB6V3Z9P883PWDFX12YD9Z3V",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.sunrise",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-08-23T21:44:03.220306+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1582973560707",
+          "friendly_name": "sunrise"
+        },
+        "last_changed": "2022-08-24T02:32:50.231839+00:00",
+        "last_updated": "2022-08-24T02:32:50.231839+00:00",
+        "context": {
+          "id": "01GB6V3Z9QWBD5K2AZPTC5FPGA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.open_faucet_warning",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-08-21T08:11:30.885822+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1609373041840",
+          "friendly_name": "open faucet warning"
+        },
+        "last_changed": "2022-08-24T02:32:50.241221+00:00",
+        "last_updated": "2022-08-24T02:32:50.241221+00:00",
+        "context": {
+          "id": "01GB6V3ZA1H3QWX8Z67RV97PH8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.daytime_restart",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-08-21T01:45:08.607969+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1648562164603",
+          "friendly_name": "Daytime restart"
+        },
+        "last_changed": "2022-08-24T02:32:50.242392+00:00",
+        "last_updated": "2022-08-24T02:32:50.242392+00:00",
+        "context": {
+          "id": "01GB6V3ZA2X7HYWRG324GHG0NM",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.night_time_restart",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "id": "1648562271213",
+          "friendly_name": "Night time restart"
+        },
+        "last_changed": "2022-08-24T02:32:50.243198+00:00",
+        "last_updated": "2022-08-24T02:32:50.243198+00:00",
+        "context": {
+          "id": "01GB6V3ZA3JPBGMNJ0H3FENWS4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.daily_energy",
-        "state": "17.24",
+        "state": "6.12",
         "attributes": {
           "state_class": "total_increasing",
           "source": "sensor.rt_energy",
           "status": "collecting",
-          "last_period": "15.85",
+          "last_period": "16.01",
           "meter_period": "daily",
           "cron pattern": "0 0 * * *",
-          "last_reset": "2022-08-21T16:00:00.020891+00:00",
+          "last_reset": "2022-08-23T16:00:00.008527+00:00",
           "unit_of_measurement": "kWh",
           "device_class": "energy",
           "icon": "mdi:counter",
           "friendly_name": "daily_energy"
         },
-        "last_changed": "2022-08-22T10:58:10.603036+00:00",
-        "last_updated": "2022-08-22T10:58:10.603036+00:00",
+        "last_changed": "2022-08-24T02:32:50.253892+00:00",
+        "last_updated": "2022-08-24T02:32:50.253892+00:00",
         "context": {
-          "id": "01GB2K7V1B02GP6EGQ14A85X9P",
+          "id": "01GB6V3ZAD4HV8ZVBKS01KCD13",
           "parent_id": null,
           "user_id": null
         }
@@ -384,19 +517,19 @@
       "extra_data": {
         "native_value": {
           "__type": "<class 'decimal.Decimal'>",
-          "decimal_str": "17.24"
+          "decimal_str": "6.12"
         },
         "native_unit_of_measurement": "kWh",
-        "last_period": "15.85",
-        "last_reset": "2022-08-21T16:00:00.020891+00:00",
+        "last_period": "16.01",
+        "last_reset": "2022-08-23T16:00:00.008527+00:00",
         "status": "collecting"
       },
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.monthly_energy",
-        "state": "33.09",
+        "state": "59.57",
         "attributes": {
           "state_class": "total_increasing",
           "source": "sensor.rt_energy",
@@ -410,10 +543,10 @@
           "icon": "mdi:counter",
           "friendly_name": "monthly_energy"
         },
-        "last_changed": "2022-08-22T10:58:10.603649+00:00",
-        "last_updated": "2022-08-22T10:58:10.603649+00:00",
+        "last_changed": "2022-08-24T02:32:50.260608+00:00",
+        "last_updated": "2022-08-24T02:32:50.260608+00:00",
         "context": {
-          "id": "01GB2K7V1BH8529D0M8XAW4HZ3",
+          "id": "01GB6V3ZAM70TKMTW390NW8V4Q",
           "parent_id": null,
           "user_id": null
         }
@@ -421,35 +554,35 @@
       "extra_data": {
         "native_value": {
           "__type": "<class 'decimal.Decimal'>",
-          "decimal_str": "33.09"
+          "decimal_str": "59.57"
         },
         "native_unit_of_measurement": "kWh",
         "last_period": "765.55",
         "last_reset": "2022-07-31T16:00:00.006574+00:00",
         "status": "collecting"
       },
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.daily_water",
-        "state": "1673.82",
+        "state": "396.59",
         "attributes": {
           "state_class": "total_increasing",
           "source": "sensor.main_water_line",
           "status": "collecting",
-          "last_period": "1594.45",
+          "last_period": "1314.89",
           "meter_period": "daily",
           "cron pattern": "0 0 * * *",
-          "last_reset": "2022-08-21T16:00:00.009469+00:00",
+          "last_reset": "2022-08-23T16:00:00.021393+00:00",
           "unit_of_measurement": "L/min",
           "icon": "mdi:counter",
           "friendly_name": "daily_water"
         },
-        "last_changed": "2022-08-22T10:59:52.546891+00:00",
-        "last_updated": "2022-08-22T10:59:52.546891+00:00",
+        "last_changed": "2022-08-24T02:32:50.267066+00:00",
+        "last_updated": "2022-08-24T02:32:50.267066+00:00",
         "context": {
-          "id": "01GB2KAYK2SCY8BDPKPKRANT8K",
+          "id": "01GB6V3ZAV2CMJNZFEW9W148K1",
           "parent_id": null,
           "user_id": null
         }
@@ -457,146 +590,14 @@
       "extra_data": {
         "native_value": {
           "__type": "<class 'decimal.Decimal'>",
-          "decimal_str": "1673.82"
+          "decimal_str": "396.59"
         },
         "native_unit_of_measurement": "L/min",
-        "last_period": "1594.45",
-        "last_reset": "2022-08-21T16:00:00.009469+00:00",
+        "last_period": "1314.89",
+        "last_reset": "2022-08-23T16:00:00.021393+00:00",
         "status": "collecting"
       },
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.midnight",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-08-21T21:00:00.003268+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1582720363030",
-          "friendly_name": "Lights out"
-        },
-        "last_changed": "2022-08-21T01:45:01.187563+00:00",
-        "last_updated": "2022-08-21T21:00:00.029624+00:00",
-        "context": {
-          "id": "01GB139342KPZ9V0JEP0V1J5YB",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.sunset",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-08-22T10:16:08.486412+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1582973455501",
-          "friendly_name": "sunset"
-        },
-        "last_changed": "2022-08-21T01:45:01.189332+00:00",
-        "last_updated": "2022-08-22T10:16:08.556953+00:00",
-        "context": {
-          "id": "01GB2GTW15J06Z36CXC82S9839",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.sunrise",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-08-21T21:43:48.126019+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1582973560707",
-          "friendly_name": "sunrise"
-        },
-        "last_changed": "2022-08-21T01:45:01.190918+00:00",
-        "last_updated": "2022-08-21T21:43:48.149667+00:00",
-        "context": {
-          "id": "01GB15S9MVH5NA9HR72HAXA1CA",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.open_faucet_warning",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-08-21T08:11:30.885822+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1609373041840",
-          "friendly_name": "open faucet warning"
-        },
-        "last_changed": "2022-08-21T01:45:01.192426+00:00",
-        "last_updated": "2022-08-21T08:11:30.895971+00:00",
-        "context": {
-          "id": "01GAZQ9YP4NKRRXK7NK7FD23EJ",
-          "parent_id": "01GAZNW5V1MSMC1N64G5R6Q4ZG",
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.daytime_restart",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-08-21T01:45:08.607969+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1648562164603",
-          "friendly_name": "Daytime restart"
-        },
-        "last_changed": "2022-08-21T01:45:01.194689+00:00",
-        "last_updated": "2022-08-21T01:45:08.878037+00:00",
-        "context": {
-          "id": "01GAZ16FQXDMMR496JV38PYD25",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.night_time_restart",
-        "state": "on",
-        "attributes": {
-          "last_triggered": null,
-          "mode": "single",
-          "current": 0,
-          "id": "1648562271213",
-          "friendly_name": "Night time restart"
-        },
-        "last_changed": "2022-08-21T01:45:01.196491+00:00",
-        "last_updated": "2022-08-21T01:45:01.196491+00:00",
-        "context": {
-          "id": "01GAZ168GC53H0HWHHFKTA90RH",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -606,16 +607,16 @@
           "icon": "mdi:wifi-strength-2",
           "friendly_name": "MI 8 Wifi Connection"
         },
-        "last_changed": "2022-08-21T01:45:06.691952+00:00",
-        "last_updated": "2022-08-21T01:45:06.691952+00:00",
+        "last_changed": "2022-08-24T02:32:52.333785+00:00",
+        "last_updated": "2022-08-24T02:32:52.333785+00:00",
         "context": {
-          "id": "01GAZ16DW33MNGE8KBEJZE7461",
+          "id": "01GB6V41BD7F17AGEHCNBV07XJ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -625,16 +626,16 @@
           "icon": "mdi:wifi",
           "friendly_name": "Alyanna Alexandria’s iPhone SSID"
         },
-        "last_changed": "2022-08-21T01:45:06.692715+00:00",
-        "last_updated": "2022-08-21T01:45:06.692715+00:00",
+        "last_changed": "2022-08-24T02:32:52.334862+00:00",
+        "last_updated": "2022-08-24T02:32:52.334862+00:00",
         "context": {
-          "id": "01GAZ16DW4C8Q8GT51EJ2YEM23",
+          "id": "01GB6V41BE51TS6WMHKR3VXR9C",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -644,16 +645,16 @@
           "icon": "mdi:map",
           "friendly_name": "Alyanna Alexandria’s iPhone Geocoded Location"
         },
-        "last_changed": "2022-08-21T01:45:06.693276+00:00",
-        "last_updated": "2022-08-21T01:45:06.693276+00:00",
+        "last_changed": "2022-08-24T02:32:52.335438+00:00",
+        "last_updated": "2022-08-24T02:32:52.335438+00:00",
         "context": {
-          "id": "01GAZ16DW571MAJDZFWJ99VHBH",
+          "id": "01GB6V41BF84J2N212S2G6RWBJ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -663,16 +664,16 @@
           "icon": "mdi:wifi-star",
           "friendly_name": "Ralph Laurence's iPhone BSSID"
         },
-        "last_changed": "2022-08-21T01:45:06.693782+00:00",
-        "last_updated": "2022-08-21T01:45:06.693782+00:00",
+        "last_changed": "2022-08-24T02:32:52.336456+00:00",
+        "last_updated": "2022-08-24T02:32:52.336456+00:00",
         "context": {
-          "id": "01GAZ16DW58E6B8HM8Z2JBWH4T",
+          "id": "01GB6V41BGF9Y7QY11AQCWMTY0",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -682,16 +683,16 @@
           "icon": "mdi:wifi",
           "friendly_name": "Ralph Laurence's iPhone SSID"
         },
-        "last_changed": "2022-08-21T01:45:06.694355+00:00",
-        "last_updated": "2022-08-21T01:45:06.694355+00:00",
+        "last_changed": "2022-08-24T02:32:52.337084+00:00",
+        "last_updated": "2022-08-24T02:32:52.337084+00:00",
         "context": {
-          "id": "01GAZ16DW6BYK3XJX4PP7V1P91",
+          "id": "01GB6V41BH6RWVEKYZ6HQRTMWY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -703,16 +704,16 @@
           "icon": "mdi:battery-10",
           "friendly_name": "YAL-L21 Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.694935+00:00",
-        "last_updated": "2022-08-21T01:45:06.694935+00:00",
+        "last_changed": "2022-08-24T02:32:52.337573+00:00",
+        "last_updated": "2022-08-24T02:32:52.337573+00:00",
         "context": {
-          "id": "01GAZ16DW6MKP2CBMBHX87NNBY",
+          "id": "01GB6V41BH7WHYYEZ4EG3HS9PY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -722,16 +723,16 @@
           "icon": "mdi:wifi-strength-off",
           "friendly_name": "YAL-L21 Wifi Connection"
         },
-        "last_changed": "2022-08-21T01:45:06.695481+00:00",
-        "last_updated": "2022-08-21T01:45:06.695481+00:00",
+        "last_changed": "2022-08-24T02:32:52.338137+00:00",
+        "last_updated": "2022-08-24T02:32:52.338137+00:00",
         "context": {
-          "id": "01GAZ16DW7QDRSY73T1N8Y2047",
+          "id": "01GB6V41BJBR1KEYD1WB64T0N5",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -741,16 +742,16 @@
           "icon": "mdi:map",
           "friendly_name": "YAL-L21 Geocoded Location"
         },
-        "last_changed": "2022-08-21T01:45:06.695995+00:00",
-        "last_updated": "2022-08-21T01:45:06.695995+00:00",
+        "last_changed": "2022-08-24T02:32:52.338615+00:00",
+        "last_updated": "2022-08-24T02:32:52.338615+00:00",
         "context": {
-          "id": "01GAZ16DW749Y87P6ZP2DSP3DF",
+          "id": "01GB6V41BJ4DSAHYEJHRTXPY43",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -762,16 +763,16 @@
           "icon": "mdi:battery-30",
           "friendly_name": "Nokia 8.1 Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.696501+00:00",
-        "last_updated": "2022-08-21T01:45:06.696501+00:00",
+        "last_changed": "2022-08-24T02:32:52.339066+00:00",
+        "last_updated": "2022-08-24T02:32:52.339066+00:00",
         "context": {
-          "id": "01GAZ16DW8ENCVQD302G8Z3ESX",
+          "id": "01GB6V41BKXTAYKP6AYMTR2CTC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -782,16 +783,16 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "Nokia 8.1 Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.697107+00:00",
-        "last_updated": "2022-08-21T01:45:06.697107+00:00",
+        "last_changed": "2022-08-24T02:32:52.339512+00:00",
+        "last_updated": "2022-08-24T02:32:52.339512+00:00",
         "context": {
-          "id": "01GAZ16DW92QHQ4FKRFN756V19",
+          "id": "01GB6V41BKEXWDZ2FJJWQ742TQ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -801,16 +802,16 @@
           "icon": "mdi:battery",
           "friendly_name": "Nokia 8.1 Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.697721+00:00",
-        "last_updated": "2022-08-21T01:45:06.697721+00:00",
+        "last_changed": "2022-08-24T02:32:52.339955+00:00",
+        "last_updated": "2022-08-24T02:32:52.339955+00:00",
         "context": {
-          "id": "01GAZ16DW93SAZAFVDB5GSPVHY",
+          "id": "01GB6V41BKRTWF3ZVN7292C90A",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -821,16 +822,16 @@
           "icon": "mdi:restart",
           "friendly_name": "Nokia 8.1 Last Reboot"
         },
-        "last_changed": "2022-08-21T01:45:06.698395+00:00",
-        "last_updated": "2022-08-21T01:45:06.698395+00:00",
+        "last_changed": "2022-08-24T02:32:52.340400+00:00",
+        "last_updated": "2022-08-24T02:32:52.340400+00:00",
         "context": {
-          "id": "01GAZ16DWANTP0QWMSGAV1JG8E",
+          "id": "01GB6V41BMME1KTWEHBRGT2X66",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -842,16 +843,16 @@
           "icon": "mdi:brightness-5",
           "friendly_name": "Nokia 8.1 Light Sensor"
         },
-        "last_changed": "2022-08-21T01:45:06.698970+00:00",
-        "last_updated": "2022-08-21T01:45:06.698970+00:00",
+        "last_changed": "2022-08-24T02:32:52.340842+00:00",
+        "last_updated": "2022-08-24T02:32:52.340842+00:00",
         "context": {
-          "id": "01GAZ16DWA28SP0HB7G5PPZX25",
+          "id": "01GB6V41BMHR6Q6CCWH4PBB145",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -862,16 +863,16 @@
           "icon": "mdi:alarm",
           "friendly_name": "Nokia 8.1 Next Alarm"
         },
-        "last_changed": "2022-08-21T01:45:06.699476+00:00",
-        "last_updated": "2022-08-21T01:45:06.699476+00:00",
+        "last_changed": "2022-08-24T02:32:52.341290+00:00",
+        "last_updated": "2022-08-24T02:32:52.341290+00:00",
         "context": {
-          "id": "01GAZ16DWBQ8CV5F59DGVZC3EZ",
+          "id": "01GB6V41BN4DJTM1MARJWH1G7G",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -881,16 +882,16 @@
           "icon": "mdi:leak",
           "friendly_name": "Nokia 8.1 Proximity Sensor"
         },
-        "last_changed": "2022-08-21T01:45:06.700052+00:00",
-        "last_updated": "2022-08-21T01:45:06.700052+00:00",
+        "last_changed": "2022-08-24T02:32:52.341734+00:00",
+        "last_updated": "2022-08-24T02:32:52.341734+00:00",
         "context": {
-          "id": "01GAZ16DWCGAMXDQRCQ0EXZAHX",
+          "id": "01GB6V41BNQTK9F5QMDGSGRPZD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -901,16 +902,16 @@
           "icon": "mdi:harddisk",
           "friendly_name": "Nokia 8.1 Internal Storage"
         },
-        "last_changed": "2022-08-21T01:45:06.700670+00:00",
-        "last_updated": "2022-08-21T01:45:06.700670+00:00",
+        "last_changed": "2022-08-24T02:32:52.342177+00:00",
+        "last_updated": "2022-08-24T02:32:52.342177+00:00",
         "context": {
-          "id": "01GAZ16DWCKGNE5RHJH6GNWPP8",
+          "id": "01GB6V41BP8KXGXD1TKEGQ61RA",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -920,16 +921,16 @@
           "icon": "mdi:volume-high",
           "friendly_name": "Nokia 8.1 Ringer Mode"
         },
-        "last_changed": "2022-08-21T01:45:06.701338+00:00",
-        "last_updated": "2022-08-21T01:45:06.701338+00:00",
+        "last_changed": "2022-08-24T02:32:52.342620+00:00",
+        "last_updated": "2022-08-24T02:32:52.342620+00:00",
         "context": {
-          "id": "01GAZ16DWDMA6DVFB1RTN8JBNA",
+          "id": "01GB6V41BPSC4YGEXPGQT0PBA0",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -940,16 +941,16 @@
           "icon": "mdi:bluetooth",
           "friendly_name": "Nokia 8.1 Bluetooth Connection"
         },
-        "last_changed": "2022-08-21T01:45:06.701962+00:00",
-        "last_updated": "2022-08-21T01:45:06.701962+00:00",
+        "last_changed": "2022-08-24T02:32:52.343065+00:00",
+        "last_updated": "2022-08-24T02:32:52.343065+00:00",
         "context": {
-          "id": "01GAZ16DWDWMA73AP17RKHRNQC",
+          "id": "01GB6V41BQJMYW88MN78ETS16N",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -959,16 +960,16 @@
           "icon": "mdi:minus-circle",
           "friendly_name": "Nokia 8.1 Do Not Disturb Sensor"
         },
-        "last_changed": "2022-08-21T01:45:06.702630+00:00",
-        "last_updated": "2022-08-21T01:45:06.702630+00:00",
+        "last_changed": "2022-08-24T02:32:52.343511+00:00",
+        "last_updated": "2022-08-24T02:32:52.343511+00:00",
         "context": {
-          "id": "01GAZ16DWEN5E3QCYWDV35VJK6",
+          "id": "01GB6V41BQRWEVA04045JDSZKB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -978,16 +979,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "Nokia 8.1 Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.703376+00:00",
-        "last_updated": "2022-08-21T01:45:06.703376+00:00",
+        "last_changed": "2022-08-24T02:32:52.343959+00:00",
+        "last_updated": "2022-08-24T02:32:52.343959+00:00",
         "context": {
-          "id": "01GAZ16DWF0JRJPD5AJTX9F3A9",
+          "id": "01GB6V41BQF08S5HXWZKBT61FD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -999,16 +1000,16 @@
           "icon": "mdi:battery",
           "friendly_name": "Nokia 8.1 Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.704084+00:00",
-        "last_updated": "2022-08-21T01:45:06.704084+00:00",
+        "last_changed": "2022-08-24T02:32:52.344413+00:00",
+        "last_updated": "2022-08-24T02:32:52.344413+00:00",
         "context": {
-          "id": "01GAZ16DWGGWGSZC1YF2H2XFVZ",
+          "id": "01GB6V41BRA87MPD7ZMWEXMTR6",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1019,16 +1020,16 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "Nokia 8.1 Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.705059+00:00",
-        "last_updated": "2022-08-21T01:45:06.705059+00:00",
+        "last_changed": "2022-08-24T02:32:52.344893+00:00",
+        "last_updated": "2022-08-24T02:32:52.344893+00:00",
         "context": {
-          "id": "01GAZ16DWH6KSB6ESEYZN9CD74",
+          "id": "01GB6V41BRTCXE256TJ5CTBCK8",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1040,16 +1041,16 @@
           "icon": "mdi:battery-40",
           "friendly_name": "Yan's phone Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.705860+00:00",
-        "last_updated": "2022-08-21T01:45:06.705860+00:00",
+        "last_changed": "2022-08-24T02:32:52.345348+00:00",
+        "last_updated": "2022-08-24T02:32:52.345348+00:00",
         "context": {
-          "id": "01GAZ16DWHGHKTDVB9BBYCAF0X",
+          "id": "01GB6V41BSP08K673M3FM7R6DJ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1059,16 +1060,16 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "Yan's phone Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.706752+00:00",
-        "last_updated": "2022-08-21T01:45:06.706752+00:00",
+        "last_changed": "2022-08-24T02:32:52.345793+00:00",
+        "last_updated": "2022-08-24T02:32:52.345793+00:00",
         "context": {
-          "id": "01GAZ16DWJHYY35CVZWTT2ZTVF",
+          "id": "01GB6V41BSPD58Y7ZPDXT8RR4Z",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1078,16 +1079,16 @@
           "icon": "mdi:battery",
           "friendly_name": "Yan's phone Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.707589+00:00",
-        "last_updated": "2022-08-21T01:45:06.707589+00:00",
+        "last_changed": "2022-08-24T02:32:52.346264+00:00",
+        "last_updated": "2022-08-24T02:32:52.346264+00:00",
         "context": {
-          "id": "01GAZ16DWKBRH9K6WVM7JPJHVV",
+          "id": "01GB6V41BTYZKXRRE5ZFW8AERT",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1097,16 +1098,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "Yan's phone Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.708798+00:00",
-        "last_updated": "2022-08-21T01:45:06.708798+00:00",
+        "last_changed": "2022-08-24T02:32:52.346712+00:00",
+        "last_updated": "2022-08-24T02:32:52.346712+00:00",
         "context": {
-          "id": "01GAZ16DWMMMH9WSBKNMSXX8NF",
+          "id": "01GB6V41BTAX4K8EH3FFBNZHQC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1118,16 +1119,16 @@
           "icon": "mdi:battery",
           "friendly_name": "Yan's phone Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.709676+00:00",
-        "last_updated": "2022-08-21T01:45:06.709676+00:00",
+        "last_changed": "2022-08-24T02:32:52.347165+00:00",
+        "last_updated": "2022-08-24T02:32:52.347165+00:00",
         "context": {
-          "id": "01GAZ16DWNC2J2ZS80X6YPJA2C",
+          "id": "01GB6V41BV1SKMZ14R18KTSS5H",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1138,16 +1139,16 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "Yan's phone Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.710533+00:00",
-        "last_updated": "2022-08-21T01:45:06.710533+00:00",
+        "last_changed": "2022-08-24T02:32:52.347615+00:00",
+        "last_updated": "2022-08-24T02:32:52.347615+00:00",
         "context": {
-          "id": "01GAZ16DWPB14RQX9K9NTCG32Q",
+          "id": "01GB6V41BVQMNSGCGW93WH8XDE",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1159,16 +1160,16 @@
           "icon": "mdi:battery-60",
           "friendly_name": "Ivan's phone Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.711394+00:00",
-        "last_updated": "2022-08-21T01:45:06.711394+00:00",
+        "last_changed": "2022-08-24T02:32:52.348223+00:00",
+        "last_updated": "2022-08-24T02:32:52.348223+00:00",
         "context": {
-          "id": "01GAZ16DWQ0EFTNEDEQB7NYWYP",
+          "id": "01GB6V41BWERN8RJ1TENYYX1DE",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1178,16 +1179,16 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "Ivan's phone Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.712250+00:00",
-        "last_updated": "2022-08-21T01:45:06.712250+00:00",
+        "last_changed": "2022-08-24T02:32:52.348690+00:00",
+        "last_updated": "2022-08-24T02:32:52.348690+00:00",
         "context": {
-          "id": "01GAZ16DWRKDZXFV5WJERQA0T8",
+          "id": "01GB6V41BW949WDV7E6311TXDZ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1197,16 +1198,16 @@
           "icon": "mdi:battery",
           "friendly_name": "Ivan's phone Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.713117+00:00",
-        "last_updated": "2022-08-21T01:45:06.713117+00:00",
+        "last_changed": "2022-08-24T02:32:52.349164+00:00",
+        "last_updated": "2022-08-24T02:32:52.349164+00:00",
         "context": {
-          "id": "01GAZ16DWSRN01XR5AAMRPR52C",
+          "id": "01GB6V41BXMQQ2F6X119PNW31Q",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1216,16 +1217,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "Ivan's phone Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.714465+00:00",
-        "last_updated": "2022-08-21T01:45:06.714465+00:00",
+        "last_changed": "2022-08-24T02:32:52.349623+00:00",
+        "last_updated": "2022-08-24T02:32:52.349623+00:00",
         "context": {
-          "id": "01GAZ16DWTD12KGBEQDWP7PTTW",
+          "id": "01GB6V41BX82EV0WBYKCR6V9FZ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1237,16 +1238,16 @@
           "icon": "mdi:battery",
           "friendly_name": "Ivan's phone Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.715319+00:00",
-        "last_updated": "2022-08-21T01:45:06.715319+00:00",
+        "last_changed": "2022-08-24T02:32:52.350078+00:00",
+        "last_updated": "2022-08-24T02:32:52.350078+00:00",
         "context": {
-          "id": "01GAZ16DWVZDGWZDWTSBY2DHJ6",
+          "id": "01GB6V41BYPC5BHQMEX8TG1DRG",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1257,16 +1258,16 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "Ivan's phone Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.716074+00:00",
-        "last_updated": "2022-08-21T01:45:06.716074+00:00",
+        "last_changed": "2022-08-24T02:32:52.350528+00:00",
+        "last_updated": "2022-08-24T02:32:52.350528+00:00",
         "context": {
-          "id": "01GAZ16DWWB0J7N71F3RWJPC7Y",
+          "id": "01GB6V41BYCQ7FTC1N6J2C05XR",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1278,16 +1279,16 @@
           "icon": "mdi:battery-30",
           "friendly_name": "MI 8 Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.716820+00:00",
-        "last_updated": "2022-08-21T01:45:06.716820+00:00",
+        "last_changed": "2022-08-24T02:32:52.350983+00:00",
+        "last_updated": "2022-08-24T02:32:52.350983+00:00",
         "context": {
-          "id": "01GAZ16DWWB5AVFTVGE9K8MQGS",
+          "id": "01GB6V41BYNF3WPZV38C6QG0Q0",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1297,16 +1298,16 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "MI 8 Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.717601+00:00",
-        "last_updated": "2022-08-21T01:45:06.717601+00:00",
+        "last_changed": "2022-08-24T02:32:52.351428+00:00",
+        "last_updated": "2022-08-24T02:32:52.351428+00:00",
         "context": {
-          "id": "01GAZ16DWXDQEKX9RM0E9MQQTP",
+          "id": "01GB6V41BZJZZ5A14A2CYYJQRF",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1316,16 +1317,16 @@
           "icon": "mdi:battery",
           "friendly_name": "MI 8 Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.718339+00:00",
-        "last_updated": "2022-08-21T01:45:06.718339+00:00",
+        "last_changed": "2022-08-24T02:32:52.351873+00:00",
+        "last_updated": "2022-08-24T02:32:52.351873+00:00",
         "context": {
-          "id": "01GAZ16DWYG6THTPFPFBVZ7WR9",
+          "id": "01GB6V41BZ2KT12ZRCRX8G8N3W",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1335,16 +1336,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "MI 8 Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.719067+00:00",
-        "last_updated": "2022-08-21T01:45:06.719067+00:00",
+        "last_changed": "2022-08-24T02:32:52.352314+00:00",
+        "last_updated": "2022-08-24T02:32:52.352314+00:00",
         "context": {
-          "id": "01GAZ16DWZF41QPX8MHSHF7J0Q",
+          "id": "01GB6V41C00FMASXNN4M0P815D",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1356,16 +1357,16 @@
           "icon": "mdi:battery",
           "friendly_name": "MI 8 Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.719815+00:00",
-        "last_updated": "2022-08-21T01:45:06.719815+00:00",
+        "last_changed": "2022-08-24T02:32:52.352768+00:00",
+        "last_updated": "2022-08-24T02:32:52.352768+00:00",
         "context": {
-          "id": "01GAZ16DWZNX0C6SY8VT4Z4Y6M",
+          "id": "01GB6V41C0CZKF8PNJM8Z9Z69K",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1376,16 +1377,16 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "MI 8 Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.720518+00:00",
-        "last_updated": "2022-08-21T01:45:06.720518+00:00",
+        "last_changed": "2022-08-24T02:32:52.353218+00:00",
+        "last_updated": "2022-08-24T02:32:52.353218+00:00",
         "context": {
-          "id": "01GAZ16DX0SF5WYKK257D86G4S",
+          "id": "01GB6V41C123F10GS3V19M5XBC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1397,16 +1398,16 @@
           "icon": "mdi:battery-60",
           "friendly_name": "M2007J3SG Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.721255+00:00",
-        "last_updated": "2022-08-21T01:45:06.721255+00:00",
+        "last_changed": "2022-08-24T02:32:52.353670+00:00",
+        "last_updated": "2022-08-24T02:32:52.353670+00:00",
         "context": {
-          "id": "01GAZ16DX1Y848271CVKZ10PX0",
+          "id": "01GB6V41C10VMAHY0NBX06MCNV",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1416,16 +1417,16 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "M2007J3SG Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.721994+00:00",
-        "last_updated": "2022-08-21T01:45:06.721994+00:00",
+        "last_changed": "2022-08-24T02:32:52.354119+00:00",
+        "last_updated": "2022-08-24T02:32:52.354119+00:00",
         "context": {
-          "id": "01GAZ16DX1EEEKW5B6F0EMZR1J",
+          "id": "01GB6V41C2VWZN3SDZ9Z17FR4B",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1435,16 +1436,16 @@
           "icon": "mdi:battery",
           "friendly_name": "M2007J3SG Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.722660+00:00",
-        "last_updated": "2022-08-21T01:45:06.722660+00:00",
+        "last_changed": "2022-08-24T02:32:52.354567+00:00",
+        "last_updated": "2022-08-24T02:32:52.354567+00:00",
         "context": {
-          "id": "01GAZ16DX2HFGK8KN5NBF4WSQV",
+          "id": "01GB6V41C297EJPZ2E0XBB41KN",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1454,16 +1455,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "M2007J3SG Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.723212+00:00",
-        "last_updated": "2022-08-21T01:45:06.723212+00:00",
+        "last_changed": "2022-08-24T02:32:52.355016+00:00",
+        "last_updated": "2022-08-24T02:32:52.355016+00:00",
         "context": {
-          "id": "01GAZ16DX349GAWG5SME44F5Q3",
+          "id": "01GB6V41C3K93SDC8DC2C94WYY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1475,16 +1476,16 @@
           "icon": "mdi:battery",
           "friendly_name": "M2007J3SG Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.723717+00:00",
-        "last_updated": "2022-08-21T01:45:06.723717+00:00",
+        "last_changed": "2022-08-24T02:32:52.355475+00:00",
+        "last_updated": "2022-08-24T02:32:52.355475+00:00",
         "context": {
-          "id": "01GAZ16DX31KYEXQ6N327NM0XH",
+          "id": "01GB6V41C3GH47237MX04PMKVY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1495,16 +1496,16 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "M2007J3SG Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.724265+00:00",
-        "last_updated": "2022-08-21T01:45:06.724265+00:00",
+        "last_changed": "2022-08-24T02:32:52.355919+00:00",
+        "last_updated": "2022-08-24T02:32:52.355919+00:00",
         "context": {
-          "id": "01GAZ16DX4KRW39TJ7RTTYQ47G",
+          "id": "01GB6V41C3H0J4G8EH557P0CZJ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1516,16 +1517,16 @@
           "icon": "mdi:battery-70",
           "friendly_name": "Alyanna Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.724949+00:00",
-        "last_updated": "2022-08-21T01:45:06.724949+00:00",
+        "last_changed": "2022-08-24T02:32:52.356370+00:00",
+        "last_updated": "2022-08-24T02:32:52.356370+00:00",
         "context": {
-          "id": "01GAZ16DX4VEXT8696AYH64D6J",
+          "id": "01GB6V41C4G7MGWPT7HD3M1FX1",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1535,16 +1536,16 @@
           "icon": "mdi:battery-70",
           "friendly_name": "Alyanna Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.725491+00:00",
-        "last_updated": "2022-08-21T01:45:06.725491+00:00",
+        "last_changed": "2022-08-24T02:32:52.356818+00:00",
+        "last_updated": "2022-08-24T02:32:52.356818+00:00",
         "context": {
-          "id": "01GAZ16DX5GYH061R0QMMDQ8K3",
+          "id": "01GB6V41C4B6RNEYM0ZND3YWNE",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1555,16 +1556,16 @@
           "icon": "mdi:database",
           "friendly_name": "Alyanna Storage"
         },
-        "last_changed": "2022-08-21T01:45:06.725967+00:00",
-        "last_updated": "2022-08-21T01:45:06.725967+00:00",
+        "last_changed": "2022-08-24T02:32:52.357260+00:00",
+        "last_updated": "2022-08-24T02:32:52.357260+00:00",
         "context": {
-          "id": "01GAZ16DX56WSFRAZS2PWG0NHQ",
+          "id": "01GB6V41C5Q43RWM8Z5TVZKDSB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1574,16 +1575,16 @@
           "icon": "mdi:wifi-off",
           "friendly_name": "Alyanna SSID"
         },
-        "last_changed": "2022-08-21T01:45:06.726470+00:00",
-        "last_updated": "2022-08-21T01:45:06.726470+00:00",
+        "last_changed": "2022-08-24T02:32:52.357761+00:00",
+        "last_updated": "2022-08-24T02:32:52.357761+00:00",
         "context": {
-          "id": "01GAZ16DX6001KMQG8TVSQ8681",
+          "id": "01GB6V41C5ARHH8WKB2TS79E0K",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1593,16 +1594,16 @@
           "icon": "mdi:wifi-off",
           "friendly_name": "Alyanna BSSID"
         },
-        "last_changed": "2022-08-21T01:45:06.726974+00:00",
-        "last_updated": "2022-08-21T01:45:06.726974+00:00",
+        "last_changed": "2022-08-24T02:32:52.358392+00:00",
+        "last_updated": "2022-08-24T02:32:52.358392+00:00",
         "context": {
-          "id": "01GAZ16DX6Y9PKG5J7T1AJRWYJ",
+          "id": "01GB6V41C6R2X4DV24SQ68QS4Y",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1612,16 +1613,16 @@
           "icon": "mdi:sim",
           "friendly_name": "Alyanna SIM 2"
         },
-        "last_changed": "2022-08-21T01:45:06.727432+00:00",
-        "last_updated": "2022-08-21T01:45:06.727432+00:00",
+        "last_changed": "2022-08-24T02:32:52.358923+00:00",
+        "last_updated": "2022-08-24T02:32:52.358923+00:00",
         "context": {
-          "id": "01GAZ16DX707QMNJNWRW37TJNJ",
+          "id": "01GB6V41C69F2FFT0AEQRRGS4D",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1631,16 +1632,16 @@
           "icon": "mdi:sim",
           "friendly_name": "Alyanna SIM 1"
         },
-        "last_changed": "2022-08-21T01:45:06.727904+00:00",
-        "last_updated": "2022-08-21T01:45:06.727904+00:00",
+        "last_changed": "2022-08-24T02:32:52.359382+00:00",
+        "last_updated": "2022-08-24T02:32:52.359382+00:00",
         "context": {
-          "id": "01GAZ16DX74J64887RPX5EK8GZ",
+          "id": "01GB6V41C7B8RTQXT1DVPQ2WYB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1650,16 +1651,16 @@
           "icon": "mdi:map",
           "friendly_name": "Alyanna Geocoded Location"
         },
-        "last_changed": "2022-08-21T01:45:06.728396+00:00",
-        "last_updated": "2022-08-21T01:45:06.728396+00:00",
+        "last_changed": "2022-08-24T02:32:52.359826+00:00",
+        "last_updated": "2022-08-24T02:32:52.359826+00:00",
         "context": {
-          "id": "01GAZ16DX8Z8X9NJSEC7NZFNVA",
+          "id": "01GB6V41C7QZW20CQQWEGYYTZD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1669,16 +1670,16 @@
           "icon": "mdi:wifi",
           "friendly_name": "Alyanna Connection Type"
         },
-        "last_changed": "2022-08-21T01:45:06.728866+00:00",
-        "last_updated": "2022-08-21T01:45:06.728866+00:00",
+        "last_changed": "2022-08-24T02:32:52.360272+00:00",
+        "last_updated": "2022-08-24T02:32:52.360272+00:00",
         "context": {
-          "id": "01GAZ16DX80VR25RPB0RR4QKXK",
+          "id": "01GB6V41C80Y2H6S5Z4DA48J00",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1688,16 +1689,16 @@
           "icon": "mdi:cellphone-wireless",
           "friendly_name": "Alyanna Last Update Trigger"
         },
-        "last_changed": "2022-08-21T01:45:06.729351+00:00",
-        "last_updated": "2022-08-21T01:45:06.729351+00:00",
+        "last_changed": "2022-08-24T02:32:52.360713+00:00",
+        "last_updated": "2022-08-24T02:32:52.360713+00:00",
         "context": {
-          "id": "01GAZ16DX956YDNX046HNAZG32",
+          "id": "01GB6V41C8VA4ZQVFHPDVCEVRZ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1709,16 +1710,16 @@
           "icon": "mdi:battery-80",
           "friendly_name": "SM-G998B Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.729804+00:00",
-        "last_updated": "2022-08-21T01:45:06.729804+00:00",
+        "last_changed": "2022-08-24T02:32:52.361165+00:00",
+        "last_updated": "2022-08-24T02:32:52.361165+00:00",
         "context": {
-          "id": "01GAZ16DX99BPR0SCRQYXWSXM2",
+          "id": "01GB6V41C9Q5Z84H6H8A5DHFYT",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1728,16 +1729,16 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "SM-G998B Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.730256+00:00",
-        "last_updated": "2022-08-21T01:45:06.730256+00:00",
+        "last_changed": "2022-08-24T02:32:52.361611+00:00",
+        "last_updated": "2022-08-24T02:32:52.361611+00:00",
         "context": {
-          "id": "01GAZ16DXAV6VCCDQZ6ZWNRTX6",
+          "id": "01GB6V41C9XGD2G179F623W13T",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1747,16 +1748,16 @@
           "icon": "mdi:battery",
           "friendly_name": "SM-G998B Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.730705+00:00",
-        "last_updated": "2022-08-21T01:45:06.730705+00:00",
+        "last_changed": "2022-08-24T02:32:52.362056+00:00",
+        "last_updated": "2022-08-24T02:32:52.362056+00:00",
         "context": {
-          "id": "01GAZ16DXAFSCYZPB517PXQ56J",
+          "id": "01GB6V41CA90HXAY24S00WX6Y8",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1766,16 +1767,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "SM-G998B Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.731158+00:00",
-        "last_updated": "2022-08-21T01:45:06.731158+00:00",
+        "last_changed": "2022-08-24T02:32:52.362500+00:00",
+        "last_updated": "2022-08-24T02:32:52.362500+00:00",
         "context": {
-          "id": "01GAZ16DXB4SJC4FGPVSDT0Z2M",
+          "id": "01GB6V41CA489VX2P1X8D34EZM",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1787,16 +1788,16 @@
           "icon": "mdi:battery",
           "friendly_name": "SM-G998B Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.731794+00:00",
-        "last_updated": "2022-08-21T01:45:06.731794+00:00",
+        "last_changed": "2022-08-24T02:32:52.362956+00:00",
+        "last_updated": "2022-08-24T02:32:52.362956+00:00",
         "context": {
-          "id": "01GAZ16DXB40YWBBZRAPHZFSDG",
+          "id": "01GB6V41CAXY7MNBP54GSVGGCE",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1807,100 +1808,100 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "SM-G998B Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.732531+00:00",
-        "last_updated": "2022-08-21T01:45:06.732531+00:00",
+        "last_changed": "2022-08-24T02:32:52.363416+00:00",
+        "last_updated": "2022-08-24T02:32:52.363416+00:00",
         "context": {
-          "id": "01GAZ16DXCFTMQ89D3NVVD2WS7",
+          "id": "01GB6V41CB38VX5RTDN6628MC9",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.s10e_battery_level",
-        "state": "24",
+        "state": "37",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-20",
+          "icon": "mdi:battery-30",
           "friendly_name": "S10E Battery Level"
         },
-        "last_changed": "2022-08-22T10:29:13.926207+00:00",
-        "last_updated": "2022-08-22T10:29:13.926207+00:00",
+        "last_changed": "2022-08-24T02:32:52.364345+00:00",
+        "last_updated": "2022-08-24T02:32:52.364345+00:00",
         "context": {
-          "id": "01GB2HJV26M2E04G29WYZZ5BXH",
+          "id": "01GB6V41CCGJ4FFSREYMVB9WP5",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.s10e_battery_state",
-        "state": "discharging",
+        "state": "charging",
         "attributes": {
-          "icon": "mdi:battery-minus",
+          "icon": "mdi:battery-plus",
           "friendly_name": "S10E Battery State"
         },
-        "last_changed": "2022-08-21T05:05:12.935410+00:00",
-        "last_updated": "2022-08-21T05:05:12.935410+00:00",
+        "last_changed": "2022-08-24T02:32:52.365664+00:00",
+        "last_updated": "2022-08-24T02:32:52.365664+00:00",
         "context": {
-          "id": "01GAZCMTQ7B2Z701DYNGPBG4PQ",
+          "id": "01GB6V41CDK6FKSZ789938HTKF",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.s10e_charger_type",
-        "state": "none",
+        "state": "ac",
         "attributes": {
-          "icon": "mdi:battery",
+          "icon": "mdi:power-plug",
           "friendly_name": "S10E Charger Type"
         },
-        "last_changed": "2022-08-21T05:05:12.938214+00:00",
-        "last_updated": "2022-08-21T05:05:12.938214+00:00",
+        "last_changed": "2022-08-24T02:32:52.366273+00:00",
+        "last_updated": "2022-08-24T02:32:52.366273+00:00",
         "context": {
-          "id": "01GAZCMTQAVNT8CHHQWCCZHD4Q",
+          "id": "01GB6V41CEANAXHQXNCYBC051J",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.s10e_battery_health",
-        "state": "unknown",
+        "state": "good",
         "attributes": {
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "S10E Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.735335+00:00",
-        "last_updated": "2022-08-21T01:45:06.735335+00:00",
+        "last_changed": "2022-08-24T02:32:52.366748+00:00",
+        "last_updated": "2022-08-24T02:32:52.366748+00:00",
         "context": {
-          "id": "01GAZ16DXFE9029VWM3HG12JWR",
+          "id": "01GB6V41CEZGV5PQDR7KQANKG6",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.s10e_battery_temperature",
-        "state": "32.1",
+        "state": "33.5",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "°C",
@@ -1908,36 +1909,36 @@
           "icon": "mdi:battery",
           "friendly_name": "S10E Battery Temperature"
         },
-        "last_changed": "2022-08-22T10:29:13.928648+00:00",
-        "last_updated": "2022-08-22T10:29:13.928648+00:00",
+        "last_changed": "2022-08-24T02:32:52.367212+00:00",
+        "last_updated": "2022-08-24T02:32:52.367212+00:00",
         "context": {
-          "id": "01GB2HJV28QGYS0J6KB1PV2GWA",
+          "id": "01GB6V41CFDFRGZG402V7RSQSW",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
         "entity_id": "binary_sensor.s10e_is_charging",
-        "state": "off",
+        "state": "on",
         "attributes": {
           "device_class": "plug",
-          "icon": "mdi:power-plug-off",
+          "icon": "mdi:power-plug",
           "friendly_name": "S10E Is Charging"
         },
-        "last_changed": "2022-08-21T05:05:12.936916+00:00",
-        "last_updated": "2022-08-21T05:05:12.936916+00:00",
+        "last_changed": "2022-08-24T02:32:52.367729+00:00",
+        "last_updated": "2022-08-24T02:32:52.367729+00:00",
         "context": {
-          "id": "01GAZCMTQ8D8KNY9HFTEZ8YNRS",
+          "id": "01GB6V41CFPN5P7Z86WD834N09",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1949,16 +1950,16 @@
           "icon": "mdi:battery",
           "friendly_name": "K21 Battery Level"
         },
-        "last_changed": "2022-08-21T01:45:06.737483+00:00",
-        "last_updated": "2022-08-21T01:45:06.737483+00:00",
+        "last_changed": "2022-08-24T02:32:52.368237+00:00",
+        "last_updated": "2022-08-24T02:32:52.368237+00:00",
         "context": {
-          "id": "01GAZ16DXHT0Z912A2N36P7TQC",
+          "id": "01GB6V41CGR3ZKDXTN677BQKKS",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1968,16 +1969,16 @@
           "icon": "mdi:battery-plus",
           "friendly_name": "K21 Battery State"
         },
-        "last_changed": "2022-08-21T01:45:06.738098+00:00",
-        "last_updated": "2022-08-21T01:45:06.738098+00:00",
+        "last_changed": "2022-08-24T02:32:52.368703+00:00",
+        "last_updated": "2022-08-24T02:32:52.368703+00:00",
         "context": {
-          "id": "01GAZ16DXJP4G05QA2R1M6FDW7",
+          "id": "01GB6V41CGVBSBGEF3PQXJ09FC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -1987,16 +1988,16 @@
           "icon": "mdi:power-plug",
           "friendly_name": "K21 Charger Type"
         },
-        "last_changed": "2022-08-21T01:45:06.738619+00:00",
-        "last_updated": "2022-08-21T01:45:06.738619+00:00",
+        "last_changed": "2022-08-24T02:32:52.369151+00:00",
+        "last_updated": "2022-08-24T02:32:52.369151+00:00",
         "context": {
-          "id": "01GAZ16DXJ39P44JCG1BXG5CXN",
+          "id": "01GB6V41CHAQWXN0S4X2ABJENN",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2006,16 +2007,16 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "K21 Battery Health"
         },
-        "last_changed": "2022-08-21T01:45:06.739100+00:00",
-        "last_updated": "2022-08-21T01:45:06.739100+00:00",
+        "last_changed": "2022-08-24T02:32:52.369600+00:00",
+        "last_updated": "2022-08-24T02:32:52.369600+00:00",
         "context": {
-          "id": "01GAZ16DXKQH25AZSH9RGWQDZ3",
+          "id": "01GB6V41CHEYT123B77X601K4Z",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2027,16 +2028,16 @@
           "icon": "mdi:battery",
           "friendly_name": "K21 Battery Temperature"
         },
-        "last_changed": "2022-08-21T01:45:06.739603+00:00",
-        "last_updated": "2022-08-21T01:45:06.739603+00:00",
+        "last_changed": "2022-08-24T02:32:52.370054+00:00",
+        "last_updated": "2022-08-24T02:32:52.370054+00:00",
         "context": {
-          "id": "01GAZ16DXKTP1AFQ7J6QR46JDE",
+          "id": "01GB6V41CJ6Z9VMCP4BSAN87SK",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2047,16 +2048,16 @@
           "icon": "mdi:power-plug",
           "friendly_name": "K21 Is Charging"
         },
-        "last_changed": "2022-08-21T01:45:06.740167+00:00",
-        "last_updated": "2022-08-21T01:45:06.740167+00:00",
+        "last_changed": "2022-08-24T02:32:52.370504+00:00",
+        "last_updated": "2022-08-24T02:32:52.370504+00:00",
         "context": {
-          "id": "01GAZ16DXMT0ZAAJDXBXAKRX2P",
+          "id": "01GB6V41CJASR66C4KA99N6ST1",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2074,16 +2075,16 @@
           "vertical_accuracy": 2,
           "friendly_name": "MI 8"
         },
-        "last_changed": "2022-08-21T01:45:07.101460+00:00",
-        "last_updated": "2022-08-21T01:45:07.101460+00:00",
+        "last_changed": "2022-08-24T02:32:53.831847+00:00",
+        "last_updated": "2022-08-24T02:32:53.831847+00:00",
         "context": {
-          "id": "01GAZ16E8X140D9CXEAH15MG9P",
+          "id": "01GB6V42T7Q3F24NDEPPZ9K3QP",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2099,16 +2100,16 @@
           "vertical_accuracy": 10,
           "friendly_name": "Alyanna Alexandria’s iPhone"
         },
-        "last_changed": "2022-08-21T01:45:07.102945+00:00",
-        "last_updated": "2022-08-21T01:45:07.102945+00:00",
+        "last_changed": "2022-08-24T02:32:53.834064+00:00",
+        "last_updated": "2022-08-24T02:32:53.834064+00:00",
         "context": {
-          "id": "01GAZ16E8YTVEF39CTEBKSQMS5",
+          "id": "01GB6V42TAHMFXDH8WR6GM3T76",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2118,16 +2119,16 @@
           "source_type": "gps",
           "friendly_name": "Ralph Laurence's iPhone"
         },
-        "last_changed": "2022-08-21T01:45:07.103971+00:00",
-        "last_updated": "2022-08-21T01:45:07.103971+00:00",
+        "last_changed": "2022-08-24T02:32:53.835201+00:00",
+        "last_updated": "2022-08-24T02:32:53.835201+00:00",
         "context": {
-          "id": "01GAZ16E8ZQWDKZ0S0ANEVBEPA",
+          "id": "01GB6V42TBVF02XWGJS1MWWFVA",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2137,16 +2138,16 @@
           "source_type": "gps",
           "friendly_name": "YAL-L21"
         },
-        "last_changed": "2022-08-21T01:45:07.104978+00:00",
-        "last_updated": "2022-08-21T01:45:07.104978+00:00",
+        "last_changed": "2022-08-24T02:32:53.835896+00:00",
+        "last_updated": "2022-08-24T02:32:53.835896+00:00",
         "context": {
-          "id": "01GAZ16E904AZXAR5EGMYZD3KF",
+          "id": "01GB6V42TBW7KDR4PQ4PDCXM1H",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2163,16 +2164,16 @@
           "vertical_accuracy": 1,
           "friendly_name": "Nokia 8.1"
         },
-        "last_changed": "2022-08-21T01:45:07.106465+00:00",
-        "last_updated": "2022-08-21T01:45:07.106465+00:00",
+        "last_changed": "2022-08-24T02:32:53.836895+00:00",
+        "last_updated": "2022-08-24T02:32:53.836895+00:00",
         "context": {
-          "id": "01GAZ16E92VH8QQF6VGE08HYQC",
+          "id": "01GB6V42TCD99TFGDJAR1TTTER",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2182,16 +2183,16 @@
           "source_type": "gps",
           "friendly_name": "Yan's phone"
         },
-        "last_changed": "2022-08-21T01:45:07.107417+00:00",
-        "last_updated": "2022-08-21T01:45:07.107417+00:00",
+        "last_changed": "2022-08-24T02:32:53.837786+00:00",
+        "last_updated": "2022-08-24T02:32:53.837786+00:00",
         "context": {
-          "id": "01GAZ16E93PNESEFMJE5F7PKCA",
+          "id": "01GB6V42TD2WXGR9BM342ESYNQ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2201,16 +2202,16 @@
           "source_type": "gps",
           "friendly_name": "Ivan's phone"
         },
-        "last_changed": "2022-08-21T01:45:07.108352+00:00",
-        "last_updated": "2022-08-21T01:45:07.108352+00:00",
+        "last_changed": "2022-08-24T02:32:53.838695+00:00",
+        "last_updated": "2022-08-24T02:32:53.838695+00:00",
         "context": {
-          "id": "01GAZ16E94Z4XT7Y789MF596QE",
+          "id": "01GB6V42TEYDPWKRPH9GZJ9B09",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2220,16 +2221,16 @@
           "source_type": "gps",
           "friendly_name": "MI 8"
         },
-        "last_changed": "2022-08-21T01:45:07.109279+00:00",
-        "last_updated": "2022-08-21T01:45:07.109279+00:00",
+        "last_changed": "2022-08-24T02:32:53.839687+00:00",
+        "last_updated": "2022-08-24T02:32:53.839687+00:00",
         "context": {
-          "id": "01GAZ16E957YXDF1D0882PX6YV",
+          "id": "01GB6V42TFNP1M610X36VE94F3",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2246,16 +2247,16 @@
           "vertical_accuracy": 1,
           "friendly_name": "M2007J3SG"
         },
-        "last_changed": "2022-08-21T01:45:07.110703+00:00",
-        "last_updated": "2022-08-21T01:45:07.110703+00:00",
+        "last_changed": "2022-08-24T02:32:53.841079+00:00",
+        "last_updated": "2022-08-24T02:32:53.841079+00:00",
         "context": {
-          "id": "01GAZ16E96B6QV6ZP0Q9K41AEQ",
+          "id": "01GB6V42THH1G2Y64XZFAT76EF",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2265,16 +2266,16 @@
           "source_type": "gps",
           "friendly_name": "Alyanna"
         },
-        "last_changed": "2022-08-21T01:45:07.111823+00:00",
-        "last_updated": "2022-08-21T01:45:07.111823+00:00",
+        "last_changed": "2022-08-24T02:32:53.841943+00:00",
+        "last_updated": "2022-08-24T02:32:53.841943+00:00",
         "context": {
-          "id": "01GAZ16E97G5VHCZB0WQBT5DTA",
+          "id": "01GB6V42THAJ78WS1SFSV76YHW",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2284,16 +2285,16 @@
           "source_type": "gps",
           "friendly_name": "SM-G998B"
         },
-        "last_changed": "2022-08-21T01:45:07.112810+00:00",
-        "last_updated": "2022-08-21T01:45:07.112810+00:00",
+        "last_changed": "2022-08-24T02:32:53.842769+00:00",
+        "last_updated": "2022-08-24T02:32:53.842769+00:00",
         "context": {
-          "id": "01GAZ16E98K0JY4ADCBFA5M8TR",
+          "id": "01GB6V42TJYPJ7B10ZAPEQJRW7",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2303,16 +2304,16 @@
           "source_type": "gps",
           "friendly_name": "S10E"
         },
-        "last_changed": "2022-08-21T01:45:07.113758+00:00",
-        "last_updated": "2022-08-21T01:45:07.113758+00:00",
+        "last_changed": "2022-08-24T02:32:53.843606+00:00",
+        "last_updated": "2022-08-24T02:32:53.843606+00:00",
         "context": {
-          "id": "01GAZ16E99V3WNKW99M812YZWH",
+          "id": "01GB6V42TK84BM9C5TQDY52RT9",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     },
     {
       "state": {
@@ -2322,16 +2323,16 @@
           "source_type": "gps",
           "friendly_name": "K21"
         },
-        "last_changed": "2022-08-21T01:45:07.114833+00:00",
-        "last_updated": "2022-08-21T01:45:07.114833+00:00",
+        "last_changed": "2022-08-24T02:32:53.844446+00:00",
+        "last_updated": "2022-08-24T02:32:53.844446+00:00",
         "context": {
-          "id": "01GAZ16E9AB8N0SJZHSEFES172",
+          "id": "01GB6V42TM7VEM1852ZDGA773H",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2022-08-22T11:00:07.573688+00:00"
+      "last_seen": "2022-08-24T02:32:55.356137+00:00"
     }
   ]
 }

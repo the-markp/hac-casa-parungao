@@ -233,7 +233,7 @@
         "manufacturer": "espressif",
         "model": "esp12e",
         "name": "ds18b20_0",
-        "sw_version": "2022.2.6 (Aug 22 2022, 11:28:30)",
+        "sw_version": "2022.2.6 (Aug 22 2022, 19:35:26)",
         "hw_version": null,
         "entry_type": null,
         "id": "1c45efa1922cd065efe8d4b5d110c4d4",
@@ -365,8 +365,8 @@
       },
       {
         "config_entries": [
-          "d64cdffde11bf8eaa50961823fddf81c",
-          "fbd2dbe9bf0724a3a26034c1445a45cd"
+          "fbd2dbe9bf0724a3a26034c1445a45cd",
+          "d64cdffde11bf8eaa50961823fddf81c"
         ],
         "connections": [
           [

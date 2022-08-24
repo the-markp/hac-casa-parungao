@@ -123,6 +123,229 @@
           "item_id": "1648562164603",
           "trigger": "Home Assistant starting"
         }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "baae9f0f32087b84405af37cbd1085e6",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T01:45:08.605869+00:00",
+            "finish": "2022-08-21T01:45:08.879532+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562164603",
+          "trigger": "Home Assistant starting",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T01:45:08.606101+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.daytime_restart",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-21T01:39:37.304459+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1648562164603",
+                      "friendly_name": "Daytime restart"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.194689+00:00",
+                    "last_updated": "2022-08-21T01:45:01.194689+00:00",
+                    "context": {
+                      "id": "01GAZ168GA8CXD9R678A2S8VV8",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "homeassistant",
+                    "event": "start",
+                    "description": "Home Assistant starting"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2022-08-21T01:45:08.606272+00:00",
+                "result": {
+                  "wanted_time_before": "2022-08-21T10:16:46.405460+00:00",
+                  "wanted_time_after": "2022-08-20T21:43:40.114050+00:00",
+                  "result": true
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T01:45:08.653436+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GAZ16FQXDMMR496JV38PYD25",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.daytime_restart"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1648562164603",
+            "alias": "Daytime restart",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "homeassistant",
+                "event": "start"
+              }
+            ],
+            "condition": [
+              {
+                "condition": "sun",
+                "before": "sunset",
+                "after": "sunrise"
+              }
+            ],
+            "action": [
+              {
+                "scene": "scene.daytime_restart"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZ16FQXDMMR496JV38PYD25",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "baae9f0f32087b84405af37cbd1085e6",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T01:45:08.605869+00:00",
+            "finish": "2022-08-21T01:45:08.879532+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562164603",
+          "trigger": "Home Assistant starting"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "condition/0",
+          "run_id": "06a3b4696d9db35a130628bc6b8f2327",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-22T11:08:28.655598+00:00",
+            "finish": "2022-08-22T11:08:28.656916+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562164603",
+          "trigger": "Home Assistant starting",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-22T11:08:28.655781+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.daytime_restart",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-21T01:45:08.607969+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1648562164603",
+                      "friendly_name": "Daytime restart"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.085192+00:00",
+                    "last_updated": "2022-08-22T11:08:23.085192+00:00",
+                    "context": {
+                      "id": "01GB2KTH5D46EECEPN01V8NB49",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "homeassistant",
+                    "event": "start",
+                    "description": "Home Assistant starting"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2022-08-22T11:08:28.655936+00:00",
+                "result": {
+                  "wanted_time_before": "2022-08-22T10:16:08.471169+00:00",
+                  "result": false
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1648562164603",
+            "alias": "Daytime restart",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "homeassistant",
+                "event": "start"
+              }
+            ],
+            "condition": [
+              {
+                "condition": "sun",
+                "before": "sunset",
+                "after": "sunrise"
+              }
+            ],
+            "action": [
+              {
+                "scene": "scene.daytime_restart"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB2KTPKFAMF52E28E5Z6JVZC",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "condition/0",
+          "run_id": "06a3b4696d9db35a130628bc6b8f2327",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-22T11:08:28.655598+00:00",
+            "finish": "2022-08-22T11:08:28.656916+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562164603",
+          "trigger": "Home Assistant starting"
+        }
       }
     ],
     "automation.1648562271213": [
@@ -227,6 +450,1461 @@
           "domain": "automation",
           "item_id": "1648562271213",
           "trigger": "Home Assistant starting"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "condition/0",
+          "run_id": "992ba2b6b80f7b5d0b7bfdcef26df92c",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-21T01:45:08.609329+00:00",
+            "finish": "2022-08-21T01:45:08.610998+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562271213",
+          "trigger": "Home Assistant starting",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T01:45:08.609545+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.night_time_restart",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": null,
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1648562271213",
+                      "friendly_name": "Night time restart"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.196491+00:00",
+                    "last_updated": "2022-08-21T01:45:01.196491+00:00",
+                    "context": {
+                      "id": "01GAZ168GC53H0HWHHFKTA90RH",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "homeassistant",
+                    "event": "start",
+                    "description": "Home Assistant starting"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2022-08-21T01:45:08.609713+00:00",
+                "result": {
+                  "wanted_time_before": "2022-08-20T21:43:40.114050+00:00",
+                  "result": false
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1648562271213",
+            "alias": "Night time restart",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "homeassistant",
+                "event": "start"
+              }
+            ],
+            "condition": [
+              {
+                "condition": "sun",
+                "before": "sunrise",
+                "after": "sunset"
+              }
+            ],
+            "action": [
+              {
+                "scene": "scene.night_time_restart"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZ16FR12C0RA1GAQJ34Q38S",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "condition/0",
+          "run_id": "992ba2b6b80f7b5d0b7bfdcef26df92c",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-21T01:45:08.609329+00:00",
+            "finish": "2022-08-21T01:45:08.610998+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562271213",
+          "trigger": "Home Assistant starting"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "condition/0",
+          "run_id": "b74b303554764e40274011b27361ce35",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-22T11:08:28.657188+00:00",
+            "finish": "2022-08-22T11:08:28.658292+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562271213",
+          "trigger": "Home Assistant starting",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-22T11:08:28.657301+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.night_time_restart",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": null,
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1648562271213",
+                      "friendly_name": "Night time restart"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.086245+00:00",
+                    "last_updated": "2022-08-22T11:08:23.086245+00:00",
+                    "context": {
+                      "id": "01GB2KTH5EQX3955M5YCH3RE9R",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "homeassistant",
+                    "event": "start",
+                    "description": "Home Assistant starting"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2022-08-22T11:08:28.657403+00:00",
+                "result": {
+                  "wanted_time_before": "2022-08-21T21:43:48.109377+00:00",
+                  "result": false
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1648562271213",
+            "alias": "Night time restart",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "homeassistant",
+                "event": "start"
+              }
+            ],
+            "condition": [
+              {
+                "condition": "sun",
+                "before": "sunrise",
+                "after": "sunset"
+              }
+            ],
+            "action": [
+              {
+                "scene": "scene.night_time_restart"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB2KTPKHTXAYQGST6FMNV6D8",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "condition/0",
+          "run_id": "b74b303554764e40274011b27361ce35",
+          "state": "stopped",
+          "script_execution": "failed_conditions",
+          "timestamp": {
+            "start": "2022-08-22T11:08:28.657188+00:00",
+            "finish": "2022-08-22T11:08:28.658292+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1648562271213",
+          "trigger": "Home Assistant starting"
+        }
+      }
+    ],
+    "automation.1609373041840": [
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "5b59e0e1bfacf6a3b4a91c9cdfcd7439",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T05:44:24.194749+00:00",
+            "finish": "2022-08-21T05:44:24.331542+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1609373041840",
+          "trigger": "numeric state of sensor.main_water_line",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T05:44:24.195011+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.open_faucet_warning",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-07-25T07:17:59.699279+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1609373041840",
+                      "friendly_name": "open faucet warning"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.192426+00:00",
+                    "last_updated": "2022-08-21T01:45:01.192426+00:00",
+                    "context": {
+                      "id": "01GAZ168G8BDAKEBKBCS563VCX",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "numeric_state",
+                    "entity_id": "sensor.main_water_line",
+                    "below": null,
+                    "above": 0.1,
+                    "from_state": {
+                      "entity_id": "sensor.main_water_line",
+                      "state": "0.00",
+                      "attributes": {
+                        "state_class": "measurement",
+                        "unit_of_measurement": "L/min",
+                        "icon": "mdi:pulse",
+                        "friendly_name": "Main water line"
+                      },
+                      "last_changed": "2022-08-21T05:17:59.172939+00:00",
+                      "last_updated": "2022-08-21T05:17:59.172939+00:00",
+                      "context": {
+                        "id": "01GAZDC7047FYHE6FC5W338SVY",
+                        "parent_id": null,
+                        "user_id": null
+                      }
+                    },
+                    "to_state": {
+                      "entity_id": "sensor.main_water_line",
+                      "state": "3.08",
+                      "attributes": {
+                        "state_class": "measurement",
+                        "unit_of_measurement": "L/min",
+                        "icon": "mdi:pulse",
+                        "friendly_name": "Main water line"
+                      },
+                      "last_changed": "2022-08-21T05:19:24.189140+00:00",
+                      "last_updated": "2022-08-21T05:19:24.189140+00:00",
+                      "context": {
+                        "id": "01GAZDET0X3XSBF47X4YTRTP0F",
+                        "parent_id": null,
+                        "user_id": null
+                      }
+                    },
+                    "for": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 1500.0
+                    },
+                    "description": "numeric state of sensor.main_water_line"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T05:44:24.196814+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GAZEWJW2WPZ6VGPYHF83JRHC",
+                    "parent_id": "01GAZDET0X3XSBF47X4YTRTP0F",
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.blue_warning"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1609373041840",
+            "alias": "open faucet warning",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "numeric_state",
+                "entity_id": "sensor.main_water_line",
+                "above": "0.1",
+                "for": "0:25:00"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.blue_warning"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZEWJW2WPZ6VGPYHF83JRHC",
+            "parent_id": "01GAZDET0X3XSBF47X4YTRTP0F",
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "5b59e0e1bfacf6a3b4a91c9cdfcd7439",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T05:44:24.194749+00:00",
+            "finish": "2022-08-21T05:44:24.331542+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1609373041840",
+          "trigger": "numeric state of sensor.main_water_line"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "7c65b070cd2cf3a350c441fbecfc4430",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T08:11:30.885115+00:00",
+            "finish": "2022-08-21T08:11:30.896481+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1609373041840",
+          "trigger": "numeric state of sensor.main_water_line",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T08:11:30.885316+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.open_faucet_warning",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-21T05:44:24.195669+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1609373041840",
+                      "friendly_name": "open faucet warning"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.192426+00:00",
+                    "last_updated": "2022-08-21T05:44:24.329241+00:00",
+                    "context": {
+                      "id": "01GAZEWJW2WPZ6VGPYHF83JRHC",
+                      "parent_id": "01GAZDET0X3XSBF47X4YTRTP0F",
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "numeric_state",
+                    "entity_id": "sensor.main_water_line",
+                    "below": null,
+                    "above": 0.1,
+                    "from_state": {
+                      "entity_id": "sensor.main_water_line",
+                      "state": "unavailable",
+                      "attributes": {
+                        "state_class": "measurement",
+                        "unit_of_measurement": "L/min",
+                        "icon": "mdi:pulse",
+                        "friendly_name": "Main water line"
+                      },
+                      "last_changed": "2022-08-21T07:46:23.287142+00:00",
+                      "last_updated": "2022-08-21T07:46:23.287142+00:00",
+                      "context": {
+                        "id": "01GAZNVYDQ3BBVQJS5V10M6SR3",
+                        "parent_id": null,
+                        "user_id": null
+                      }
+                    },
+                    "to_state": {
+                      "entity_id": "sensor.main_water_line",
+                      "state": "8.68",
+                      "attributes": {
+                        "state_class": "measurement",
+                        "unit_of_measurement": "L/min",
+                        "icon": "mdi:pulse",
+                        "friendly_name": "Main water line"
+                      },
+                      "last_changed": "2022-08-21T07:46:30.881598+00:00",
+                      "last_updated": "2022-08-21T07:46:30.881598+00:00",
+                      "context": {
+                        "id": "01GAZNW5V1MSMC1N64G5R6Q4ZG",
+                        "parent_id": null,
+                        "user_id": null
+                      }
+                    },
+                    "for": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 1500.0
+                    },
+                    "description": "numeric state of sensor.main_water_line"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T08:11:30.886727+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GAZQ9YP4NKRRXK7NK7FD23EJ",
+                    "parent_id": "01GAZNW5V1MSMC1N64G5R6Q4ZG",
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.blue_warning"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1609373041840",
+            "alias": "open faucet warning",
+            "description": "",
+            "trigger": [
+              {
+                "platform": "numeric_state",
+                "entity_id": "sensor.main_water_line",
+                "above": "0.1",
+                "for": "0:25:00"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.blue_warning"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZQ9YP4NKRRXK7NK7FD23EJ",
+            "parent_id": "01GAZNW5V1MSMC1N64G5R6Q4ZG",
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "7c65b070cd2cf3a350c441fbecfc4430",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T08:11:30.885115+00:00",
+            "finish": "2022-08-21T08:11:30.896481+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1609373041840",
+          "trigger": "numeric state of sensor.main_water_line"
+        }
+      }
+    ],
+    "automation.1582973455501": [
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "56e80775f92febbadfcbfadd27261d54",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T10:16:46.432334+00:00",
+            "finish": "2022-08-21T10:16:46.475274+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973455501",
+          "trigger": "sunset",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T10:16:46.432611+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.sunset",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-05T10:25:41.020747+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582973455501",
+                      "friendly_name": "sunset"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.189332+00:00",
+                    "last_updated": "2022-08-21T01:45:01.189332+00:00",
+                    "context": {
+                      "id": "01GAZ168G5CVCSXZ856R4PP2EK",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "sun",
+                    "event": "sunset",
+                    "offset": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 0.0
+                    },
+                    "description": "sunset"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T10:16:46.434457+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GAZYFA30DHHJDJWJSXEEX44E",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunset"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582973455501",
+            "alias": "sunset",
+            "description": "",
+            "trigger": [
+              {
+                "event": "sunset",
+                "platform": "sun"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunset"
+              }
+            ]
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GAZYFA30DHHJDJWJSXEEX44E",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "56e80775f92febbadfcbfadd27261d54",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T10:16:46.432334+00:00",
+            "finish": "2022-08-21T10:16:46.475274+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973455501",
+          "trigger": "sunset"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "14c736d9f392d1951a5163affc9c5d71",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-22T10:16:08.485768+00:00",
+            "finish": "2022-08-22T10:16:08.557634+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973455501",
+          "trigger": "sunset",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-22T10:16:08.485949+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.sunset",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-21T10:16:46.433223+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582973455501",
+                      "friendly_name": "sunset"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.189332+00:00",
+                    "last_updated": "2022-08-21T10:16:46.474831+00:00",
+                    "context": {
+                      "id": "01GAZYFA30DHHJDJWJSXEEX44E",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "sun",
+                    "event": "sunset",
+                    "offset": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 0.0
+                    },
+                    "description": "sunset"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-22T10:16:08.487320+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB2GTW15J06Z36CXC82S9839",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunset"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582973455501",
+            "alias": "sunset",
+            "description": "",
+            "trigger": [
+              {
+                "event": "sunset",
+                "platform": "sun"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunset"
+              }
+            ]
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB2GTW15J06Z36CXC82S9839",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "14c736d9f392d1951a5163affc9c5d71",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-22T10:16:08.485768+00:00",
+            "finish": "2022-08-22T10:16:08.557634+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973455501",
+          "trigger": "sunset"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "534519d52d5b92b08791913cdbaa6e05",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-23T10:15:29.963658+00:00",
+            "finish": "2022-08-23T10:15:30.003519+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973455501",
+          "trigger": "sunset",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-23T10:15:29.963839+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.sunset",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-22T10:16:08.486412+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582973455501",
+                      "friendly_name": "sunset"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.081548+00:00",
+                    "last_updated": "2022-08-22T11:08:23.081548+00:00",
+                    "context": {
+                      "id": "01GB2KTH59WDSSN1CTTEK199ED",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "sun",
+                    "event": "sunset",
+                    "offset": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 0.0
+                    },
+                    "description": "sunset"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-23T10:15:29.965073+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB536DDBFA0P2M42DKJG6H1C",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunset"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582973455501",
+            "alias": "sunset",
+            "description": "",
+            "trigger": [
+              {
+                "event": "sunset",
+                "platform": "sun"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunset"
+              }
+            ]
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB536DDBFA0P2M42DKJG6H1C",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "534519d52d5b92b08791913cdbaa6e05",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-23T10:15:29.963658+00:00",
+            "finish": "2022-08-23T10:15:30.003519+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973455501",
+          "trigger": "sunset"
+        }
+      }
+    ],
+    "automation.1582720363030": [
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "c8d60507ab7ef3813ae2f178a1689177",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T21:00:00.002643+00:00",
+            "finish": "2022-08-21T21:00:00.030087+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582720363030",
+          "trigger": "time",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T21:00:00.002830+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.midnight",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-05T21:00:00.005251+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582720363030",
+                      "friendly_name": "Lights out"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.187563+00:00",
+                    "last_updated": "2022-08-21T01:45:01.187563+00:00",
+                    "context": {
+                      "id": "01GAZ168G30TZC1FH9EHJS2SHC",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "time",
+                    "now": "2022-08-22T05:00:00.001723+08:00",
+                    "description": "time",
+                    "entity_id": null
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T21:00:00.004299+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB139342KPZ9V0JEP0V1J5YB",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunrise"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582720363030",
+            "alias": "Lights out",
+            "description": "Turns all the outdoor lights off",
+            "trigger": [
+              {
+                "platform": "time",
+                "at": "5:00"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunrise"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB139342KPZ9V0JEP0V1J5YB",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "c8d60507ab7ef3813ae2f178a1689177",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T21:00:00.002643+00:00",
+            "finish": "2022-08-21T21:00:00.030087+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582720363030",
+          "trigger": "time"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "fec68afae2b47234fc5b3286d3fcd504",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-22T21:00:00.005185+00:00",
+            "finish": "2022-08-22T21:00:00.237213+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582720363030",
+          "trigger": "time",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-22T21:00:00.005403+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.midnight",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-21T21:00:00.003268+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582720363030",
+                      "friendly_name": "Lights out"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.080512+00:00",
+                    "last_updated": "2022-08-22T11:08:23.080512+00:00",
+                    "context": {
+                      "id": "01GB2KTH58BM4EPYDXE1RGBDQ0",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "time",
+                    "now": "2022-08-23T05:00:00.004005+08:00",
+                    "description": "time",
+                    "entity_id": null
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-22T21:00:00.010185+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB3NNT44WKYPMV0G8DEVTFWZ",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunrise"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582720363030",
+            "alias": "Lights out",
+            "description": "Turns all the outdoor lights off",
+            "trigger": [
+              {
+                "platform": "time",
+                "at": "5:00"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunrise"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB3NNT44WKYPMV0G8DEVTFWZ",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "fec68afae2b47234fc5b3286d3fcd504",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-22T21:00:00.005185+00:00",
+            "finish": "2022-08-22T21:00:00.237213+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582720363030",
+          "trigger": "time"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "3db8dcf611e7b515618f56879a47ca9d",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-23T21:00:00.002896+00:00",
+            "finish": "2022-08-23T21:00:00.036317+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582720363030",
+          "trigger": "time",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-23T21:00:00.003113+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.midnight",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-22T21:00:00.006131+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582720363030",
+                      "friendly_name": "Lights out"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.080512+00:00",
+                    "last_updated": "2022-08-22T21:00:00.236580+00:00",
+                    "context": {
+                      "id": "01GB3NNT44WKYPMV0G8DEVTFWZ",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "time",
+                    "now": "2022-08-24T05:00:00.001200+08:00",
+                    "description": "time",
+                    "entity_id": null
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-23T21:00:00.005073+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB682H42W9M2AVEK7CS30PDY",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunrise"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582720363030",
+            "alias": "Lights out",
+            "description": "Turns all the outdoor lights off",
+            "trigger": [
+              {
+                "platform": "time",
+                "at": "5:00"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunrise"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB682H42W9M2AVEK7CS30PDY",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "3db8dcf611e7b515618f56879a47ca9d",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-23T21:00:00.002896+00:00",
+            "finish": "2022-08-23T21:00:00.036317+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582720363030",
+          "trigger": "time"
+        }
+      }
+    ],
+    "automation.1582973560707": [
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "b1dd862e822dbc3570a31cec2fe8abc3",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T21:43:48.123826+00:00",
+            "finish": "2022-08-21T21:43:48.150209+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973560707",
+          "trigger": "sunrise",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-21T21:43:48.124019+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.sunrise",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-05T21:40:51.018869+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582973560707",
+                      "friendly_name": "sunrise"
+                    },
+                    "last_changed": "2022-08-21T01:45:01.190918+00:00",
+                    "last_updated": "2022-08-21T01:45:01.190918+00:00",
+                    "context": {
+                      "id": "01GAZ168G6DKTKYSBTQQTJ9TW7",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "sun",
+                    "event": "sunrise",
+                    "offset": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 0.0
+                    },
+                    "description": "sunrise"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-21T21:43:48.127173+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB15S9MVH5NA9HR72HAXA1CA",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunrise"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582973560707",
+            "alias": "sunrise",
+            "description": "",
+            "trigger": [
+              {
+                "event": "sunrise",
+                "platform": "sun"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunrise"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB15S9MVH5NA9HR72HAXA1CA",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "b1dd862e822dbc3570a31cec2fe8abc3",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-21T21:43:48.123826+00:00",
+            "finish": "2022-08-21T21:43:48.150209+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973560707",
+          "trigger": "sunrise"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "2d0d0edd9df80f0779a94fda10a83093",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-22T21:43:55.814879+00:00",
+            "finish": "2022-08-22T21:43:55.837288+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973560707",
+          "trigger": "sunrise",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-22T21:43:55.815033+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.sunrise",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-21T21:43:48.126019+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582973560707",
+                      "friendly_name": "sunrise"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.082454+00:00",
+                    "last_updated": "2022-08-22T11:08:23.082454+00:00",
+                    "context": {
+                      "id": "01GB2KTH5AZV110F3T0EY9A6GT",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "sun",
+                    "event": "sunrise",
+                    "offset": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 0.0
+                    },
+                    "description": "sunrise"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-22T21:43:55.816103+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB3R6856DTJRTTXAM6XT997S",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunrise"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582973560707",
+            "alias": "sunrise",
+            "description": "",
+            "trigger": [
+              {
+                "event": "sunrise",
+                "platform": "sun"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunrise"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB3R6856DTJRTTXAM6XT997S",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "2d0d0edd9df80f0779a94fda10a83093",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-22T21:43:55.814879+00:00",
+            "finish": "2022-08-22T21:43:55.837288+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973560707",
+          "trigger": "sunrise"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "068f718a4abea42038fd3448f7e8eac5",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-23T21:44:03.219356+00:00",
+            "finish": "2022-08-23T21:44:03.253111+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973560707",
+          "trigger": "sunrise",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2022-08-23T21:44:03.219625+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.sunrise",
+                    "state": "on",
+                    "attributes": {
+                      "last_triggered": "2022-08-22T21:43:55.815394+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "id": "1582973560707",
+                      "friendly_name": "sunrise"
+                    },
+                    "last_changed": "2022-08-22T11:08:23.082454+00:00",
+                    "last_updated": "2022-08-22T21:43:55.836903+00:00",
+                    "context": {
+                      "id": "01GB3R6856DTJRTTXAM6XT997S",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "platform": "sun",
+                    "event": "sunrise",
+                    "offset": {
+                      "__type": "<class 'datetime.timedelta'>",
+                      "total_seconds": 0.0
+                    },
+                    "description": "sunrise"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2022-08-23T21:44:03.222009+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01GB6AK6CK2AV9GW55YHFW6PZP",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "scene": "scene.sunrise"
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1582973560707",
+            "alias": "sunrise",
+            "description": "",
+            "trigger": [
+              {
+                "event": "sunrise",
+                "platform": "sun"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "scene": "scene.sunrise"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01GB6AK6CK2AV9GW55YHFW6PZP",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "068f718a4abea42038fd3448f7e8eac5",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2022-08-23T21:44:03.219356+00:00",
+            "finish": "2022-08-23T21:44:03.253111+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1582973560707",
+          "trigger": "sunrise"
         }
       }
     ]

@@ -1,4 +1,4 @@
-secrets.yaml
+secrets.yam*.db
 home-assistant_v2.db
 home-assistant_v2.db.corrupt.2022-08-21T01:39:39.629622+00:00
 home-assistant_v2.db-shm

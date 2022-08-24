@@ -66,7 +66,8 @@
                   "style": {
                     "font-size": "14px",
                     "left": "25%",
-                    "top": "4%"
+                    "top": "4%",
+                    "color": "black"
                   },
                   "suffix": " from the grid",
                   "type": "state-label"
@@ -282,7 +283,8 @@
                   "style": {
                     "font-size": "12px",
                     "left": "24%",
-                    "top": "45%"
+                    "top": "45%",
+                    "color": "black"
                   },
                   "type": "state-label"
                 },
@@ -291,7 +293,8 @@
                   "style": {
                     "font-size": "9px",
                     "left": "38%",
-                    "top": "35%"
+                    "top": "35%",
+                    "color": "black"
                   },
                   "type": "state-badge"
                 }
@@ -326,14 +329,15 @@
                 {
                   "type": "gauge",
                   "entity": "sensor.bme680_pressure",
-                  "min": 1008.25,
-                  "max": 1018.25,
+                  "min": 1004,
+                  "max": 1021,
                   "name": "ATM Pressure",
                   "severity": {
-                    "green": 1013.5,
+                    "green": 1015,
                     "yellow": 1012,
-                    "red": 1011
-                  }
+                    "red": 1000
+                  },
+                  "needle": true
                 }
               ]
             },
@@ -341,11 +345,12 @@
               "type": "picture-elements",
               "elements": [
                 {
-                  "entity": "sensor.ds18b20_temp_sensor_0",
+                  "entity": "sensor.ds18b20_temp_sensor_0_2",
                   "style": {
                     "font-size": "12px",
                     "left": "72%",
-                    "top": "50%"
+                    "top": "50%",
+                    "color": "black"
                   },
                   "type": "state-label"
                 },
@@ -579,6 +584,14 @@
               "hours_to_show": 24,
               "refresh_interval": 0,
               "title": "Living room Temperature"
+            },
+            {
+              "hours_to_show": 48,
+              "graph": "line",
+              "type": "sensor",
+              "entity": "sensor.bme680_pressure",
+              "detail": 1,
+              "name": "Atmospheric pressure"
             }
           ]
         },
