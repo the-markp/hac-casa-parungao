@@ -3,3 +3,4 @@
 2022-08-24 10:32:53.456 ERROR (MainThread) [custom_components.sonoff.sonoff_cloud] Login error: {'error': 403, 'msg': 'Sign:oauthClient enable invalid'}
 2022-08-24 10:32:53.470 WARNING (MainThread) [custom_components.sonoff] Can't connect to eWeLink Cloud
 2022-08-24 10:32:55.793 WARNING (MainThread) [homeassistant.helpers.service] Unable to find referenced entities switch.sonoff_1001411df4 or it is/they are currently not available
+2022-08-24 10:35:12.214 WARNING (Recorder) [homeassistant.components.sensor.recorder] The normalized unit of sensor.rt_energy (kWh) does not match the unit of already compiled statistics (None). Generation of long term statistics will be suppressed unless the unit changes back to None. Go to https://my.home-assistant.io/redirect/developer_statistics to fix this
