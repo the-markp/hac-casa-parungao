@@ -3703,7 +3703,7 @@
         "name": null,
         "options": {},
         "original_device_class": "battery",
-        "original_icon": "mdi:battery-30",
+        "original_icon": "mdi:battery-80",
         "original_name": "S10E Battery Level",
         "platform": "mobile_app",
         "supported_features": 0,
@@ -4056,6 +4056,56 @@
         "supported_features": 0,
         "unique_id": "dallas-360114533ec5aa28",
         "unit_of_measurement": "°C"
+      },
+      {
+        "area_id": null,
+        "capabilities": {
+          "state_class": "total"
+        },
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.monthly_energy_cost",
+        "hidden_by": "integration",
+        "icon": null,
+        "id": "c00440190a79fcd29a6b7196a4f72463",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "monetary",
+        "original_icon": null,
+        "original_name": null,
+        "platform": "energy",
+        "supported_features": 0,
+        "unique_id": "sensor.monthly_energy_grid_cost",
+        "unit_of_measurement": "EUR"
+      },
+      {
+        "area_id": null,
+        "capabilities": {
+          "state_class": "total"
+        },
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.daily_energy_cost",
+        "hidden_by": "integration",
+        "icon": null,
+        "id": "42925a62c73f3646e5bb95c5bc593fea",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "monetary",
+        "original_icon": null,
+        "original_name": null,
+        "platform": "energy",
+        "supported_features": 0,
+        "unique_id": "sensor.daily_energy_grid_cost",
+        "unit_of_measurement": "PHP"
       }
     ]
   }

@@ -586,7 +586,7 @@
               "title": "Living room Temperature"
             },
             {
-              "hours_to_show": 48,
+              "hours_to_show": 4,
               "graph": "line",
               "type": "sensor",
               "entity": "sensor.bme680_pressure",
