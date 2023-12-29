@@ -1,5 +1,9 @@
-secrets.yaml
+debug1:
+home-assistant.log.1
 home-assistant_v2.db
-home-assistant_v2.db.corrupt.2022-08-21T01:39:39.629622+00:00
-home-assistant_v2.db-shm
 home-assistant_v2.db-wal
+secrets.yaml
+home-assistant.log
+home-assistant.log.fault
+home-assistant_v2.db-shm
+backups/*
