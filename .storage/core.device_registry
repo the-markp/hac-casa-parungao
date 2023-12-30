@@ -365,8 +365,8 @@
       },
       {
         "config_entries": [
-          "fbd2dbe9bf0724a3a26034c1445a45cd",
-          "d64cdffde11bf8eaa50961823fddf81c"
+          "d64cdffde11bf8eaa50961823fddf81c",
+          "fbd2dbe9bf0724a3a26034c1445a45cd"
         ],
         "connections": [
           [
@@ -498,7 +498,7 @@
         "manufacturer": "espressif",
         "model": "esp12e",
         "name": "fy_b10_0",
-        "sw_version": "2021.11.4 (Mar 22 2022, 21:28:54)",
+        "sw_version": "2023.11.6 (Dec 20 2023, 21:47:17)",
         "hw_version": null,
         "entry_type": null,
         "id": "a4a64bc9d471cc51c302715664de69a9",
@@ -675,21 +675,416 @@
         "name_by_user": null,
         "disabled_by": null,
         "configuration_url": null
-      }
-    ],
-    "deleted_devices": [
+      },
       {
-        "config_entries": [],
+        "config_entries": [
+          "57e7d235c2ca5d9dd08a2512442ba82f"
+        ],
         "connections": [],
         "identifiers": [
           [
-            "spotify",
-            "j0wa5h5go6hhv1vxlvpfxllxz"
+            "mobile_app",
+            "AD102A6F-B96E-5090-B215-4DE996D77E42"
           ]
         ],
-        "id": "d32ee2f67e0416c1131238ec35498094",
-        "orphaned_timestamp": 1661046360.9833412
+        "manufacturer": "Apple",
+        "model": "MacBookPro18,1",
+        "name": "Mark Parungao'MacBook Pro",
+        "sw_version": "14.2.1",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "fd906f0b8384151831a650b8e749e834",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "42444e2fe41ad9f64fbb91eca7e170a4"
+        ],
+        "connections": [
+          [
+            "mac",
+            "d8:f1:5b:11:22:3e"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": "espressif",
+        "model": "esp12e",
+        "name": "pzem_em_2",
+        "sw_version": "2023.11.6 (Dec 23 2023, 19:13:03)",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "53ab0dee50411ff5241be07e503b4e69",
+        "via_device_id": null,
+        "area_id": "54a6ca07583cf724fcd209da2c0ddd14",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "4047318f7f20e32a8c78b38e0c4f4729"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "E446AFE5-AEBD-4A3C-9329-6E9581F03E98"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone13,2",
+        "name": "Mark’s iPhone",
+        "sw_version": "17.2.1",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "8ebc1ac4f0d4157b0c619249f3bbf8eb",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "ebc4c84ef22d4ac599c7ps"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Smart Plug (b3glf8uyv3o3unxu)",
+        "name": "Speakers",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "f815cab61fcaec4a6a475b999c5fe21a",
+        "via_device_id": null,
+        "area_id": "mbr",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "eba65c17caafc4e20fm9ik"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Wifi Plug (jorlvalcdf5lz6qa)",
+        "name": "Lettuce",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "43587dd6673f6fec74cf6b4dcd5ee169",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "ebb7cb9890b596fb1dpkxr"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Smart IR (unsupported)",
+        "name": "Conductor",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "1d0fba2e615bc874db938e7e57613dde",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "eb91e7987410ad40c29sze"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Air Conditioner (unsupported)",
+        "name": "MBR AC",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "00efcf0746874b23feb552cfac49991e",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "eb6d323de1cd7b1686j15z"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "TV (unsupported)",
+        "name": "MBR TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "8c5cc3ed7ec6cb552ec98aa2f8dc4dfc",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "eb44b51bcc79b1bffclbor"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "SmartCutain (rur7qkagrhkovfta)",
+        "name": "Balcony",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "e56694d8dae02ea6f39b8a4f2bfeae75",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "eb04b222f0fbc4b7a4rkca"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Smart Plug (b3glf8uyv3o3unxu)",
+        "name": "Kitchen counter",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "998504f540731372059c882fa76ae64f",
+        "via_device_id": null,
+        "area_id": "54a6ca07583cf724fcd209da2c0ddd14",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "ebd95aae8caec23ee5ukpl"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Intelligent Doorbell (uv2un0vblqqdaahw)",
+        "name": "Doorbell",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "5f8fcd648ad97f68157b3ebc4864b4a1",
+        "via_device_id": null,
+        "area_id": "54a6ca07583cf724fcd209da2c0ddd14",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "68137224b4e62d1c9170"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "RGBW(勿删) (2nuwDqbTZIAV7JW6)",
+        "name": "Pilot",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "f492c87dfec0b5ded11d1c8dc094cc8a",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "eb644853a614967fc66lvm"
+          ]
+        ],
+        "manufacturer": "Tuya",
+        "model": "Wifi Plug (jorlvalcdf5lz6qa)",
+        "name": "Christmas tree",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "0b522914b012fd3caad876899b2a8ef5",
+        "via_device_id": null,
+        "area_id": "21cad7b1ae02405a8c6bc687fa13ce64",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "tysBa5kc3gcnCuNy81A"
+          ]
+        ],
+        "manufacturer": "tuya",
+        "model": "Tuya Scene",
+        "name": "AC initialize",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "27d05abaa713f528d9680047f8d34999",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "tysAS29Gv7jtGd84LQv"
+          ]
+        ],
+        "manufacturer": "tuya",
+        "model": "Tuya Scene",
+        "name": "AC shutdown",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "b073bc317c907b9ea73f47006ca33626",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "tyseplTCTiGAGGM5Im5"
+          ]
+        ],
+        "manufacturer": "tuya",
+        "model": "Tuya Scene",
+        "name": "AC power down",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "91768422daf6116611f0e510215ce4bb",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "tysn6irgAq3R9Gg56t3"
+          ]
+        ],
+        "manufacturer": "tuya",
+        "model": "Tuya Scene",
+        "name": "Cool room",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "1ad4339ee4ae2aeed4b90533a45a33dd",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
       }
-    ]
+    ],
+    "deleted_devices": []
   }
 }

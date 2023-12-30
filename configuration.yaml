@@ -51,6 +51,11 @@ sensor:                         #use sensor.integration to get kWH from power se
     name: rt_energy
     unit_prefix: k
     round: 2
+  - platform: integration
+    source: sensor.rt_power_2
+    name: solar_energy
+    unit_prefix: k
+    round: 2
 
 utility_meter:                  #use utility meter integration to generate daily and monthly energy counters
   daily_energy:
@@ -61,6 +66,9 @@ utility_meter:                  #use utility meter integration to generate daily
     cycle: monthly
   daily_water:
     source: sensor.main_water_line
+    cycle: daily
+  daily_solar:
+    source: sensor.solar_energy
     cycle: daily
 
 # List

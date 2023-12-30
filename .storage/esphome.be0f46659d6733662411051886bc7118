@@ -7,10 +7,10 @@
       "uses_password": true,
       "name": "fy_b10_0",
       "mac_address": "EC:FA:BC:5F:89:5B",
-      "compilation_time": "Mar 22 2022, 21:28:54",
+      "compilation_time": "Dec 20 2023, 21:47:17",
       "model": "esp12e",
       "has_deep_sleep": false,
-      "esphome_version": "2021.11.4",
+      "esphome_version": "2023.11.6",
       "project_name": "",
       "project_version": "",
       "webserver_port": 0
@@ -18,7 +18,7 @@
     "services": [],
     "api_version": {
       "major": 1,
-      "minor": 6
+      "minor": 9
     },
     "sensor": [
       {

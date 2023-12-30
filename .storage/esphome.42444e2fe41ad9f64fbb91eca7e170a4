@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.42444e2fe41ad9f64fbb91eca7e170a4",
+  "data": {
+    "device_info": {
+      "uses_password": true,
+      "name": "pzem_em_2",
+      "mac_address": "D8:F1:5B:11:22:3E",
+      "compilation_time": "Dec 23 2023, 19:13:03",
+      "model": "esp12e",
+      "has_deep_sleep": false,
+      "esphome_version": "2023.11.6",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 9
+    },
+    "sensor": [
+      {
+        "object_id": "rt_voltage",
+        "key": 3358696288,
+        "name": "RT Voltage",
+        "unique_id": "pzem_em_2sensorrt_voltage",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "voltage",
+        "unit_of_measurement": "V",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "rt_current",
+        "key": 3306492257,
+        "name": "RT Current",
+        "unique_id": "pzem_em_2sensorrt_current",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "current",
+        "unit_of_measurement": "A",
+        "accuracy_decimals": 3,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "rt_power",
+        "key": 3080247057,
+        "name": "RT Power",
+        "unique_id": "pzem_em_2sensorrt_power",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "power",
+        "unit_of_measurement": "W",
+        "accuracy_decimals": 2,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "frequency",
+        "key": 858531997,
+        "name": "Frequency",
+        "unique_id": "pzem_em_2sensorfrequency",
+        "disabled_by_default": false,
+        "icon": "mdi:current-ac",
+        "entity_category": 0,
+        "device_class": "",
+        "unit_of_measurement": "Hz",
+        "accuracy_decimals": 1,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      },
+      {
+        "object_id": "power_factor",
+        "key": 1214527994,
+        "name": "Power Factor",
+        "unique_id": "pzem_em_2sensorpower_factor",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "device_class": "power_factor",
+        "unit_of_measurement": "",
+        "accuracy_decimals": 2,
+        "force_update": false,
+        "state_class": 1,
+        "last_reset_type": 0
+      }
+    ],
+    "text_sensor": []
+  }
+}

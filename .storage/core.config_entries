@@ -223,7 +223,7 @@
         "domain": "esphome",
         "title": "Ignored",
         "data": {
-          "host": "192.168.1.224"
+          "host": "10.1.1.173"
         },
         "options": {},
         "pref_disable_new_entities": false,
@@ -330,7 +330,7 @@
         "domain": "esphome",
         "title": "son_basic_0",
         "data": {
-          "host": "192.168.1.24",
+          "host": "10.1.1.188",
           "port": 6053,
           "password": "0918"
         },
@@ -441,7 +441,7 @@
         "domain": "esphome",
         "title": "bme680_0",
         "data": {
-          "host": "192.168.1.23",
+          "host": "10.1.1.62",
           "port": 6053,
           "password": "0918"
         },
@@ -458,7 +458,7 @@
         "domain": "esphome",
         "title": "pzem_em_1",
         "data": {
-          "host": "192.168.1.21",
+          "host": "10.1.1.79",
           "port": 6053,
           "password": "0918"
         },
@@ -475,7 +475,7 @@
         "domain": "esphome",
         "title": "fy_b10_0",
         "data": {
-          "host": "192.168.1.221",
+          "host": "10.1.1.246",
           "port": 6053,
           "password": "0918"
         },
@@ -613,6 +613,110 @@
         "pref_disable_new_entities": false,
         "pref_disable_polling": false,
         "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "57e7d235c2ca5d9dd08a2512442ba82f",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Mark Parungao'MacBook Pro",
+        "data": {
+          "app_name": "Home Assistant",
+          "os_version": "14.2.1",
+          "app_data": {
+            "push_token": "f8ycagZn1kXpkPPbM_WjQ8:APA91bH4emW9Rahraq6u3PNTncznA2JgSIb5EWXxtQqpgu7NAGTEzZmOQOW3NX_07LlpNEV5RmZN266NrFn8KKpTqFsxvBTZJW8NgpnyIOLpmrn_e9LU9rNzr7hQniTqIRtQQWSOCfZY",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "supports_encryption": true,
+          "device_name": "Mark Parungao'MacBook Pro",
+          "device_id": "AD102A6F-B96E-5090-B215-4DE996D77E42",
+          "app_id": "io.robbie.HomeAssistant",
+          "app_version": "2023.12 (2023.499)",
+          "model": "MacBookPro18,1",
+          "manufacturer": "Apple",
+          "os_name": "macOS",
+          "webhook_id": "c6ba662b418fc384caf13dfa6400d2980958ae3296eddb42517584a91c3727a4",
+          "secret": "5474a58e2ca9bef45c07fcb7cd713304edcb18c14dce39dc6f886135279fd73e",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-AD102A6F-B96E-5090-B215-4DE996D77E42",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "42444e2fe41ad9f64fbb91eca7e170a4",
+        "version": 1,
+        "domain": "esphome",
+        "title": "pzem_em_2",
+        "data": {
+          "host": "10.1.1.118",
+          "port": 6053,
+          "password": "0918",
+          "noise_psk": ""
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "pzem_em_2",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4047318f7f20e32a8c78b38e0c4f4729",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Mark’s iPhone",
+        "data": {
+          "device_name": "Mark’s iPhone",
+          "os_name": "iOS",
+          "model": "iPhone13,2",
+          "manufacturer": "Apple",
+          "app_name": "Home Assistant",
+          "app_id": "io.robbie.HomeAssistant",
+          "supports_encryption": true,
+          "app_version": "2023.7 (2023.471)",
+          "os_version": "17.2.1",
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "cgc0RPk0Ak4Cjjw0Dofl4T:APA91bEYSPYv2_BnzVcgmGwoXNjZeiF_SG2L3SpylE8Hgxg1rUKYanjQLMXhvRcFww_hjX0xA2rkLMQSXcWbaEy-9CY0nbT_O8LKYJHl3g3k9ZsPh_52C2zwBvCbnASwg1LgeIG0BVeX"
+          },
+          "device_id": "E446AFE5-AEBD-4A3C-9329-6E9581F03E98",
+          "webhook_id": "c8f244d919b3acb6a232e1f8332c1abbd262d425d461c98782f6173c4b00bca1",
+          "secret": "0e44540c97137308a1fb08636a63e76494dd9f3f431558e162321f77b68de8d4",
+          "user_id": "91460b78d20a4d17a78bdb6736eb56c0",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-E446AFE5-AEBD-4A3C-9329-6E9581F03E98",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7e91dd0b75b5f4a7fb13f99abda34752",
+        "version": 1,
+        "domain": "tuya",
+        "title": "mdparungao@gmail.com",
+        "data": {
+          "endpoint": "https://openapi.tuyaus.com",
+          "auth_type": 0,
+          "access_id": "dv89nmu3jtrv5umf5rvg",
+          "access_secret": "7e6afeed727b44f3b54bbeb1d6967c3c",
+          "username": "mdparungao@gmail.com",
+          "password": ".mM200362711",
+          "country_code": "63",
+          "tuya_app_type": "smartlife"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "dhcp",
         "unique_id": null,
         "disabled_by": null
       }

@@ -17,6 +17,11 @@
         ],
         "flow_to": [],
         "cost_adjustment_day": 0.0
+      },
+      {
+        "type": "solar",
+        "stat_energy_from": "sensor.daily_solar",
+        "config_entry_solar_forecast": null
       }
     ],
     "device_consumption": []
