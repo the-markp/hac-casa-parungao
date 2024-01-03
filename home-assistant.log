@@ -12,3 +12,35 @@
 2024-01-03 21:56:46.927 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
 2024-01-03 21:57:32.699 WARNING (Thread-6) [pychromecast.socket_client] [2F North Bedroom(10.1.1.196):8009] Heartbeat timeout, resetting connection
 2024-01-03 21:57:53.255 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 21:58:58.277 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:00:13.292 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:01:38.306 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:03:13.326 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:04:58.343 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:06:31.346 WARNING (Thread-6) [pychromecast.socket_client] [2F North Bedroom(10.1.1.196):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:06:31.380 WARNING (Thread-7) [pychromecast.socket_client] [MBR TV(10.1.1.88):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:06:32.353 ERROR (MainThread) [homeassistant] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/aiohttp/http_websocket.py", line 676, in ping
+    await self._send_frame(message, WSMsgType.PING)
+  File "/usr/local/lib/python3.10/site-packages/aiohttp/http_websocket.py", line 646, in _send_frame
+    self._write(header + mask + message)
+  File "/usr/local/lib/python3.10/site-packages/aiohttp/http_websocket.py", line 663, in _write
+    raise ConnectionResetError("Cannot write to closing transport")
+ConnectionResetError: Cannot write to closing transport
+2024-01-03 22:06:53.514 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:09:53.252 WARNING (MainThread) [homeassistant.helpers.entity] Updating state for sensor.rt_current_2 (<class 'homeassistant.components.esphome.sensor.EsphomeSensor'>) took 91.018 seconds. Please create a bug report at https://github.com/home-assistant/core/issues?q=is%3Aopen+is%3Aissue+label%3A%22integration%3A+esphome%22
+2024-01-03 22:09:54.022 WARNING (Thread-6) [pychromecast.socket_client] [2F North Bedroom(10.1.1.196):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:09:54.024 WARNING (Thread-7) [pychromecast.socket_client] [MBR TV(10.1.1.88):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:09:59.525 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:11:39.715 WARNING (Thread-8) [pychromecast.socket_client] [senna tv(10.1.1.189):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:12:09.754 ERROR (Thread-8) [pychromecast.socket_client] [senna tv(10.1.1.189):8009] Failed to connect to service ServiceInfo(type='mdns', data='MiTV-AESP0-36ea356fe86b67e59c49b5a9725fbcb0._googlecast._tcp.local.'), retrying in 5.0s
+2024-01-03 22:12:14.568 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:12:36.134 WARNING (Thread-8) [pychromecast.socket_client] [senna tv(10.1.1.189):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:13:06.179 ERROR (Thread-8) [pychromecast.socket_client] [senna tv(10.1.1.189):8009] Failed to connect to service ServiceInfo(type='mdns', data='MiTV-AESP0-36ea356fe86b67e59c49b5a9725fbcb0._googlecast._tcp.local.'), retrying in 5.0s
+2024-01-03 22:14:39.591 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:17:14.626 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:19:59.650 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1
+2024-01-03 22:20:13.354 WARNING (Thread-8) [pychromecast.socket_client] [senna tv(10.1.1.189):8009] Heartbeat timeout, resetting connection
+2024-01-03 22:20:43.394 ERROR (Thread-8) [pychromecast.socket_client] [senna tv(10.1.1.189):8009] Failed to connect to service ServiceInfo(type='mdns', data='MiTV-AESP0-36ea356fe86b67e59c49b5a9725fbcb0._googlecast._tcp.local.'), retrying in 5.0s
+2024-01-03 22:22:54.672 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.outdoor_dine] Error from stream worker: Error opening stream (ERRORTYPE_110, Operation timed out) rtsp://****:****@192.168.1.234/live/ch00_1

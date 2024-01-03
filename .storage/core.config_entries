@@ -738,6 +738,23 @@
         "source": "import",
         "unique_id": "mdparungao@gmail.com",
         "disabled_by": null
+      },
+      {
+        "entry_id": "0f090124d0dd730c241efed8c4d7b3ad",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "MBR TV",
+        "data": {
+          "url": "http://10.1.1.88:16934",
+          "device_id": "uuid:ff3e3ffe-7d76-4976-b9b9-e7ff7ff2bffb",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:ff3e3ffe-7d76-4976-b9b9-e7ff7ff2bffb",
+        "disabled_by": null
       }
     ]
   }

@@ -1706,6 +1706,35 @@
         "name_by_user": null,
         "disabled_by": null,
         "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "0f090124d0dd730c241efed8c4d7b3ad"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:ff3e3ffe-7d76-4976-b9b9-e7ff7ff2bffb"
+          ]
+        ],
+        "identifiers": [
+          [
+            "dlna_dmr",
+            "uuid:ff3e3ffe-7d76-4976-b9b9-e7ff7ff2bffb"
+          ]
+        ],
+        "manufacturer": "Microsoft Corporation",
+        "model": "Windows Media Player",
+        "name": "MBR TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "2f8be9ad394c11f45a02291b7aee56fa",
+        "via_device_id": null,
+        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
       }
     ],
     "deleted_devices": []

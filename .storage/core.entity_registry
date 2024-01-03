@@ -7726,6 +7726,29 @@
         "supported_features": 0,
         "unique_id": "1000421b7a_pulseWidth",
         "unit_of_measurement": null
+      },
+      {
+        "area_id": null,
+        "capabilities": {},
+        "config_entry_id": "0f090124d0dd730c241efed8c4d7b3ad",
+        "device_class": null,
+        "device_id": "2f8be9ad394c11f45a02291b7aee56fa",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "media_player.mbr_tv_2",
+        "hidden_by": null,
+        "icon": null,
+        "id": "108cb3cec9dd12e801ef6b34acd9321e",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "MBR TV",
+        "platform": "dlna_dmr",
+        "supported_features": 0,
+        "unique_id": "uuid:ff3e3ffe-7d76-4976-b9b9-e7ff7ff2bffb",
+        "unit_of_measurement": null
       }
     ]
   }

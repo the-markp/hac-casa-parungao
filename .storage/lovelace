@@ -62,14 +62,24 @@
               "elements": [
                 {
                   "entity": "sensor.rt_power",
-                  "prefix": "Now using ",
+                  "prefix": "GRID: ",
                   "style": {
                     "font-size": "14px",
-                    "left": "25%",
+                    "left": "15%",
                     "top": "4%",
                     "color": "black"
                   },
-                  "suffix": " from the grid",
+                  "type": "state-label"
+                },
+                {
+                  "entity": "sensor.rt_power_2",
+                  "prefix": "SOLAR: ",
+                  "style": {
+                    "font-size": "14px",
+                    "left": "14%",
+                    "top": "8%",
+                    "color": "black"
+                  },
                   "type": "state-label"
                 },
                 {

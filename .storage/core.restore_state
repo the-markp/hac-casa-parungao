@@ -27,7 +27,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -53,7 +53,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -76,7 +76,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -99,7 +99,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -120,7 +120,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -141,7 +141,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -162,7 +162,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -183,7 +183,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -207,7 +207,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -239,7 +239,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -261,7 +261,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -283,7 +283,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -305,7 +305,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -332,12 +332,12 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rt_energy",
-        "state": "26911.33",
+        "state": "26912.59",
         "attributes": {
           "state_class": "total",
           "source": "sensor.rt_power",
@@ -346,16 +346,16 @@
           "icon": "mdi:chart-histogram",
           "friendly_name": "rt_energy"
         },
-        "last_changed": "2024-01-03T13:54:25.732548+00:00",
-        "last_updated": "2024-01-03T13:54:25.732548+00:00",
+        "last_changed": "2024-01-03T14:24:44.370220+00:00",
+        "last_updated": "2024-01-03T14:24:44.370220+00:00",
         "context": {
-          "id": "01HK7SN7A4VV76A444VE7ACDKA",
+          "id": "01HK7VCQAJTV8TT2T150X6M0HK",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -378,7 +378,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -400,7 +400,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -422,7 +422,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -444,7 +444,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -466,7 +466,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -488,7 +488,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -510,12 +510,12 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.daily_energy",
-        "state": "44.12",
+        "state": "45.38",
         "attributes": {
           "state_class": "total_increasing",
           "source": "sensor.rt_energy",
@@ -529,10 +529,10 @@
           "icon": "mdi:counter",
           "friendly_name": "daily_energy"
         },
-        "last_changed": "2024-01-03T13:54:30.467261+00:00",
-        "last_updated": "2024-01-03T13:54:30.467261+00:00",
+        "last_changed": "2024-01-03T14:24:44.371763+00:00",
+        "last_updated": "2024-01-03T14:24:44.371763+00:00",
         "context": {
-          "id": "01HK7SNBY3HYA268YADFHTTAJ3",
+          "id": "01HK7VCQAKMJ44ACKYRE9JS582",
           "parent_id": null,
           "user_id": null
         }
@@ -540,19 +540,19 @@
       "extra_data": {
         "native_value": {
           "__type": "<class 'decimal.Decimal'>",
-          "decimal_str": "44.12"
+          "decimal_str": "45.38"
         },
         "native_unit_of_measurement": "kWh",
         "last_period": "49.83",
         "last_reset": "2024-01-02T16:00:00.033423+00:00",
         "status": "collecting"
       },
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.monthly_energy",
-        "state": "145.70",
+        "state": "146.96",
         "attributes": {
           "state_class": "total_increasing",
           "source": "sensor.rt_energy",
@@ -566,10 +566,10 @@
           "icon": "mdi:counter",
           "friendly_name": "monthly_energy"
         },
-        "last_changed": "2024-01-03T13:54:30.476750+00:00",
-        "last_updated": "2024-01-03T13:54:30.476750+00:00",
+        "last_changed": "2024-01-03T14:24:44.372724+00:00",
+        "last_updated": "2024-01-03T14:24:44.372724+00:00",
         "context": {
-          "id": "01HK7SNBYCNWZF0FHQE68M74J4",
+          "id": "01HK7VCQAMNKJSRENB1E5TZJ1W",
           "parent_id": null,
           "user_id": null
         }
@@ -577,19 +577,19 @@
       "extra_data": {
         "native_value": {
           "__type": "<class 'decimal.Decimal'>",
-          "decimal_str": "145.70"
+          "decimal_str": "146.96"
         },
         "native_unit_of_measurement": "kWh",
         "last_period": "1473.04",
         "last_reset": "2023-12-31T16:00:11.617443+00:00",
         "status": "collecting"
       },
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.daily_water",
-        "state": "3664.65",
+        "state": "3682.62",
         "attributes": {
           "state_class": "total_increasing",
           "source": "sensor.main_water_line",
@@ -602,10 +602,10 @@
           "icon": "mdi:counter",
           "friendly_name": "daily_water"
         },
-        "last_changed": "2024-01-03T13:54:30.485994+00:00",
-        "last_updated": "2024-01-03T13:54:30.485994+00:00",
+        "last_changed": "2024-01-03T14:19:12.873026+00:00",
+        "last_updated": "2024-01-03T14:19:12.873026+00:00",
         "context": {
-          "id": "01HK7SNBYNVDW9VANVD3AF54WW",
+          "id": "01HK7V2KK9CK4M27QTY3SE8YBD",
           "parent_id": null,
           "user_id": null
         }
@@ -613,14 +613,14 @@
       "extra_data": {
         "native_value": {
           "__type": "<class 'decimal.Decimal'>",
-          "decimal_str": "3664.65"
+          "decimal_str": "3682.62"
         },
         "native_unit_of_measurement": "L/min",
         "last_period": "4886.50",
         "last_reset": "2024-01-02T16:00:00.014290+00:00",
         "status": "collecting"
       },
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -657,7 +657,7 @@
         "last_reset": "2024-01-02T16:00:00.052187+00:00",
         "status": "collecting"
       },
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -676,7 +676,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -695,7 +695,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -714,7 +714,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -733,7 +733,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -752,7 +752,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -773,7 +773,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -792,7 +792,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -811,7 +811,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -832,7 +832,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -852,7 +852,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -871,7 +871,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -891,7 +891,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -912,7 +912,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -932,7 +932,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -951,7 +951,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -971,7 +971,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -990,7 +990,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1010,7 +1010,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1029,7 +1029,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1048,7 +1048,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1069,7 +1069,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1089,7 +1089,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1110,7 +1110,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1129,7 +1129,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1148,7 +1148,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1167,7 +1167,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1188,7 +1188,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1208,7 +1208,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1229,7 +1229,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1248,7 +1248,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1267,7 +1267,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1286,7 +1286,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1307,7 +1307,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1327,7 +1327,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1349,7 +1349,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1368,7 +1368,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1387,7 +1387,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1406,7 +1406,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1428,7 +1428,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1448,7 +1448,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1469,7 +1469,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1488,7 +1488,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1507,7 +1507,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1526,7 +1526,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1547,7 +1547,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1567,7 +1567,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1588,7 +1588,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1607,7 +1607,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1627,7 +1627,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1646,7 +1646,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1665,7 +1665,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1684,7 +1684,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1703,7 +1703,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1722,7 +1722,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1741,7 +1741,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1760,7 +1760,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1781,7 +1781,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1800,7 +1800,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1819,7 +1819,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1838,7 +1838,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1859,7 +1859,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1879,7 +1879,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1901,7 +1901,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1920,7 +1920,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1939,7 +1939,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1958,7 +1958,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -1980,7 +1980,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2000,7 +2000,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2021,7 +2021,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2040,7 +2040,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2059,7 +2059,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2078,7 +2078,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2099,7 +2099,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2119,7 +2119,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2129,7 +2129,7 @@
           "Battery Provides Time Remaining": true,
           "BatteryHealth": "Good",
           "BatteryHealthCondition": "",
-          "Current": -225,
+          "Current": -298,
           "Current Capacity": 100,
           "DesignCycleCount": 1000,
           "Hardware Serial Number": "F5D20776L3U0VC5BH",
@@ -2151,15 +2151,15 @@
           "friendly_name": "Mark Parungao'MacBook Pro Internal Battery Level"
         },
         "last_changed": "2024-01-03T13:54:33.642475+00:00",
-        "last_updated": "2024-01-03T13:54:33.642475+00:00",
+        "last_updated": "2024-01-03T14:21:34.734390+00:00",
         "context": {
-          "id": "01HK7SNF1ADVA4749XDSAWNNYY",
+          "id": "01HK7V6Y4EMP6JV9TB58M4AFE4",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2169,7 +2169,7 @@
           "Battery Provides Time Remaining": true,
           "BatteryHealth": "Good",
           "BatteryHealthCondition": "",
-          "Current": -225,
+          "Current": -298,
           "Current Capacity": 100,
           "DesignCycleCount": 1000,
           "Hardware Serial Number": "F5D20776L3U0VC5BH",
@@ -2190,39 +2190,39 @@
           "friendly_name": "Mark Parungao'MacBook Pro Internal Battery State"
         },
         "last_changed": "2024-01-03T13:54:33.642969+00:00",
-        "last_updated": "2024-01-03T13:54:33.642969+00:00",
+        "last_updated": "2024-01-03T14:21:34.737055+00:00",
         "context": {
-          "id": "01HK7SNF1A68DAX9Y2EWXNB7VD",
+          "id": "01HK7V6Y4HK1ECD7PVJKAPAZ9A",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.mark_parungao_macbook_pro_storage",
-        "state": "80.87",
+        "state": "80.86",
         "attributes": {
-          "Available": "397.41 GB",
-          "Available (Important)": "411.88 GB",
-          "Available (Opportunistic)": "399.79 GB",
+          "Available": "397.39 GB",
+          "Available (Important)": "411.86 GB",
+          "Available (Opportunistic)": "399.76 GB",
           "Total": "494.38 GB",
           "unit_of_measurement": "% available",
           "icon": "mdi:database",
           "friendly_name": "Mark Parungao'MacBook Pro Storage"
         },
-        "last_changed": "2024-01-03T13:54:33.643458+00:00",
-        "last_updated": "2024-01-03T13:54:33.643458+00:00",
+        "last_changed": "2024-01-03T14:11:34.302882+00:00",
+        "last_updated": "2024-01-03T14:21:34.739347+00:00",
         "context": {
-          "id": "01HK7SNF1BAMR5G24WNRDAWZKY",
+          "id": "01HK7V6Y4KZYZREQB98AZA863W",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2247,7 +2247,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2266,7 +2266,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2285,7 +2285,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2306,7 +2306,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2331,7 +2331,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2346,16 +2346,16 @@
           "icon": "mdi:volume-low",
           "friendly_name": "Mark Parungao'MacBook Pro Active Audio Output"
         },
-        "last_changed": "2024-01-03T13:54:33.650692+00:00",
-        "last_updated": "2024-01-03T13:54:33.650692+00:00",
+        "last_changed": "2024-01-03T14:12:43.647809+00:00",
+        "last_updated": "2024-01-03T14:12:43.647809+00:00",
         "context": {
-          "id": "01HK7SNF1JFSRK3N9FEN6D8B9T",
+          "id": "01HK7TPQFZAT9ZX4S685M100QX",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2380,7 +2380,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2399,7 +2399,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2418,49 +2418,49 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.mark_parungao_macbook_pro_frontmost_app",
-        "state": "Terminal",
+        "state": "Home Assistant",
         "attributes": {
-          "Bundle Identifier": "com.apple.Terminal",
+          "Bundle Identifier": "io.robbie.HomeAssistant",
           "Is Hidden": false,
-          "Launch Date": "2024-01-03T12:24:40Z",
+          "Launch Date": "2024-01-03T13:26:13Z",
           "Owns Menu Bar": true,
           "icon": "mdi:traffic-light",
           "friendly_name": "Mark Parungao'MacBook Pro Frontmost App"
         },
-        "last_changed": "2024-01-03T13:54:33.652627+00:00",
-        "last_updated": "2024-01-03T13:54:33.652627+00:00",
+        "last_changed": "2024-01-03T14:16:21.525417+00:00",
+        "last_updated": "2024-01-03T14:16:21.525417+00:00",
         "context": {
-          "id": "01HK7SNF1MW9MDNN7QMVGH6T46",
+          "id": "01HK7TXC8NRSTBSQFNWK23CRWY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.mark_parungao_macbook_pro_last_update_trigger",
-        "state": "Signaled",
+        "state": "Periodic",
         "attributes": {
           "icon": "mdi:laptop",
           "friendly_name": "Mark Parungao'MacBook Pro Last Update Trigger"
         },
-        "last_changed": "2024-01-03T13:54:33.653111+00:00",
-        "last_updated": "2024-01-03T13:54:33.653111+00:00",
+        "last_changed": "2024-01-03T14:16:34.509367+00:00",
+        "last_updated": "2024-01-03T14:16:34.509367+00:00",
         "context": {
-          "id": "01HK7SNF1NF7AG6PM8RFVGBAQW",
+          "id": "01HK7TXRYD5PA1NGA3V5HF1Y2A",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2502,7 +2502,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2521,7 +2521,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2540,7 +2540,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2550,16 +2550,16 @@
           "icon": "mdi:volume-low",
           "friendly_name": "Mark Parungao'MacBook Pro Audio Output In Use"
         },
-        "last_changed": "2024-01-03T13:54:33.655131+00:00",
-        "last_updated": "2024-01-03T13:54:33.655131+00:00",
+        "last_changed": "2024-01-03T14:12:43.644340+00:00",
+        "last_updated": "2024-01-03T14:12:43.644340+00:00",
         "context": {
-          "id": "01HK7SNF1QFFJ0YHD9D137B7Z0",
+          "id": "01HK7TPQFWW6CBNA4E9RJP5QFC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2585,7 +2585,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2604,7 +2604,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2625,7 +2625,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2650,7 +2650,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2676,31 +2676,31 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.marks_iphone_storage",
-        "state": "40.42",
+        "state": "40.43",
         "attributes": {
           "Available": "22.88 GB",
-          "Available (Important)": "29.47 GB",
+          "Available (Important)": "29.48 GB",
           "Available (Opportunistic)": "25.82 GB",
           "Total": "63.87 GB",
           "unit_of_measurement": "% available",
           "icon": "mdi:database",
           "friendly_name": "Mark’s iPhone Storage"
         },
-        "last_changed": "2024-01-03T13:54:33.658002+00:00",
-        "last_updated": "2024-01-03T13:54:33.658002+00:00",
+        "last_changed": "2024-01-03T14:10:00.040143+00:00",
+        "last_updated": "2024-01-03T14:10:00.040143+00:00",
         "context": {
-          "id": "01HK7SNF1TM34X7FBXZRYR9NPD",
+          "id": "01HK7THQQ8RR6Y8394TDZRAMYX",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2719,7 +2719,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2739,7 +2739,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2758,7 +2758,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2777,7 +2777,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2796,7 +2796,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2823,7 +2823,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2848,7 +2848,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2867,7 +2867,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2886,7 +2886,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2912,7 +2912,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2931,7 +2931,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2950,7 +2950,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2969,7 +2969,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -2995,7 +2995,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3014,7 +3014,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3033,7 +3033,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3052,7 +3052,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3071,7 +3071,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3095,7 +3095,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3121,7 +3121,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3139,7 +3139,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3157,7 +3157,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3175,7 +3175,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3193,7 +3193,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
@@ -3211,7 +3211,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2024-01-03T13:54:41.033195+00:00"
+      "last_seen": "2024-01-03T14:24:55.936898+00:00"
     },
     {
       "state": {
