@@ -990,6 +990,78 @@
       },
       {
         "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "36ea356fe86b67e59c49b5a9725fbcb0"
+          ]
+        ],
+        "manufacturer": "Xiaomi",
+        "model": "MiTV-AESP0",
+        "name": "senna tv",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "53be58128a2c6afd86c50827496b2703",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "27d7638d108298d046f0c0b9aeae8eff"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "30fb25c53b8ea9ddaee0c9b8bb3bded9"
+          ]
+        ],
+        "manufacturer": "TCL",
+        "model": "Smart TV Pro",
+        "name": "MBR TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "c09b91f07c14529013c2be19d5f4565d",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7e91dd0b75b5f4a7fb13f99abda34752"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "tuya",
+            "tysCIW8UkV24nWcpJVU"
+          ]
+        ],
+        "manufacturer": "tuya",
+        "model": "Tuya Scene",
+        "name": "AC powerdown",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "be5794029ac4959d91ee7b1b398f6456",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
           "7e91dd0b75b5f4a7fb13f99abda34752"
         ],
         "connections": [],
@@ -1007,7 +1079,7 @@
         "entry_type": null,
         "id": "27d05abaa713f528d9680047f8d34999",
         "via_device_id": null,
-        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "area_id": null,
         "name_by_user": null,
         "disabled_by": null,
         "configuration_url": null
@@ -1031,7 +1103,7 @@
         "entry_type": null,
         "id": "b073bc317c907b9ea73f47006ca33626",
         "via_device_id": null,
-        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "area_id": null,
         "name_by_user": null,
         "disabled_by": null,
         "configuration_url": null
@@ -1055,7 +1127,7 @@
         "entry_type": null,
         "id": "91768422daf6116611f0e510215ce4bb",
         "via_device_id": null,
-        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "area_id": null,
         "name_by_user": null,
         "disabled_by": null,
         "configuration_url": null
@@ -1079,7 +1151,558 @@
         "entry_type": null,
         "id": "1ad4339ee4ae2aeed4b90533a45a33dd",
         "via_device_id": null,
-        "area_id": "be73a6cbdc254a2eb5231f3921ffe0c3",
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "48:55:19:77:53:4d"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001e1ef0c"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Bathroom hallway",
+        "sw_version": "3.7.0",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "7a1c5c7946cf12688e81aa6162793f86",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "48:55:19:60:16:ed"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001da7c50"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "TX3C",
+        "name": "Staircase",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "c79fcc01696d85b8f7d531c4d40a829c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "9c:9c:1f:9f:ff:1e"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001df5a9c"
+          ]
+        ],
+        "manufacturer": "coolkit",
+        "model": "0185",
+        "name": "Gate",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "5ff46c9e03d85b6b84bb8a0ade9ddcdf",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "4c:eb:d6:e7:22:03"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001d5d580"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Bar daylight",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "982e584d262aa03fd99d6a92cbed9401",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "9c:9c:1f:a2:24:00"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001d67121"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Bar accent",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "5982ee07ec6424626a9b5fb6a63e428c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "4c:eb:d6:b7:db:24"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "100162b2d2"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "TX2C",
+        "name": "Family Hall panel",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "31f329e6793ae1d2fb945bf0b265677f",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "4c:eb:d6:ca:95:62"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "10016e536c"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "MBR Balcony",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "304ad010d864ffc312234f1eb0c519ea",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "7c:87:ce:a4:6c:79"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "100151741c"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Villa String",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "73840d5c1a6bc8c6c5b8e6631d1639e1",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "70:03:9f:9b:e3:8c"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "10015116bb"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Terrace lights",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "96ebcb628cfef51a3eb11ee82b62725e",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "7c:87:ce:a5:33:a0"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001521348"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Porch downlight",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "e20e24a328101a6ecc6a112fa49ba561",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "70:03:9f:9b:66:95"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001526d76"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "MINI",
+        "name": "North Balcony ",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "ad406203ab7d823707bedf4b8a6e26ba",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:47:9b:57"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "100152e4bb"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "MINI",
+        "name": "South Perimeter Lights",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "271d29c9646623d078adf84a610fa1e8",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "70:03:9f:9b:b1:c6"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "100151816b"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "South Balcony",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "20f62e7fa3d216e21e3bcb78d39baa18",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "70:03:9f:9b:dc:95"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "100151e359"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Garage Fence Lights",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "4c4a9c80be5115c2c679e45bf75e8bf6",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "7c:87:ce:a3:6b:d1"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "10015215e9"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "North Perimeter Lights",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "262e0de9d6e5decfb44bdff91c1452f5",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "9c:9c:1f:8b:31:5d"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001418752"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Gazebo pendant",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "2b913f84dafb25005ac1944b29e4397d",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "9c:9c:1f:8b:2f:a1"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001411df4"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "BASICR2",
+        "name": "Wall lamps",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "825dbd61540d188658832809bda66cf8",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "9c:9c:1f:8d:45:21"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1001407104"
+          ]
+        ],
+        "manufacturer": "SONOFF",
+        "model": "MINI",
+        "name": "Tree lights",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "a7ba686c7f538e8a448de001b3b5cdf5",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cfa88b1e445f95e4310de3f3f6250e28"
+        ],
+        "connections": [
+          [
+            "mac",
+            "dc:4f:22:45:80:da"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonoff",
+            "1000421b7a"
+          ]
+        ],
+        "manufacturer": "coolkit",
+        "model": "0186",
+        "name": "Christmas tree",
+        "sw_version": "3.7.6",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "e1d48310ad93b4ae5e2c085a3e32ebb3",
+        "via_device_id": null,
+        "area_id": null,
         "name_by_user": null,
         "disabled_by": null,
         "configuration_url": null

@@ -719,6 +719,25 @@
         "source": "dhcp",
         "unique_id": null,
         "disabled_by": null
+      },
+      {
+        "entry_id": "cfa88b1e445f95e4310de3f3f6250e28",
+        "version": 1,
+        "domain": "sonoff",
+        "title": "mdparungao@gmail.com",
+        "data": {
+          "username": "mdparungao@gmail.com",
+          "password": ".mM200362711"
+        },
+        "options": {
+          "mode": "auto",
+          "debug": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": "mdparungao@gmail.com",
+        "disabled_by": null
       }
     ]
   }

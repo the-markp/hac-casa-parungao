@@ -1,0 +1,2114 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "sonoff/mdparungao@gmail.com.json",
+  "data": [
+    {
+      "name": "Bathroom hallway",
+      "deviceid": "1001e1ef0c",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "",
+        "itCredential": "1B0RCsz8k8iZbf5f",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:03:3a:9d:eb",
+        "mac": "d0:27:03:3a:9d:ea",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "0077534D",
+        "staMac": "48:55:19:77:53:4D"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -20,
+        "members": [],
+        "roomid": "6372f6d49a32c30008276764"
+      },
+      "shareTo": [],
+      "devicekey": "c73b6ceb-d99b-444b-85de-0bf641296122",
+      "online": false,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "Fox River State Penitentiary",
+        "bssid": "50:0f:f5:25:94:e1",
+        "switch": "off",
+        "fwVersion": "3.7.0",
+        "rssi": -50,
+        "staMac": "48:55:19:77:53:4D",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Staircase",
+      "deviceid": "1001da7c50",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 8,
+        "description": "T0EU3C、T1EU3C、T2EU3C、T3EU3C\nT0UK3C、T1UK3C、T2UK3C、T3UK3C\nT0US3C、                  T2US3C、T3US3C",
+        "itCredential": "5EwxXJgDN1YNmdeA",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:03:2b:b8:73",
+        "mac": "d0:27:03:2b:b8:72",
+        "ui": "三通道开关",
+        "modelInfo": "5c700fa6cc248c47441fd240",
+        "model": "PSF-B04-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "006016ED",
+        "staMac": "48:55:19:60:16:ED"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "TX3C",
+      "tags": {
+        "m_3204_mdpa": "on",
+        "ck_channel_name": {
+          "0": "Cove",
+          "1": "Corner pin",
+          "2": "Wall pin"
+        }
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -19,
+        "members": [],
+        "roomid": "6372f6d49a32c30008276764"
+      },
+      "shareTo": [],
+      "devicekey": "039a7276-5a4d-4b57-862b-bf215b4e722e",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "5c:02:14:bd:c7:1b",
+        "fwVersion": "3.7.6",
+        "staMac": "48:55:19:60:16:ED",
+        "rssi": -74,
+        "init": 1,
+        "lock": 0,
+        "configure": [
+          {
+            "startup": "off",
+            "outlet": 0
+          },
+          {
+            "startup": "off",
+            "outlet": 1
+          },
+          {
+            "startup": "off",
+            "outlet": 2
+          },
+          {
+            "startup": "off",
+            "outlet": 3
+          }
+        ],
+        "pulses": [
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 0
+          },
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 1
+          },
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 2
+          },
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 3
+          }
+        ],
+        "switches": [
+          {
+            "switch": "on",
+            "outlet": 0
+          },
+          {
+            "switch": "on",
+            "outlet": 1
+          },
+          {
+            "switch": "off",
+            "outlet": 2
+          },
+          {
+            "switch": "off",
+            "outlet": 3
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "timers": [
+          {
+            "mId": "0ab78363-b947-f96a-9408-1166bfeb1a19",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on",
+              "outlet": 2
+            }
+          },
+          {
+            "mId": "5ec98559-2356-5e1c-a545-34c13efc777d",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off",
+              "outlet": 0
+            }
+          },
+          {
+            "mId": "ee7a1d1b-aa91-edc9-325a-f703099fc852",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off",
+              "outlet": 1
+            }
+          },
+          {
+            "mId": "14538bdf-b700-0d31-e275-e1464c636f58",
+            "type": "repeat",
+            "at": "0 16 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off",
+              "outlet": 2
+            }
+          },
+          {
+            "mId": "8bce4ea1-54ed-ec79-e618-e1688b258a9d",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on",
+              "outlet": 1
+            }
+          },
+          {
+            "mId": "122b292c-57fe-3c6a-0e61-d8a678c3eda9",
+            "type": "repeat",
+            "at": "0 11 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on",
+              "outlet": 0
+            }
+          }
+        ],
+        "longOffline": 1
+      },
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": true,
+      "deviceFeature": {}
+    },
+    {
+      "name": "Gate",
+      "deviceid": "1001df5a9c",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "0815固件产品",
+        "itCredential": "LpE77m38jNwjLxLj",
+        "brandId": "59e0dbc25c1af3a660cc1ac0",
+        "apmac": "d0:27:03:35:75:0b",
+        "mac": "d0:27:03:35:75:0a",
+        "ui": "单通道插座",
+        "modelInfo": "5a9656c8d2b32e7d7a387f10",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳酷宅科技有限公司",
+        "chipid": "009FFF1E",
+        "staMac": "9C:9C:1F:9F:FF:1E"
+      },
+      "brandName": "coolkit",
+      "brandLogo": "",
+      "showBrand": false,
+      "productModel": "0185",
+      "tags": {
+        "m_3204_mdpa": "on",
+        "deviceIconType": 1
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -18,
+        "members": [],
+        "roomid": "6228593c06942a00099a13b3"
+      },
+      "shareTo": [],
+      "devicekey": "226186e8-1d78-4a28-9568-ec6fef8ef2f3",
+      "online": false,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "Fox River State Penitentiary",
+        "bssid": "04:95:e6:2d:b3:01",
+        "switch": "off",
+        "fwVersion": "3.7.6",
+        "rssi": -61,
+        "staMac": "9C:9C:1F:9F:FF:1E",
+        "startup": "off",
+        "init": 1,
+        "pulse": "on",
+        "pulseWidth": 500,
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Bar daylight",
+      "deviceid": "1001d5d580",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "",
+        "itCredential": "zW9T7SXxdgDQhDtY",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:03:22:6a:d3",
+        "mac": "d0:27:03:22:6a:d2",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00E72203",
+        "staMac": "4C:EB:D6:E7:22:03"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1,
+        "offlineNotify": 0
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -17,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "0c6a9d17-ad09-42ac-bdc3-ed5b19d29cee",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b2:f1",
+        "switch": "off",
+        "fwVersion": "3.7.6",
+        "rssi": -83,
+        "staMac": "4C:EB:D6:E7:22:03",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Bar accent",
+      "deviceid": "1001d67121",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "",
+        "itCredential": "zW9T7SXxdgDQhDtY",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:03:23:a2:15",
+        "mac": "d0:27:03:23:a2:14",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00A22400",
+        "staMac": "9C:9C:1F:A2:24:00"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -16,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "07dd1cfa-b0b3-4a28-a3be-e1ce05b5b2eb",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "cc:2d:21:e9:d6:51",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -79,
+        "staMac": "9C:9C:1F:A2:24:00",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "15ca401e-ce05-a0b5-2495-cb13d24f2fc8",
+            "type": "repeat",
+            "at": "30 20 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "a08628b0-a2be-b73d-b356-991d79eac773",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Family Hall panel",
+      "deviceid": "100162b2d2",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 7,
+        "description": "20211229011",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:c5:62:f5",
+        "mac": "d0:27:02:c5:62:f4",
+        "ui": "双通道开关",
+        "modelInfo": "5c700fa3cc248c47441fd23f",
+        "model": "PSF-B04-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00B7DB24",
+        "staMac": "4C:EB:D6:B7:DB:24"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "TX2C",
+      "tags": {
+        "m_3204_mdpa": "on",
+        "ck_channel_name": {
+          "0": "FH hallway",
+          "1": "FH balcony"
+        }
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -15,
+        "members": [],
+        "roomid": "6372f6d49a32c30008276764"
+      },
+      "shareTo": [],
+      "devicekey": "293517e2-b2d8-4d81-bcee-3cdd9991e64a",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "5c:02:14:bd:c7:1b",
+        "fwVersion": "3.7.6",
+        "staMac": "4C:EB:D6:B7:DB:24",
+        "rssi": -68,
+        "init": 1,
+        "lock": 0,
+        "configure": [
+          {
+            "startup": "off",
+            "outlet": 0
+          },
+          {
+            "startup": "off",
+            "outlet": 1
+          },
+          {
+            "startup": "off",
+            "outlet": 2
+          },
+          {
+            "startup": "off",
+            "outlet": 3
+          }
+        ],
+        "pulses": [
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 0
+          },
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 1
+          },
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 2
+          },
+          {
+            "pulse": "off",
+            "width": 1000,
+            "outlet": 3
+          }
+        ],
+        "switches": [
+          {
+            "switch": "on",
+            "outlet": 0
+          },
+          {
+            "switch": "on",
+            "outlet": 1
+          },
+          {
+            "switch": "off",
+            "outlet": 2
+          },
+          {
+            "switch": "off",
+            "outlet": 3
+          }
+        ],
+        "timers": [
+          {
+            "mId": "3b5dbbb1-8489-e536-8bdf-5c773eb5161f",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off",
+              "outlet": 1
+            }
+          },
+          {
+            "mId": "4c9bbff0-f66a-a605-5410-cfd653b62514",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on",
+              "outlet": 1
+            }
+          },
+          {
+            "mId": "c17dbb52-5de9-eac7-3e88-55e69f5a42c7",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on",
+              "outlet": 0
+            }
+          },
+          {
+            "mId": "6812463f-d736-79d5-a845-66a31abc79d2",
+            "type": "repeat",
+            "at": "0 11 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off",
+              "outlet": 0
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": true,
+      "deviceFeature": {}
+    },
+    {
+      "name": "MBR Balcony",
+      "deviceid": "10016e536c",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20220415003",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:dc:a4:29",
+        "mac": "d0:27:02:dc:a4:28",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00CA9562",
+        "staMac": "4C:EB:D6:CA:95:62"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -14,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "364998f2-8bd4-4b9a-a61b-6f9ae7c718a9",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "50:0f:f5:25:94:e1",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -83,
+        "staMac": "4C:EB:D6:CA:95:62",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "43b4f786-2e42-b686-74d4-ba719ce5c2e7",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "13d5e070-9449-715f-cade-8a9225c32797",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Villa String",
+      "deviceid": "100151741c",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014006",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a2:e5:89",
+        "mac": "d0:27:02:a2:e5:88",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00A46C79",
+        "staMac": "7C:87:CE:A4:6C:79"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -13,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "65a2a3b3-b413-4a14-917c-c9432e5c4b5c",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "00:00:00:00:00:00",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -34,
+        "staMac": "7C:87:CE:A4:6C:79",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "8eaffa35-d075-2f29-7a38-48ba303f52df",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "822e73e9-7a89-0104-3a94-c3e7b657d3f9",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Terrace lights",
+      "deviceid": "10015116bb",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014006",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a2:2a:c7",
+        "mac": "d0:27:02:a2:2a:c6",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "009BE38C",
+        "staMac": "70:03:9F:9B:E3:8C"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -12,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "893bcf46-16c0-4b19-931d-40de5d8df57e",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b2:f9",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -76,
+        "staMac": "70:03:9F:9B:E3:8C",
+        "startup": "on",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "19bdbd9d-6a74-547b-2cce-57b388b72327",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "2b7e9518-45e3-0762-33ed-6c0671e57aeb",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Porch downlight",
+      "deviceid": "1001521348",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014006",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a4:23:e1",
+        "mac": "d0:27:02:a4:23:e0",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00A533A0",
+        "staMac": "7C:87:CE:A5:33:A0"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -11,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "7c4a457e-239d-4622-8eba-a1d01d7f3ea9",
+      "online": false,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "Fox River State Penitentiary",
+        "bssid": "04:95:e6:2d:b2:f9",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -86,
+        "staMac": "7C:87:CE:A5:33:A0",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "0beb8582-d335-560e-4ffa-0802580c87a0",
+            "type": "repeat",
+            "at": "30 21 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "41586394-3ae4-e559-b6bb-25eaa2678571",
+            "type": "repeat",
+            "at": "15 7 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "North Balcony ",
+      "deviceid": "1001526d76",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014008",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a4:d8:3d",
+        "mac": "d0:27:02:a4:d8:3c",
+        "ui": "单通道插座",
+        "modelInfo": "5c700fdfcc248c47441fd24d",
+        "model": "PSF-BD1-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "009B6695",
+        "staMac": "70:03:9F:9B:66:95"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "MINI",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -10,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "3793ea25-e6f8-4d4a-b040-e4f34057cad1",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "sledOnline": "on",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -61,
+        "staMac": "70:03:9F:9B:66:95",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "swMode": 2,
+        "swCtrlReverse": "off",
+        "timers": [
+          {
+            "mId": "648225f8-85e2-d9bb-29f5-1538cbbabb42",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "c3a9d3df-1ea5-2f92-fe68-add495aa89f0",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "only_device": {
+          "ota": "success"
+        },
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b3:01",
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "South Perimeter Lights",
+      "deviceid": "100152e4bb",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014008",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a5:c6:c7",
+        "mac": "d0:27:02:a5:c6:c6",
+        "ui": "单通道插座",
+        "modelInfo": "5c700fdfcc248c47441fd24d",
+        "model": "PSF-BD1-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00479B57",
+        "staMac": "E8:DB:84:47:9B:57"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "MINI",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -9,
+        "members": [],
+        "roomid": "6228593c06942a00099a13b3"
+      },
+      "shareTo": [],
+      "devicekey": "8a9c48b4-d801-4ee8-921d-27fb800fa02c",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "sledOnline": "on",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -91,
+        "staMac": "E8:DB:84:47:9B:57",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "swMode": 2,
+        "swCtrlReverse": "off",
+        "timers": [
+          {
+            "mId": "378dabe0-a0d2-64b1-af2e-43117e10a5ce",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "7eebe658-7aaf-2f18-93a3-919b22bd806b",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "only_device": {
+          "ota": "success"
+        },
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b2:f9",
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "South Balcony",
+      "deviceid": "100151816b",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014006",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a3:00:27",
+        "mac": "d0:27:02:a3:00:26",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "009BB1C6",
+        "staMac": "70:03:9F:9B:B1:C6"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -8,
+        "members": []
+      },
+      "shareTo": [],
+      "devicekey": "8b39063e-b580-4cd6-8af2-5c46fb15c204",
+      "online": false,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "Fox River State Penitentiary",
+        "bssid": "04:95:e6:2d:b2:f9",
+        "switch": "off",
+        "fwVersion": "3.7.6",
+        "rssi": -77,
+        "staMac": "70:03:9F:9B:B1:C6",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "e7399577-3274-4856-ff52-cde07cbd20cf",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "fdddc89f-5c93-e2bb-3421-b4d63a6259e4",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Garage Fence Lights",
+      "deviceid": "100151e359",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014006",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a3:c4:03",
+        "mac": "d0:27:02:a3:c4:02",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "009BDC95",
+        "staMac": "70:03:9F:9B:DC:95"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -7,
+        "members": [],
+        "roomid": "6228593c06942a00099a13b3"
+      },
+      "shareTo": [],
+      "devicekey": "578eee6d-04ec-4735-879f-6c0dd410b5df",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b3:01",
+        "switch": "off",
+        "fwVersion": "3.7.6",
+        "rssi": -45,
+        "staMac": "70:03:9F:9B:DC:95",
+        "startup": "off",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "4c38933f-a5fc-1343-8466-a0f420213e6a",
+            "type": "repeat",
+            "at": "30 20 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "dba4f355-295c-1431-2761-e3fd8c73127d",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "North Perimeter Lights",
+      "deviceid": "10015215e9",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20211014006",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:a4:29:23",
+        "mac": "d0:27:02:a4:29:22",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "00A36BD1",
+        "staMac": "7C:87:CE:A3:6B:D1"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -6,
+        "members": [],
+        "roomid": "6228593c06942a00099a13b3"
+      },
+      "shareTo": [],
+      "devicekey": "79e9f14f-37ef-4ae4-91fd-91f7c6d1c9b6",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b2:f1",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -57,
+        "staMac": "7C:87:CE:A3:6B:D1",
+        "startup": "on",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "e7cd223f-2f0f-90fa-04a2-53e64034e7ac",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "29281283-02c6-7158-c036-2abe8ed5e028",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Gazebo pendant",
+      "deviceid": "1001418752",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20210715002",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:83:0b:f5",
+        "mac": "d0:27:02:83:0b:f4",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "008B315D",
+        "staMac": "9C:9C:1F:8B:31:5D"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on"
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -5,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "5d36b9fa-3d44-48aa-84cf-b4232a7cc465",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "cc:2d:21:e9:d6:51",
+        "switch": "on",
+        "fwVersion": "3.7.6",
+        "rssi": -83,
+        "staMac": "9C:9C:1F:8B:31:5D",
+        "startup": "on",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "a96348dd-9a8d-6ff2-d87e-a32e4afdb582",
+            "type": "repeat",
+            "at": "0 18 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "8dc008c5-8145-aa2a-f75c-61c501c80a53",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Wall lamps",
+      "deviceid": "1001411df4",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20210715002",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:82:39:39",
+        "mac": "d0:27:02:82:39:38",
+        "ui": "单通道插座",
+        "modelInfo": "5c700f76cc248c47441fd234",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "008B2FA1",
+        "staMac": "9C:9C:1F:8B:2F:A1"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "BASICR2",
+      "tags": {
+        "m_3204_mdpa": "on",
+        "disable_timers": [
+          {
+            "mId": "b445c94f-9bc5-6e0e-2d1e-cadbf57c37ba",
+            "type": "repeat",
+            "at": "30 10 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ]
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -4,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "cd6f3473-d7aa-41a7-a639-e52fc60b38b4",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "only_device": {
+          "ota": "success"
+        },
+        "sledOnline": "on",
+        "ssid": "SONA",
+        "bssid": "04:95:e6:2d:b2:f1",
+        "switch": "off",
+        "fwVersion": "3.7.6",
+        "rssi": -50,
+        "staMac": "9C:9C:1F:8B:2F:A1",
+        "startup": "on",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "timers": [
+          {
+            "mId": "bf98f22e-8f95-a9ea-dbd5-fe141a4a1106",
+            "type": "repeat",
+            "at": "0 13 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          }
+        ],
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Tree lights",
+      "deviceid": "1001407104",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "uiid": 1,
+        "description": "20210715001",
+        "brandId": "5c4c1aee3a7d24c7100be054",
+        "apmac": "d0:27:02:80:df:59",
+        "mac": "d0:27:02:80:df:58",
+        "ui": "单通道插座",
+        "modelInfo": "5c700fdfcc248c47441fd24d",
+        "model": "PSF-BD1-GL",
+        "manufacturer": "深圳松诺技术有限公司",
+        "chipid": "008D4521",
+        "staMac": "9C:9C:1F:8D:45:21"
+      },
+      "brandName": "SONOFF",
+      "brandLogo": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+      "showBrand": true,
+      "productModel": "MINI",
+      "tags": {
+        "m_3204_mdpa": "on",
+        "disable_timers": []
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -3,
+        "members": [],
+        "roomid": "6253d1c41bb5fc000962955e"
+      },
+      "shareTo": [],
+      "devicekey": "02044031-ccb3-4764-938b-d90fa44069f4",
+      "online": true,
+      "params": {
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "version": 8,
+        "sledOnline": "on",
+        "switch": "off",
+        "fwVersion": "3.7.6",
+        "rssi": -61,
+        "staMac": "9C:9C:1F:8D:45:21",
+        "startup": "on",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "swMode": 2,
+        "swCtrlReverse": "off",
+        "timers": [
+          {
+            "mId": "160d6aac-493a-f6f2-1363-d2f903ab48fa",
+            "type": "repeat",
+            "at": "0 13 * * 6,0,1,2,3,4,5",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          },
+          {
+            "mId": "03b3b914-1070-cb14-ce27-0874f597c464",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          }
+        ],
+        "only_device": {
+          "ota": "success"
+        },
+        "ssid": "SONA",
+        "bssid": "cc:2d:21:e9:d6:51",
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    },
+    {
+      "name": "Christmas tree",
+      "deviceid": "1000421b7a",
+      "apikey": "be7737a5-3869-4e19-9688-7935e8873204",
+      "extra": {
+        "model": "PSA-B01-GL",
+        "ui": "单通道插座",
+        "uiid": 1,
+        "description": "WO1899",
+        "manufacturer": "深圳酷宅科技有限公司",
+        "mac": "d0:27:00:84:34:44",
+        "apmac": "d0:27:00:84:34:45",
+        "modelInfo": "5a9656cbd2b32e7d7a387f11",
+        "brandId": "59e0dbc25c1af3a660cc1ac0",
+        "staMac": "DC:4F:22:45:80:DA",
+        "chipid": "004580DA"
+      },
+      "brandName": "coolkit",
+      "brandLogo": "",
+      "showBrand": false,
+      "productModel": "0186",
+      "tags": {
+        "m_3204_mdpa": "on",
+        "disable_timers": []
+      },
+      "devConfig": {},
+      "settings": {
+        "opsNotify": 0,
+        "opsHistory": 1,
+        "alarmNotify": 1,
+        "wxAlarmNotify": 0,
+        "wxOpsNotify": 0,
+        "wxDoorbellNotify": 0,
+        "appDoorbellNotify": 1
+      },
+      "devGroups": [],
+      "family": {
+        "familyid": "5f100cd41f804600087f9468",
+        "index": -1,
+        "roomid": "5f100cd41f804600087f9465"
+      },
+      "shareTo": [],
+      "devicekey": "8ed77f1c-211d-4c9f-9338-a0f136e75512",
+      "online": true,
+      "params": {
+        "rssi": -67,
+        "staMac": "DC:4F:22:45:80:DA",
+        "startup": "off",
+        "fwVersion": "3.7.6",
+        "switch": "on",
+        "timers": [
+          {
+            "mId": "922a1e37-efa1-3888-aa60-0a2640df19fe",
+            "type": "repeat",
+            "at": "30 9 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "on"
+            }
+          },
+          {
+            "mId": "d2f6ac46-d133-20a5-c1ec-9754613b59c3",
+            "type": "repeat",
+            "at": "0 14 * * 0,1,2,3,4,5,6",
+            "coolkit_timer_type": "repeat",
+            "enabled": 1,
+            "do": {
+              "switch": "off"
+            }
+          }
+        ],
+        "version": 8,
+        "sledOnline": "on",
+        "init": 1,
+        "pulse": "off",
+        "pulseWidth": 500,
+        "only_device": {
+          "ota": "success"
+        },
+        "ssid": "SONA",
+        "bssid": "bc:c0:0f:80:98:00",
+        "bindInfos": {
+          "gaction": [
+            "be7737a5-3869-4e19-9688-7935e8873204_ewelinkGoogleHome"
+          ]
+        },
+        "rstReason": 0,
+        "exccause": 0,
+        "epc1": 0,
+        "epc2": 0,
+        "epc3": 0,
+        "excvaddr": 0,
+        "depc": 0,
+        "longOffline": 1
+      },
+      "denyFeatures": [
+        "extSwitchMode"
+      ],
+      "isSupportGroup": true,
+      "isSupportedOnMP": true,
+      "isSupportChannelSplit": false,
+      "wxModelId": "05Gkq9_vqnmgylS_2UvXCQ",
+      "deviceFeature": {}
+    }
+  ]
+}

@@ -72,7 +72,7 @@ utility_meter:                  #use utility meter integration to generate daily
     cycle: daily
 
 # List
-shopping_list:
+#shopping_list:
 
 #Sonoff
 sonoff:
